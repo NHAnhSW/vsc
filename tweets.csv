@@ -1,0 +1,2875 @@
+#,_id,author,created,id,repoInfo,text
+1,655084d1a86bf372d4391d4e,hack_git,2023-11-11T12:14:17.000Z,1723313191763984563,"{issues=0, cloneDir=./data/CVE-2021-43609-POC, ownerName=d5sec, repoName=CVE-2021-43609-POC, stars=4, forks=1}","CVE-2021-43609
+
+A SQLi in a sort parameter of Spiceworks. The full exploit chain is SQLi -&gt; file read -&gt; RCE.
+
+https://t.co/5DwmM2aoRa
+
+#cve #cybersecurity #infosec https://t.co/1tg4q9qrE7"
+2,655084d6a86bf372d4391d4f,francescofaenzi,2023-11-11T05:21:10.000Z,1723209228910006599,"{forks=9, issues=0, cloneDir=./data/PatchaPalooza, ownerName=xaitax, repoName=PatchaPalooza, stars=118}","#microsoft #patchmanagement #patchtuesday #CVE #exploit
+#TrustEverybodyButCutTheCards
+
+https://t.co/mNPEZSGkkm
+https://t.co/15WLn7VYwt https://t.co/dlOLmuhAZm"
+3,655084e7a86bf372d4391d50,DhiyaneshDK,2023-11-09T20:43:37.000Z,1722716597154873773,"{ownerName=projectdiscovery, repoName=nuclei-templates, stars=7245, forks=2225, issues=139, cloneDir=./data/nuclei-templates}","🚨Checkout the newly added #CVE Nuclei Templates !
+
+[CVE-2020-24701] OX Appsuite - XSS
+[CVE-2022-35653] Moodle LTI module - XSS
+[CVE-2023-1719] Bitrix Component - XSS
+
+https://t.co/9n0mfnNTUR
+
+#bugbounty #xss #cve #pdteam #hackwithautomation https://t.co/zRGHPMMspy"
+4,655084e9a86bf372d4391d51,TodayCyberNews,2023-11-09T10:23:30.000Z,1722560539547840543,"{cloneDir=./data/CVE-2023-46604, ownerName=sule01u, repoName=CVE-2023-46604, stars=19, forks=4, issues=0}","☄️ CVE-2023-46604: Apache ActiveMQ RCE
+
+The vulnerability allows arbitrary shell commands to be executed using serialized class types in the OpenWire protocol 👺
+
+ 📣 Link to PoC:
+https://t.co/jeieLiNsgk
+
+#cve #rce #exploit #Cybersecurity #infosec"
+5,65508506a86bf372d4391d52,0xor0ne,2023-11-09T08:00:38.000Z,1722524582807011597,"{cloneDir=./data/linux_kernel_cves, ownerName=nluedtke, repoName=linux_kernel_cves, stars=680, forks=65, issues=69}","Project that keeps track of upstream Linux kernel CVEs:
+
+https://t.co/YTvATpUJKe
+Github Repository: https://t.co/t1FdkzYdfS
+
+#Linux #kernel #cve https://t.co/pQsnqOkrIS"
+6,65508509a86bf372d4391d53,hack_git,2023-11-07T07:58:00.000Z,1721799144572882956,"{issues=0, cloneDir=./data/CVE-2023-41425, ownerName=prodigiousMind, repoName=CVE-2023-41425, stars=5, forks=0}","CVE-2023-41425
+
+Cross Site Scripting vulnerability in Wonder CMS v.3.2.0 thru v.3.4.2 allows a remote attacker to execute arbitrary code via a crafted script uploaded to the installModule component.
+
+https://t.co/5lEh7QOoUM
+
+#cve #cybersecurity #infosec https://t.co/o2gFiUZPlN"
+7,6550850da86bf372d4391d54,hack_git,2023-11-06T19:45:00.000Z,1721614679166857652,"{cloneDir=./data/CVE-2023-45158, ownerName=Evan-Zhangyf, repoName=CVE-2023-45158, stars=2, forks=1, issues=0}","CVE-2023-45158
+
+web2py notifySendHandler os command injection
+
+https://t.co/fAPZeoRVgi
+
+#cve #cybersecurity #infosec https://t.co/6rbi4dZLDI"
+8,65508510a86bf372d4391d55,hack_git,2023-11-06T17:04:00.000Z,1721574162559599095,"{cloneDir=./data/CVE-2022-0847-eBPF, ownerName=h4ckm310n, repoName=CVE-2022-0847-eBPF, stars=3, forks=0, issues=0}","CVE-2022-0847-eBPF
+
+An eBPF program to detect and defense attacks on CVE-2022-0847 (DirtyPipe)
+
+https://t.co/gobdepq6gb
+
+#cve #cybersecurity #infosec https://t.co/Gbsj5zwGGf"
+9,65508512a86bf372d4391d56,0DayCyberSec,2023-11-06T11:03:01.000Z,1721483319882240485,"{ownerName=X1r0z, repoName=ActiveMQ-RCE, stars=140, forks=16, issues=2, cloneDir=./data/ActiveMQ-RCE}","🔥CVE-2023-46604🔥: Apache ActiveMQ RCE through unauthenticated deserialization
+
+PoC bellow:
+https://t.co/0DfCsjvbwC
+
+#Pentest #CVE #Apache"
+10,65508514a86bf372d4391d57,TodayCyberNews,2023-11-06T07:36:50.000Z,1721431431283691650,"{forks=7, issues=0, cloneDir=./data/CVE-2023-22518, ownerName=sanjai-AK47, repoName=CVE-2023-22518, stars=20}","Confluence CVE-2023-22518
+An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization Vulnerability
+
+https://t.co/ta0IxopYVs
+
+#confluence #cve #bugbounty https://t.co/FumZa2qJyk"
+11,65508517a86bf372d4391d58,hack_git,2023-11-06T07:17:00.000Z,1721426438618771633,"{issues=0, cloneDir=./data/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ, ownerName=SaumyajeetDas, repoName=CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ, stars=41, forks=9}","CVE-2023-46604
+
+Achieving a Reverse Shell Exploit for Apache ActiveMQ
+
+https://t.co/wnnfdqbRmW
+
+#cve #cybersecurity #infosec https://t.co/g1JMheFM24"
+12,6550851aa86bf372d4391d59,kondah_ha,2023-11-05T17:57:07.000Z,1721225142972338521,"{cloneDir=./data/application-security, ownerName=mouadk, repoName=application-security, stars=2, forks=0, issues=0}","Unpacking the Apache ActiveMQ Exploit (CVE-2023-46604) : An awsome blogpost by @deepkondah
+ https://t.co/IIy6NPqqKc
+
+You can find the POC link here : https://t.co/d5bzVaorkm
+
+#CVE-2023-46604"
+13,6550851ca86bf372d4391d5a,0DayCyberSec,2023-11-05T10:54:07.000Z,1721118691868180803,"{repoName=LocalPotato, stars=562, forks=82, issues=0, cloneDir=./data/LocalPotato, ownerName=decoder-it}","⚠️LocalPotato⚠️:  Local Windows LPE NTLM reflection attack that targets local authentication.
+
+SMB scenario fixed by Microsoft on January 2023 #CVE-2023-21746.
+
+HTTP/WebDAV still unpatched.
+
+https://t.co/fmTViqKu5m"
+14,6550851ea86bf372d4391d5b,hack_git,2023-11-05T08:37:00.000Z,1721084183479787592,"{cloneDir=./data/CVE-2021-36393-Exploit, ownerName=T0X1Cx, repoName=CVE-2021-36393-Exploit, stars=10, forks=1, issues=0}","CVE-2021-36393 Exploit
+
+This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.
+
+https://t.co/cj9ImhaVO0
+
+#cve #cybersecurity #infosec https://t.co/NzvxcLLxjZ"
+15,65508522a86bf372d4391d5c,onhexgroup,2023-11-05T05:24:09.000Z,1721035652840460528,"{stars=115, forks=9, issues=0, cloneDir=./data/Vulnerable-WordPress, ownerName=onhexgroup, repoName=Vulnerable-WordPress}","New Release  #Vulnerable_WordPress! (October 2023) .
+We have published this version under the name ""Shah Goli"".
+plugins: 273  
+Vuls: 317
+
+https://t.co/LdeOHfNdXp 
+
+https://t.co/5SDDip0KD9
+
+#wordpress #bugbounty #exploit #cve"
+16,65508524a86bf372d4391d5d,hack_git,2023-11-05T00:18:00.000Z,1720958606068080797,"{cloneDir=./data/test_cve-2023-46747, ownerName=nvansluis, repoName=test_cve-2023-46747, stars=6, forks=2, issues=0}","CVE-2023-46747
+
+Python script to test if a F5 BIG-IP is vulnerable for CVE-2023-46747. When vulnerable a user account with administrator rights is added.
+
+https://t.co/zKWRmGaZfd
+
+#cve #cybersecurity #infosec https://t.co/ZZHq9dszrx"
+17,65508527a86bf372d4391d5e,freedomf0x,2023-11-04T07:41:00.000Z,1720707702727626977,"{forks=40, issues=0, cloneDir=./data/CVE-2023-36745, ownerName=N1k0la-T, repoName=CVE-2023-36745, stars=113}","CVE-2023-36745: Microsoft Exchange Server RCE
+#CVE-2023-36745
+
+https://t.co/Ga9Q7xb1nT
+
+PoC: https://t.co/NCYA7DQU87"
+18,6550852ca86bf372d4391d5f,marqsecurity,2023-11-02T10:21:58.000Z,1720023437203161381,"{ownerName=Cyber-Wo0dy, repoName=CVE-2023-46501, stars=7, forks=0, issues=0, cloneDir=./data/CVE-2023-46501}","CVE-2023-46501  BoltWire v6.03 - Improper Access Control  https://t.co/LicrYaAwUj
+#cve #cybersecurity #infosec https://t.co/1vSMfuYstF"
+19,6550852ea86bf372d4391d60,hack_git,2023-11-02T10:21:05.000Z,1720023214175195232,"{cloneDir=./data/CVE-2023-46747-RCE, ownerName=W01fh4cker, repoName=CVE-2023-46747-RCE, stars=105, forks=24, issues=0}","CVE-2023-46747-RCE
+
+F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability.
+
+https://t.co/xaCLWFXMa3
+
+#cve #cybersecurity #infosec https://t.co/rFDen7Tjbw"
+20,65508531a86bf372d4391d61,hack_git,2023-11-02T08:19:00.000Z,1719992490042806526,"{cloneDir=./data/CVE-2023-5412, ownerName=RandomRobbieBF, repoName=CVE-2023-5412, stars=3, forks=0, issues=0}","CVE-2023-5412
+
+WordPress Image horizontal reel scroll slideshow &lt;=13.2 - Authenticated SQL Injection via Shortcode
+
+https://t.co/3HGtmVIfcw
+
+#cve #cybersecurity #infosec https://t.co/BjXsJTjjUa"
+21,65508536a86bf372d4391d62,hetmehtaa,2023-11-01T20:37:10.000Z,1719815870829265296,"{issues=0, cloneDir=./data/CVE-2023-46747-POC, ownerName=AliBrTab, repoName=CVE-2023-46747-POC, stars=6, forks=4}","CVE-2023-5044:
+Kubernetes ingress-nginx &lt;1.9.0 - API command injection
+https://t.co/efNoGZccIB
+https://t.co/W4I0jvUpkC
+
+CVE-2023-46747:
+F5 BIG-IP unauthenticated RCE and authentication bypass
+https://t.co/oAVQjlUIZk
+
+#cve #infosec #cybersecurity"
+22,65508558a86bf372d4391d63,CVEannounce,2023-10-30T16:42:00.000Z,1719031910851088553,"{cloneDir=./data/Ideas, ownerName=CVEProject, repoName=Ideas, stars=9, forks=2, issues=8}","Have an innovative idea or a new feature request to enhance the #CVE Program and help us better serve the broader community? 
+ 
+Please use our new “CVE Program Ideas” repository at https://t.co/wMIZErjreW to submit your suggestion. 
+ 
+We look forward to hearing from you! @CVEnew"
+23,6550855aa86bf372d4391d64,Securi3yTalent,2023-10-28T13:57:36.000Z,1718265764590072233,"{issues=4, cloneDir=./data/Upload_Bypass, ownerName=sAjibuu, repoName=Upload_Bypass, stars=555, forks=104}","Upload_Bypass v2
+File upload restrictions bypass, by using different bug bounty techniques covered in Hacktricks
+https://t.co/UKapccfVV4
+
+#insosec #securityTalrnt #bugbounty #firewall #security #bugbountytip #bugbounty #burpsuite #fileUploads #vul #CVE https://t.co/fd4oEQPROb"
+24,6550855da86bf372d4391d65,Wh1t3_Ow1,2023-10-27T09:42:01.000Z,1717839057349210461,"{cloneDir=./data/CVE-2023-44487, ownerName=bcdannyboy, repoName=CVE-2023-44487, stars=187, forks=40, issues=1}","Many web servers are vulnerable to rapid reset #DDoS attacks  (#CVE-2023-44487). To check if your server is at risk, you can use this Proof of Concept:  https://t.co/cGTkmTdoJ3   #CVE202344487 #Cybersec https://t.co/ycamqMEAFE"
+25,6550855fa86bf372d4391d66,hack_git,2023-10-27T06:33:34.000Z,1717791630516728063,"{issues=0, cloneDir=./data/Worpress-CVE-2023-5360, ownerName=phankz, repoName=Worpress-CVE-2023-5360, stars=12, forks=3}","CVE-2023-5360
+
+Auto shell upload #WordPress royal elementor 1.3.78 shell upload
+
+https://t.co/zhyJXJi5sr
+
+#cve #cybersecurity #infosec https://t.co/E6AGIBCGQb"
+26,65508562a86bf372d4391d67,hack_git,2023-10-27T06:21:33.000Z,1717788606427808200,"{forks=16, issues=0, cloneDir=./data/cve-2023-36802, ownerName=Nero22k, repoName=cve-2023-36802, stars=76}","CVE-2023-36802
+
+Windows 10/11 MSKSSRV.SYS Exploit
+
+https://t.co/Df95mFECqk
+
+#cve #cybersecurity #infosec https://t.co/gmLlZ3Sazo"
+27,65508591a86bf372d4391d68,5tuxnet,2023-10-27T03:59:06.000Z,1717752759309709554,"{cloneDir=./data/cve, ownerName=trickest, repoName=cve, stars=5649, forks=716, issues=13}","This is a GOLD mine!
+
+A repo with almost every publicly available #CVE proof of concept (PoC), by @trick3st 
+
+https://t.co/oLwrcwkdXx"
+28,65508598a86bf372d4391d69,TodayCyberNews,2023-10-26T21:05:49.000Z,1717648753962975472,"{cloneDir=./data/CVE-2023-20198-Scanner, ownerName=Shadow0ps, repoName=CVE-2023-20198-Scanner, stars=27, forks=4, issues=0}","Cisco IOS XE Device Scanner for CVE-2023-20198 &amp; CVE-2023-20273
+
+Webshell fingerprinting scanner designed to identify implants on Cisco IOS XE WebUIs affected by CVE-2023-20198 and CVE-2023-20273.
+
+Author: Shadow0ps
+
+Link: https://t.co/wVX783rhsQ
+
+#cisco #cve #webshell  #blueteam https://t.co/1o6Gogms38"
+29,655085a1a86bf372d4391d6a,7h3h4ckv157,2023-10-22T17:22:51.000Z,1716143089172336756,"{forks=243, issues=0, cloneDir=./data/Awesome-Cybersecurity-Handbooks, ownerName=0xsyr0, repoName=Awesome-Cybersecurity-Handbooks, stars=1887}","Hey hackers, 
+Here's an amazing repo, truly helpful ♥️ 🎉💯
+
+Source: https://t.co/woafXnx8GA 
+
+#infosec #Hacking #redteam #Pentesting #pwn #CVE #CyberSecurityAwareness #cybersecuritytips #CyberSec"
+30,655085a3a86bf372d4391d6b,hack_git,2023-10-21T10:36:30.000Z,1715678440987250845,"{issues=0, cloneDir=./data/CVE-2023-28432, ownerName=yTxZx, repoName=CVE-2023-28432, stars=2, forks=2}","CVE-2023-28432
+
+MinIO information disclosure
+
+https://t.co/HUaYnvmwlE
+
+#cve #cybersecurity #infosec https://t.co/9f8D2vWVjL"
+31,655085a6a86bf372d4391d6c,solidsnakee_,2023-10-20T22:01:21.000Z,1715488399887564820,"{repoName=CVE-2023-34051, stars=57, forks=10, issues=0, cloneDir=./data/CVE-2023-34051, ownerName=horizon3ai}","CVE-2023-34051 es una derivación de autenticación que omite el parche para VMSA-2023-0001.
+
+La conf escribe un trabajo cron para crear un shell inverso. Asegúrese de cambiar el payload para adaptarlo a su entorno.
+#cve #vulnerability #PoC #VMware #Aria https://t.co/iHEoKusgd9"
+32,655085aaa86bf372d4391d6d,TodayCyberNews,2023-10-20T14:12:31.000Z,1715370413944111174,"{ownerName=chompie1337, repoName=Windows_MSKSSRV_LPE_CVE-2023-36802, stars=128, forks=36, issues=0, cloneDir=./data/Windows_MSKSSRV_LPE_CVE-2023-36802}","☄️CVE-2023-36802 Local Privilege Escalation
+
+Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability
+
+📣PoC link:
+https://t.co/Ys3atHm73H
+
+#cve #privesc #windows"
+33,655085ada86bf372d4391d6e,Guardia_School,2023-10-20T09:33:36.000Z,1715300221293404613,"{forks=5, issues=0, cloneDir=./data/cisco-ios-xe-implant-scanner, ownerName=vulncheck-oss, repoName=cisco-ios-xe-implant-scanner, stars=35}","Et voici un scanner si vous voulez vérifier si la vuln est présente sur votre infrastructure. 
+
+#CVE #Cisco #Scanner 
+
+https://t.co/lSsl54NeEf"
+34,655085b0a86bf372d4391d6f,hack_git,2023-10-20T08:42:32.000Z,1715287372974227722,"{ownerName=thedarknessdied, repoName=CVE-2023-4169_CVE-2023-3306_CVE-2023-4415, stars=20, forks=2, issues=0, cloneDir=./data/CVE-2023-4169_CVE-2023-3306_CVE-2023-4415}","CVE-2023-4169
+
+Ruijie RG-EW1200G - Administrator Password/API/SYS/SET_PASSWD/ACCESS CONTROL
+
+https://t.co/xuMGIC5Xs6
+
+#cve #cybersecurity #infosec https://t.co/QqXJGCBY1j"
+35,655085b3a86bf372d4391d70,hack_git,2023-10-20T08:28:47.000Z,1715283911310258461,"{repoName=CVE-2021-44168, stars=16, forks=5, issues=0, cloneDir=./data/CVE-2021-44168, ownerName=0xhaggis}","CVE-2021-44168
+
+#Exploit CVE-2021-44168 to drop a shell on a Fortigate firewall and enable its access via LD_PRELOAD tricks that execute when running some of Fortigate's CLI commands. You get a root shell.
+
+https://t.co/oSNzdfsEvs
+
+#cve #cybersecurity #infosec https://t.co/2TyjQ43m9P"
+36,655085b6a86bf372d4391d71,realcyberpanda,2023-10-19T21:41:59.000Z,1715121136579527132,"{cloneDir=./data/cyberpanda.github.io, ownerName=cyberpanda, repoName=cyberpanda.github.io, stars=4, forks=0, issues=1}","Just launched a CVE reference tool for fast and easy access to information.
+Check it out at: https://t.co/p2ysLQhrlB
+
+Join me on GitHub to collaborate: https://t.co/JAgZu5Isya
+
+Let's make it even more valuable together! #OpenSource #CVE #CyberSecurity #CyberPanda https://t.co/8G3b1T1Ikj"
+37,655085baa86bf372d4391d72,singe,2023-10-19T16:29:05.000Z,1715042396382089260,"{issues=1, cloneDir=./data/CVE-2023-20198, ownerName=Atea-Redteam, repoName=CVE-2023-20198, stars=17, forks=16}",Our @orangecyberdef CERT team is sharing the script they wrote to perform some of the mass scanning for the Cisco IOS XE exploitation #CVE-2023-20198 https://t.co/0zkQ8vh2Sn It was modified from Atea Redteam's version to work better at scale https://t.co/JIcDdDvJiv
+38,655085bda86bf372d4391d73,TodayCyberNews,2023-10-19T14:13:36.000Z,1715008297126985896,"{repoName=CVE-2023-33733, stars=82, forks=18, issues=0, cloneDir=./data/CVE-2023-33733, ownerName=c53elyas}","🔃 Recent PDF rendering vulnerabilities
+ 
+If we see places where PDF is rendered and we have the opportunity to influence its elements, we pay attention to vulnerabilities in:
+
+ReportLab:
+https://t.co/HEqyiljY5L
+
+Dompdf:
+https://t.co/9sjZXTKD2q
+
+#CyberSecurity  #cve #bugbounty https://t.co/wyTYrFPih7"
+39,655085c4a86bf372d4391d74,hack_git,2023-10-18T13:16:00.000Z,1714631415122329742,"{forks=4, issues=0, cloneDir=./data/CVE-2023-38545, ownerName=d0rb, repoName=CVE-2023-38545, stars=19}","CVE-2023-38545
+
+This script is designed to exploit a vulnerability in a SOCKS proxy server. It crafts a malicious HTTP response that, when sent to the target SOCKS server, can execute arbitrary commands on the system
+
+https://t.co/5m5Nt7yy8P
+
+#cve #cybersecurity #infosec https://t.co/4KZhqAQPar"
+40,655085cba86bf372d4391d75,cracbot,2023-10-17T21:43:54.000Z,1714396843852116240,"{cloneDir=./data/saml, ownerName=crewjam, repoName=saml, stars=873, forks=437, issues=61}","CVE-2023-45683 (CVSS:7.1, HIGH) is Awaiting Analysis. https://t.co/YProULy0qJ is a saml library for the go language. In affected versions the package does not validate the AC..https://t.co/wqh2LJlNAU #cybersecurityawareness #cybersecurity #CVE #infosec #hacker #nvd #mitre"
+41,655085d1a86bf372d4391d76,hack_git,2023-10-17T10:39:00.000Z,1714229518234177909,"{ownerName=po6ix, repoName=POC-for-CVE-2023-41993, stars=155, forks=25, issues=9, cloneDir=./data/POC-for-CVE-2023-41993}","CVE-2023-41993
+
+Apple webkit code execution vulnerability. 
+
+PoC exploit for CVE-2023-41993. It's written only up to addrof/fakeobj. Reliability is not great. If you want to make it better, try to spray structure IDs.
+
+https://t.co/rLFUDHpN4F
+
+#cve #cybersecurity #infosec https://t.co/u7qpR2MEVN"
+42,655085d5a86bf372d4391d77,hack_git,2023-10-17T09:22:45.000Z,1714210329410879948,"{cloneDir=./data/vsftpd-2.3.4-exploit, ownerName=vinetsuicide, repoName=vsftpd-2.3.4-exploit, stars=13, forks=1, issues=0}","vsftpd-2.3.4-exploit
+
+backdoor exploit for vsftpd 2.3.4 on python
+
+https://t.co/vVh0xacGui
+
+#cve #cybersecurity #infosec https://t.co/2i0y7KaaWB"
+43,655085d8a86bf372d4391d78,hack_git,2023-10-17T09:20:46.000Z,1714209831341445236,"{cloneDir=./data/CVE-2023-3710, ownerName=CwEeR313, repoName=CVE-2023-3710, stars=1, forks=0, issues=0}","CVE-2023-3710
+
+Honeywell PM43 Printer OS Command Injection
+
+https://t.co/mpckhWeyae
+
+#cve #cybersecurity #infosec https://t.co/nKXK8lmx2Y"
+44,655085daa86bf372d4391d79,hack_git,2023-10-17T09:05:02.000Z,1714205868789539045,"{cloneDir=./data/xortigate-cve-2023-27997, ownerName=lexfo, repoName=xortigate-cve-2023-27997, stars=44, forks=6, issues=0}","CVE-2023-27997
+
+Exploit for xortigate (CVE-2023-27997). It is not usable ""as-is"" and serves educational purposes.
+
+https://t.co/fLmxIxDr0Y
+
+#cve #cybersecurity #infosec #pentesting https://t.co/2N17pBW6rZ"
+45,655085e2a86bf372d4391d7a,0xc7m,2023-10-13T09:09:07.000Z,1712757346789708030,"{cloneDir=./data/CVE-2023-22515, ownerName=Chocapikk, repoName=CVE-2023-22515, stars=105, forks=23, issues=0}","Exploit the #CVE-2023-22515 vulnerability in Confluence, which allows for unauthorized access to Confluence Server and Confluence Data Center instances
+#POC #github #infosec
+https://t.co/gCblnonRTF"
+46,655085e6a86bf372d4391d7b,hack_git,2023-10-12T07:44:06.000Z,1712373561803907568,"{cloneDir=./data/CVE-2023-2640-CVE-2023-32629, ownerName=g1vi, repoName=CVE-2023-2640-CVE-2023-32629, stars=24, forks=5, issues=0}","CVE-2023-2640, CVE-2023-32629
+
+""GameOver(lay)"" Ubuntu Privilege Escalation
+
+https://t.co/TKqRZgNgUh
+
+#cve #cybersecurity #infosec https://t.co/XKh9d1rXHQ"
+47,655085eca86bf372d4391d7c,hack_git,2023-10-12T07:19:53.000Z,1712367470130946147,"{stars=46, forks=10, issues=0, cloneDir=./data/CVE-2023-42820, ownerName=C1ph3rX13, repoName=CVE-2023-42820}","CVE-2023-42820
+
+PoC for CVE-2023-42820 JumpServer Password Reset Vulnerability
+
+https://t.co/NGmf1VIzVc
+
+#cve #cybersecurity #infosec https://t.co/stQFkqgCWU"
+48,655085eea86bf372d4391d7d,hack_git,2023-10-12T07:13:52.000Z,1712365953537696155,"{forks=11, issues=0, cloneDir=./data/CVE-2023-36723, ownerName=Wh04m1001, repoName=CVE-2023-36723, stars=59}","CVE-2023-36723 
+
+This is PoC for arbitrary directory creation bug in Container Manager service
+
+https://t.co/oR7mtmYeER
+
+#cve #cybersecurity #infosec https://t.co/WNNiTda3Md"
+49,655085f0a86bf372d4391d7e,hack_git,2023-10-12T07:10:53.000Z,1712365202010726434,"{stars=70, forks=4, issues=0, cloneDir=./data/CVE-2023-22515-Scan, ownerName=ErikWynter, repoName=CVE-2023-22515-Scan}","Scanner for CVE-2023-22515
+
+Broken Access Control Vulnerability in Atlassian Confluence
+
+https://t.co/6SVMOag5vR
+
+#cve #cybersecurity #infosec https://t.co/Mw6VGvSMmw"
+50,655085f3a86bf372d4391d7f,hack_git,2023-10-12T07:07:59.000Z,1712364475385303520,"{issues=1, cloneDir=./data/CVE-2023-4911, ownerName=leesh3288, repoName=CVE-2023-4911, stars=350, forks=55}","CVE-2023-4911
+
+PoC of CVE-2023-4911 ""Looney Tunables""
+
+• https://t.co/piKAfOczYk
+• https://t.co/XgsxXl58hi
+
+#cve #cybersecurity #infosec https://t.co/GEHiFd0iRZ"
+51,655085f6a86bf372d4391d80,hack_git,2023-10-12T07:06:24.000Z,1712364076926480627,"{ownerName=Boogipop, repoName=MetabaseRceTools, stars=30, forks=2, issues=0, cloneDir=./data/MetabaseRceTools}","MetabaseRceTools
+
+Metabase Rce Tools CVE-2023-38646
+
+https://t.co/Cw2isGEEzJ
+
+#cve #cybersecurity #infosec https://t.co/MhAXoltxeg"
+52,655085f9a86bf372d4391d81,Wh1t3_Ow1,2023-10-12T07:02:20.000Z,1712363050366357608,"{ownerName=WhiteOwl-Pub, repoName=PoC-JetBrains-TeamCity-CVE-2023-42793, stars=2, forks=0, issues=0, cloneDir=./data/PoC-JetBrains-TeamCity-CVE-2023-42793}","i wrote a proof of concept for #TeamCity #JetBrains vulnerability  (#CVE-2023-42793), this #PoC is capable of creating new admin credentials on  vulnerable servers. github: https://t.co/QQ1tAePTUI #RCE #unauth #remote #cyberSec"
+53,65508609a86bf372d4391d82,MHimken,2023-10-11T06:11:27.000Z,1711987858628612519,"{stars=16, forks=5, issues=0, cloneDir=./data/WinRE-Customization, ownerName=MHimken, repoName=WinRE-Customization}","Stardate 101373.56 - still no sign of Microsoft actually patching WinRE against the now 6 month old #CVE-2023-24932 issue called ""Black Lotus"".
+
+Please patch folks!
+Latest Safe-OS: KB5031476
+Guidance: https://t.co/RbbYSFX5sB
+Script: https://t.co/A1jqlfAViT https://t.co/HVpLzDaMGL"
+54,6550860fa86bf372d4391d83,TheHackForce,2023-10-10T05:30:23.000Z,1711615134743789868,"{stars=2, forks=1, issues=0, cloneDir=./data/CVE-2023-36163, ownerName=TraiLeR2, repoName=CVE-2023-36163}","CVE-2023-36163
+
+Cross Site Scripting vulnerability in IP-DOT BuildaGate v.BuildaGate5 allows a remote attacker to execute arbitrary code via a crafted script to the mc parameter of the URL.
+
+https://t.co/YcR0eGtNgQ
+
+#cve #cybersecurity #infosec"
+55,65508612a86bf372d4391d84,hack_git,2023-10-08T07:52:36.000Z,1710926149084184904,"{cloneDir=./data/ghostscript-CVE-2023-43115, ownerName=jostaub, repoName=ghostscript-CVE-2023-43115, stars=6, forks=2, issues=0}","CVE-2023-43115
+
+Artifex Ghostscript GhostPDL gdevijs.c Privilege Escalation
+
+https://t.co/a7JSMPWxQX
+
+#cve #cybersecurity #infosec https://t.co/HLGGBGtq9Q"
+56,65508619a86bf372d4391d85,hack_git,2023-10-06T10:48:14.000Z,1710245576619573635,"{forks=1, issues=0, cloneDir=./data/CVE-2023-44962, ownerName=ggb0n, repoName=CVE-2023-44962, stars=2}","CVE-2023-44962
+
+Uploading archive files containing symbolic links in upload-cover-image*pl can leak some of the content of the linked files
+
+https://t.co/g4S1A6cVrX
+
+#cve #cybersecurity #infosec https://t.co/3s3uyJGCcW"
+57,6550861ea86bf372d4391d86,hack_git,2023-10-05T11:48:55.000Z,1709898457094185122,"{forks=3, issues=0, cloneDir=./data/CVE-2023-43284, ownerName=MateusTesser, repoName=CVE-2023-43284, stars=17}","CVE-2023-43284
+
+DLink Model DIR-846 Authenticated Remote Code Execution.
+
+https://t.co/vj7cUfR1Da
+
+#cve #cybersecurity #infosec https://t.co/9NzlPNLdfX"
+58,65508622a86bf372d4391d87,Wh1t3_Ow1,2023-10-05T06:00:10.000Z,1709810693216592122,"{forks=0, issues=0, cloneDir=./data/PoC-Vuln-Detector-juniper-cve-2023-36845, ownerName=WhiteOwl-Pub, repoName=PoC-Vuln-Detector-juniper-cve-2023-36845, stars=0}",My proof-of-concept (#PoC) for #CVE-2023-36845 is now available on #GitHub. Enjoy!: https://t.co/tJh2brrs2S #Cybersecurity #Vulnerability #InfoSec #Exploit #juniper #firewall #switch #SRX #EX
+59,65508626a86bf372d4391d88,hack_git,2023-10-04T11:07:45.000Z,1709525709771694352,"{cloneDir=./data/CVE-2023-38743, ownerName=PetrusViet, repoName=CVE-2023-38743, stars=10, forks=2, issues=0}","CVE-2023-38743
+
+ManageEngine ADManager Command Injection
+
+https://t.co/W8N86BYrXk
+
+#cve #cybersecurity #infosec https://t.co/1cJfSK1bBb"
+60,65508629a86bf372d4391d89,hack_git,2023-10-02T07:55:40.000Z,1708752594896568566,"{cloneDir=./data/CVE-2023-5074-PoC, ownerName=codeb0ss, repoName=CVE-2023-5074-PoC, stars=6, forks=2, issues=0}","CVE-2023-5074
+
+D-Link D-View Authentication Bypass
+
+https://t.co/184v4iQrH0
+
+#cve #cybersecurity #infosec https://t.co/DE6gml8lGe"
+61,6550862ba86bf372d4391d8a,hack_git,2023-10-02T07:51:15.000Z,1708751485096349760,"{repoName=CVE-2023-43261, stars=52, forks=9, issues=0, cloneDir=./data/CVE-2023-43261, ownerName=win3zz}","CVE-2023-43261
+
+Credential Leakage Through Unprotected System Logs and Weak Password Encryption
+
+https://t.co/MJCRfTJvMO
+
+#cve #cybersecurity #infosec https://t.co/MWNVaVRYIm"
+62,65508635a86bf372d4391d8b,kh4sh3i_,2023-09-30T09:55:36.000Z,1708058002052255905,"{issues=2, cloneDir=./data/CVE-2023-43770-POC, ownerName=s3cb0y, repoName=CVE-2023-43770-POC, stars=29, forks=11}","CVE-2023-43770
+#mail #server #Roundcube
+
+usage:
+
+python https://t.co/5bNEHMWBBo -e attacker@gmail.com -p Attack3rPwd -t victim@example.com
+
+#POC #exploit
+https://t.co/5jCzH5kbCC
+
+#cybersecurity #BugBounty #infosec #CVE https://t.co/QMBKBIXXnw"
+63,65508638a86bf372d4391d8c,hack_git,2023-09-30T06:14:24.000Z,1708002336809861232,"{stars=10, forks=2, issues=0, cloneDir=./data/CVE-2023-42793, ownerName=H454NSec, repoName=CVE-2023-42793}","CVE-2023-42793
+
+Authentication Bypass in JetBrains TeamCity CI/CD
+
+https://t.co/mYZIdglMpa
+
+#cve #cybersecurity #infosec https://t.co/81dZ1AKfKB"
+64,6550863ca86bf372d4391d8d,hack_git,2023-09-29T08:36:23.000Z,1707675676650684808,"{cloneDir=./data/CVE-2023-42442, ownerName=HolyGu, repoName=CVE-2023-42442, stars=38, forks=8, issues=0}","CVE-2023-42442
+
+JumpServer unauthorized access vulnerability
+
+https://t.co/oONHeVXIbg
+
+#cve #cybersecurity #infosec https://t.co/sWUVIUvbbk"
+65,65508640a86bf372d4391d8e,hack_git,2023-09-29T08:26:23.000Z,1707673160219291935,"{cloneDir=./data/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV, ownerName=gergelykalman, repoName=CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV, stars=11, forks=1, issues=0}","CVE-2023-38571
+
+macOS TCC bypass in Music and TV
+
+https://t.co/YdwBBqSd9U
+
+#cve #cybersecurity #infosec https://t.co/48C8OygApj"
+66,65508642a86bf372d4391d8f,knight0x07,2023-09-28T14:42:00.000Z,1707405301895634952,"{issues=0, cloneDir=./data/CVE-2023-43770-PoC, ownerName=knight0x07, repoName=CVE-2023-43770-PoC, stars=1, forks=0}","PoC for my first #CVE - Stored #XSS (CVE-2023-43770) #vulnerability
+
+Email -&gt; Victim reads it -&gt; Executes JS
+
+PoC: https://t.co/wbdRlXj3ZZ
+
+More Info: https://t.co/yI7Ncyomvd
+
+#malware #exploit #re #infosec #cybersecurity #threatintel #cyber #research"
+67,65508662a86bf372d4391d90,GobySec,2023-09-28T09:22:36.000Z,1707324921150620141,"{repoName=GobyVuls, stars=633, forks=141, issues=0, cloneDir=./data/GobyVuls, ownerName=gobysec}","🛡️ Vulnerability name: Cockpit assetsmanager/upload file upload vulnerability (#CVE-2023-1313). Use goby to verify with one click!#Vulnerability
+Learn More：https://t.co/pPt58WpXLT https://t.co/FhJehCE88e"
+68,65508664a86bf372d4391d91,solidsnakee_,2023-09-27T18:42:22.000Z,1707103402616815754,"{repoName=CVE-2023-36845, stars=27, forks=6, issues=0, cloneDir=./data/CVE-2023-36845, ownerName=kljunowsky}","Shodan dorks para encontrar servidores Juniper SRX firewalls vulnerables a CVE-2023-36845:
+
+title:""Juniper Web Device Manager""
+title:""Juniper"" http.favicon.hash:2141724739
+
+#CVE #Shodan #Dorks #vulnerability #php #Juniper #SRX #Firewall #RCE   https://t.co/7beWrF9xMd https://t.co/kHVAFGPiYz"
+69,6550867ea86bf372d4391d92,solidsnakee_,2023-09-27T18:28:54.000Z,1707100012927140268,"{stars=980, forks=156, issues=3, cloneDir=./data/kernel-exploit-factory, ownerName=bsauce, repoName=kernel-exploit-factory}","Increíble repositorio github que contiene PoCs  exploits para diferentes vulnerabilidades CVE que afectan el kernel de linux.
+#redteam #cve #linux #kernel #exploits #qemu #ring0 #infosec #CyberSecurity     https://t.co/0fPBgde3zc"
+70,65508680a86bf372d4391d93,kh4sh3i_,2023-09-27T17:14:57.000Z,1707081405564440639,"{cloneDir=./data/CVE-2023-29357, ownerName=Chocapikk, repoName=CVE-2023-29357, stars=173, forks=24, issues=0}","#Microsoft #SharePoint #Server Elevation of Privilege #Vulnerability #poc                                                                                                      https://t.co/CvCYvCmyQz
+#vuln #redteam #cve"
+71,65508682a86bf372d4391d94,hack_git,2023-09-27T07:42:46.000Z,1706937409210835388,"{repoName=CVE-2023-43323, stars=2, forks=1, issues=0, cloneDir=./data/CVE-2023-43323, ownerName=ahrixia}","CVE-2023-43323
+
+mooSocial - External HTTP/DNS Service Interaction
+
+https://t.co/H0ny6IqCPW
+
+#cve #cybersecurity #infosec https://t.co/hzlgfC37s4"
+72,65508684a86bf372d4391d95,hack_git,2023-09-27T07:41:38.000Z,1706937125394845945,"{repoName=CVE-2023-43263, stars=1, forks=0, issues=0, cloneDir=./data/CVE-2023-43263, ownerName=b0marek}","CVE-2023-43263
+
+Repository for CVE-2023-43263 vulnerability.
+
+https://t.co/cn4L6J1Dn6
+
+https://t.co/EYhtQFc0FD
+
+#cve #cybersecurity #infosec"
+73,65508686a86bf372d4391d96,hack_git,2023-09-27T07:28:33.000Z,1706933833176629685,"{cloneDir=./data/CVE-2023-35793-CSRF-On-Web-SSH, ownerName=Dodge-MPTC, repoName=CVE-2023-35793-CSRF-On-Web-SSH, stars=3, forks=0, issues=0}","CVE-2023-35793
+
+Repository contains description for CVE-2023-35793 discovered by Dodge Industrial Team for Dodge OPTIFY platfrom.
+
+https://t.co/P6AgEBRfxq
+
+#cve #cybersecurity #infosec https://t.co/1yBHCoyeJD"
+74,6550868fa86bf372d4391d97,hack_git,2023-09-25T06:31:06.000Z,1706194599243616276,"{stars=17, forks=4, issues=0, cloneDir=./data/Elasticsearch-Exploit-CVE-2023-31419, ownerName=sqrtZeroKnowledge, repoName=Elasticsearch-Exploit-CVE-2023-31419}","CVE-2023-31419
+
+Elasticsearch Stack Overflow Vulnerability
+
+https://t.co/hyVWt4vcyr
+
+#cve #cybersecurity #infosec https://t.co/kdkXXRHZOp"
+75,65508691a86bf372d4391d98,hack_git,2023-09-25T06:25:20.000Z,1706193148433572035,"{cloneDir=./data/-CVE-2023-30845, ownerName=himori123, repoName=-CVE-2023-30845, stars=18, forks=1, issues=0}","CVE-2023-30845
+
+JWT authentication bypass via ""X-HTTP-Method-Override""
+
+https://t.co/8pVmVRgWgX
+
+#cve #cybersecurity #infosec https://t.co/voILV22zv1"
+76,65508694a86bf372d4391d99,hack_git,2023-09-25T06:23:48.000Z,1706192761861333124,"{stars=251, forks=40, issues=0, cloneDir=./data/CVE-2023-4863, ownerName=mistymntncop, repoName=CVE-2023-4863}","CVE-2023-4863
+
+Heap buffer overflow in the WebP image library
+
+https://t.co/kNLOCpOz8H
+
+Details:
+https://t.co/LXkbdgth4s
+
+#cve #cybersecurity #infosec https://t.co/ohCAjeGz9G"
+77,65508697a86bf372d4391d9a,hack_git,2023-09-25T06:10:48.000Z,1706189487762534727,"{forks=2, issues=0, cloneDir=./data/MSAPer, ownerName=im-hanzou, repoName=MSAPer, stars=10}","MSAPer | CVE-2023-3076 - MStore API
+
+Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin + PHP File Upload)
+
+https://t.co/ZUwWD1rC4v
+
+#cve #cybersecurity #infosec https://t.co/HgROFRVIwY"
+78,6550869aa86bf372d4391d9b,hack_git,2023-09-21T07:27:02.000Z,1704759121612828823,"{stars=6, forks=2, issues=0, cloneDir=./data/CVE-2023-0099-exploit, ownerName=amirzargham, repoName=CVE-2023-0099-exploit}","CVE-2023-0099
+
+Simple URLs WordPress plugin &lt;115 - Reflected XSS
+
+https://t.co/ZpkIFcZz7q
+
+#cve #cybersecurity #infosec https://t.co/vsn0zaekTG"
+79,6550869ca86bf372d4391d9c,d4rk_c0r3,2023-09-19T06:50:39.000Z,1704025192492851514,"{issues=3, cloneDir=./data/juniper-rce_cve-2023-36844, ownerName=watchtowrlabs, repoName=juniper-rce_cve-2023-36844, stars=100, forks=21}","#CVE-2023-36844 JUNIPER-RCE
+
+Shodan Query : title:""Juniper Web Device Manager""
+
+https://t.co/16yVfTtRa2 https://t.co/teW6OER2Mp"
+80,655086aea86bf372d4391d9d,r1cksec,2023-09-16T09:36:26.000Z,1702979746974388346,"{cloneDir=./data/cheatsheets, ownerName=r1cksec, repoName=cheatsheets, stars=302, forks=45, issues=0}","New cheatsheets pushed🕵️‍♂️​
+
+https://t.co/iZ7TJVspwB
+
+Including:
+
+Great blogpost about the possibility of using arbitrary file deletion in combination with MSI installation to perform a privesc ⚔️
+https://t.co/I911X6lTWn
+
+#infosec #cybersecurity #windows #privesc #cve #msi https://t.co/O3uAudvkuo"
+81,655086b2a86bf372d4391d9e,hack_git,2023-09-14T17:56:56.000Z,1702380927819649384,"{cloneDir=./data/WS_RaceCondition_PoC, ownerName=redrays-io, repoName=WS_RaceCondition_PoC, stars=46, forks=3, issues=0}","WS_RaceCondition_PoC
+
+Simple PoC for demonstrating Race Conditions on Websockets
+
+https://t.co/ObAVc2mZzh
+
+#cve #cybersecurity #infosec https://t.co/VbkjxzZMGe"
+82,655086b6a86bf372d4391d9f,hack_git,2023-09-14T17:55:03.000Z,1702380453267726409,"{forks=35, issues=0, cloneDir=./data/themebleed, ownerName=gabe-k, repoName=themebleed, stars=162}","ThemeBleed
+
+Proof-of-Concept for CVE-2023-38146 (""ThemeBleed"")
+
+https://t.co/w9cTrahuvv
+
+Details:
+https://t.co/zJAGfQg5kZ
+
+#cve #cybersecurity #infosec https://t.co/2t7mFxNjRZ"
+83,655086bba86bf372d4391da0,hack_git,2023-09-14T11:30:58.000Z,1702283797117501853,"{issues=4, cloneDir=./data/evil_minio, ownerName=AbelChe, repoName=evil_minio, stars=273, forks=37}","CVE-2023-28434
+
+MinIO unauthorized to RCE
+
+https://t.co/TWHb2zZYuI
+
+#cve #cybersecurity #infosec https://t.co/0sN4Fp2WJK"
+84,655086bda86bf372d4391da1,hack_git,2023-09-14T11:29:01.000Z,1702283305196961809,"{cloneDir=./data/CVE-2020-12077, ownerName=RandomRobbieBF, repoName=CVE-2020-12077, stars=3, forks=1, issues=0}","CVE-2020-12077
+
+MapPress Maps Pro &lt; 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions
+
+https://t.co/ssI1BlgbBd
+
+#cve #cybersecurity #infosec https://t.co/ctCpm1Gr0z"
+85,655086bfa86bf372d4391da2,hack_git,2023-09-14T11:28:00.000Z,1702283050514530768,"{issues=0, cloneDir=./data/CVE-2023-41362_MyBB_ACP_RCE, ownerName=SorceryIE, repoName=CVE-2023-41362_MyBB_ACP_RCE, stars=7, forks=2}","CVE-2023-41362
+
+MyBB Admin Panel RCE
+
+https://t.co/PEcA53U1Zp
+
+#cve #cybersecurity #infosec https://t.co/0WWY2iHW4j"
+86,655086c2a86bf372d4391da3,hack_git,2023-09-14T11:20:59.000Z,1702281281998823926,"{repoName=CVE-2023-1698-PoC, stars=11, forks=3, issues=0, cloneDir=./data/CVE-2023-1698-PoC, ownerName=codeb0ss}","CVE-2023-1698
+
+Mass Exploit - CVE-2023-1698 &lt; Unauthenticated Remote Command Execution
+
+https://t.co/tnfvEG9kjn
+
+#cve #cybersecurity #infosec https://t.co/dW5EfhywPx"
+87,655086c6a86bf372d4391da4,hack_git,2023-09-14T11:12:10.000Z,1702279062884929942,"{forks=6, issues=0, cloneDir=./data/CVE-2023-35671, ownerName=MrTiz, repoName=CVE-2023-35671, stars=66}","CVE-2023-35671
+
+Android App Pin Security Issue.
+
+ (https://t.co/hwahWWBVYP)https://t.co/9N630a3bGV
+
+#cve #cybersecurity #infosec
+
+https://t.co/hwahWWBVYP"
+88,655086c8a86bf372d4391da5,hack_git,2023-09-14T11:10:32.000Z,1702278654049309042,"{cloneDir=./data/POC-CVE-2023-3244, ownerName=drnull03, repoName=POC-CVE-2023-3244, stars=3, forks=1, issues=0}","CVE-2023-3244
+
+WordPress Missing Authorization
+
+https://t.co/TeiKcLVag4
+
+#cve #cybersecurity #infosec https://t.co/Pp4bPJ5iRt"
+89,655086cfa86bf372d4391da6,TodayCyberNews,2023-09-11T18:30:07.000Z,1701302115040370951,"{cloneDir=./data/CVE-2023-28229, ownerName=Y3A, repoName=CVE-2023-28229, stars=106, forks=28, issues=0}","CVE-2023-28229
+
+Service Elevation of Privilege Vulnerability in Windows CNG Key Isolation
+
+https://t.co/50qtdc5z5B
+
+Reference: https://t.co/C9khAu44eK
+
+👀 Check Out Old Tweets Of @TodayCyberNews
+
+#CyberSecurity #Windows #infosec #hacker #CVE https://t.co/6YNT9Ivogi"
+90,655086d2a86bf372d4391da7,hack_git,2023-09-10T06:58:38.000Z,1700765711298154904,"{issues=0, cloneDir=./data/CVE-2023-30943, ownerName=Chocapikk, repoName=CVE-2023-30943, stars=10, forks=1}","CVE-2023-30943
+
+A Python-based tool to detect the CVE-2023-30943 vulnerability in Moodle, which allows unauthorized folder creation via specially crafted requests in TinyMCE loaders.
+
+https://t.co/SSAoj8XkyJ
+
+#cve #cybersecurity #infosec https://t.co/XE2OzpktCC"
+91,655086d4a86bf372d4391da8,hack_git,2023-09-10T06:50:41.000Z,1700763709470105832,"{ownerName=ErikWynter, repoName=opentsdb_key_cmd_injection, stars=8, forks=2, issues=0, cloneDir=./data/opentsdb_key_cmd_injection}","opentsdb_key_cmd_injection
+
+An exploit for OpenTSDB &lt;= 2.4.1 cmd injection (CVE-2023-36812/CVE-2023-25826) written in Fortran
+
+https://t.co/4B8Q8I8a0b
+
+#cve #cybersecurity #infosec https://t.co/dRG9Hz2xsN"
+92,655086d6a86bf372d4391da9,hack_git,2023-09-10T06:49:16.000Z,1700763354111897754,"{ownerName=webraybtl, repoName=CVE-2023-40031, stars=14, forks=6, issues=0, cloneDir=./data/CVE-2023-40031}","CVE-2023-40031
+
+Notepad++ heap buffer overflow vulnerability CVE-2023-40031 analysis and reproduction
+
+https://t.co/fQgZT5qfka
+
+#cve #cybersecurity #infosec https://t.co/3c5yTz84St"
+93,655086dca86bf372d4391daa,hack_git,2023-09-05T11:50:10.000Z,1699027138081394933,"{ownerName=Patrowl, repoName=CVE-2023-4634, stars=35, forks=9, issues=2, cloneDir=./data/CVE-2023-4634}","CVE-2023-4634
+
+RCE Exploit for Wordpress Plugin Media-Library Plugin &lt; 3.10 (CVE-2023-4634)
+
+https://t.co/7dQOewng0e
+
+Details:
+https://t.co/s9aNllcjg6
+
+#cve #cybersecurity #infosec https://t.co/3lGvm3DTFQ"
+94,655086dfa86bf372d4391dab,hack_git,2023-09-05T08:43:51.000Z,1698980249474576893,"{cloneDir=./data/CVE-2023-34039, ownerName=Cyb3rEnthusiast, repoName=CVE-2023-34039, stars=5, forks=1, issues=0}","CVE-2023-34039
+
+Critical Authentication Bypass Vulnerability in VMware Aria Operations for Networks
+
+https://t.co/8CYVlycTvX
+
+#cve #cybersecurity #infosec https://t.co/GRKIDOQbTr"
+95,655086e1a86bf372d4391dac,hack_git,2023-09-05T08:28:51.000Z,1698976475712540696,"{ownerName=rodolfomarianocy, repoName=Unauthenticated-RCE-FUXA-CVE-2023-33831, stars=8, forks=1, issues=0, cloneDir=./data/Unauthenticated-RCE-FUXA-CVE-2023-33831}","CVE-2023-33831
+
+FUXA's scripting component - RCE
+
+https://t.co/hyjOrZb4Hj
+
+#cve #cybersecurity #infosec #pentesting #redteam
+
+https://t.co/SI5rp5XbW6"
+96,655086e8a86bf372d4391dad,solidsnakee_,2023-09-04T19:00:07.000Z,1698772949397115322,"{forks=5, issues=0, cloneDir=./data/CVE-2023-4596, ownerName=E1A, repoName=CVE-2023-4596, stars=20}","Una vulnerabilidad crítica en el complemento Forminator de WordPress permite a un atacante no autorizado cargar archivos arbitrarios en un servidor. 
+
+Prueba de concepto: https://t.co/xZzMoj1U41
+
+#cve #poc #exploit #wordpress #forminator #plugin #vulnerability #php #infosec https://t.co/n3vxYD9OYk"
+97,655086eba86bf372d4391dae,solidsnakee_,2023-09-04T18:40:29.000Z,1698768009878229309,"{forks=0, issues=0, cloneDir=./data/MOVEit-Exploit, ownerName=errorfiathck, repoName=MOVEit-Exploit, stars=2}","POC para CVE-2023-34362 que afecta la transferencia #MOVEit.
+https://t.co/1VAvgzIQHj
+#vulnerability #MOVEit #PoC #Exploit #CVE #infosec #cybernews #CyberSecurity https://t.co/yNGtbnhZLe"
+98,655086f0a86bf372d4391daf,hack_git,2023-09-02T10:41:54.000Z,1697922792140787861,"{issues=0, cloneDir=./data/CVE-2023-36250, ownerName=BrunoTeixeira1996, repoName=CVE-2023-36250, stars=5, forks=1}","CVE-2023-36250
+
+CSV Injection vulnerability in GNOME time tracker version 3.0.2, allows local attackers to execute arbitrary code via crafted .tsv file when creating a new record.
+
+https://t.co/76UmsEf9II
+
+#cve #cybersecurity #infosec https://t.co/xioNtkZ22S"
+99,655086f3a86bf372d4391db0,hack_git,2023-09-02T10:17:45.000Z,1697916714975944869,"{issues=2, cloneDir=./data/CVE-2023-35001, ownerName=synacktiv, repoName=CVE-2023-35001, stars=126, forks=23}","CVE-2023-35001
+
+Exploit used at pwn2own Vancouver 2023 on Ubuntu desktop. The exploit supports the kernel version available at the beginning of the event (5.19.0-35).
+
+https://t.co/11NrSd7g0h
+
+#cve #cybersecurity  #infosec #pentesting #redteam https://t.co/z5rVu3QSWV"
+100,655086f5a86bf372d4391db1,CriminalIP_AR,2023-09-02T06:00:00.000Z,1697851850232320450,"{repoName=cve_gpt, stars=6, forks=0, issues=0, cloneDir=./data/cve_gpt, ownerName=Aidennnn33}","[مرجع #GitHub] عند إدخال كلمات مفتاحية أو موقع، سيقوم البرنامج النصي في Python  بإخراج معلومات حول عنوان الIP والنطاق، بالإضافة إلى معلومات حول وجود ثغرات أمنية. يُستخدم محرك البحث Criminal IP #OSINT  كأداة لتوفير المعلومات.
+https://t.co/jwpmd3hhxs
+
+#Cybersecurity #CVE #Infosec"
+101,655086faa86bf372d4391db2,hack_git,2023-09-01T13:12:13.000Z,1697598235160764460,"{stars=11, forks=2, issues=0, cloneDir=./data/CVE-2023-26818, ownerName=Zeyad-Azima, repoName=CVE-2023-26818}","CVE-2023-26818
+
+Exploit MacOS TCC Bypass W/ Telegram. You can read the vulnerability analysis Part 1 and Part 2 for sandbox bypass.
+
+https://t.co/ymKtVc8A76
+
+#cybersecurity #infosec #pentesting #cve #exploit https://t.co/hj7QJ0Mniz"
+102,65508714a86bf372d4391db3,m0rd4vid,2023-08-30T19:57:59.000Z,1696975572499337263,"{cloneDir=./data/CVE-2023-38831-Winrar-Exploit-Generator-POC, ownerName=MorDavid, repoName=CVE-2023-38831-Winrar-Exploit-Generator-POC, stars=5, forks=2, issues=0}","This is a basic proof of concept for the CVE-2023-3883 exploit targeting WinRAR up to 6.22. Modified some existing internet-sourced POCs by introducing greater dynamism and incorporated additional try-except blocks within the code.
+https://t.co/goOnYGfp2c
+#Winrar #POC #CVE #CVE23"
+103,65508717a86bf372d4391db4,hack_git,2023-08-30T08:39:01.000Z,1696804707287666889,"{ownerName=knight0x07, repoName=WinRAR-Code-Execution-Vulnerability-CVE-2023-38831, stars=40, forks=10, issues=0, cloneDir=./data/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831}","CVE-2023-38831
+
+Understanding WinRAR Code Execution Vulnerability
+
+https://t.co/RIHC48GdqE
+
+#cve #cybersecurity #infosec https://t.co/RNy1BWj8RU"
+104,6550871aa86bf372d4391db5,hack_git,2023-08-30T08:28:08.000Z,1696801966871961743,"{issues=0, cloneDir=./data/CVE-2023-27163-InternalProber, ownerName=samh4cks, repoName=CVE-2023-27163-InternalProber, stars=6, forks=2}","CVE-2023-27163 InternalProber 
+
+A tool to perform port scanning using vulnerable Request-Baskets
+
+https://t.co/zmTKREkqNA
+
+#cve #cybersecurity #infosec https://t.co/zWDOnuSnUF"
+105,6550871ca86bf372d4391db6,solidsnakee_,2023-08-29T22:56:06.000Z,1696658010204958867,"{forks=19, issues=0, cloneDir=./data/CVE-2023-38831-RaRCE, ownerName=ignis-sec, repoName=CVE-2023-38831-RaRCE, stars=111}","Este es un generador de exploits versátil fácil de instalar y fácil de usar para CVE-2023-38831, una vulnerabilidad que afecta las versiones de WinRAR antes de 6.23.
+#winrar #rce #vulnerability #exploit #poc #cve #generator
+//Por @ahakcil
+https://t.co/JAKQ6KHEhS https://t.co/AbsMORFLeU"
+106,6550871fa86bf372d4391db7,elderofz1on,2023-08-28T11:13:09.000Z,1696118717757755516,"{ownerName=b1tg, repoName=CVE-2023-38831-winrar-exploit, stars=703, forks=128, issues=1, cloneDir=./data/CVE-2023-38831-winrar-exploit}","CVE-2023-38831  - PoC Winrar Exploit Generator  
+https://t.co/GaKP8gDG5M
+#cybersec #cve #infosec #pentest"
+107,65508724a86bf372d4391db8,hack_git,2023-08-28T09:08:09.000Z,1696087261832438064,"{repoName=CVE-2023-38389-PoC, stars=26, forks=7, issues=0, cloneDir=./data/CVE-2023-38389-PoC, ownerName=codeb0ss}","CVE-2023-38389
+
+Wordpress JupiterX Core - Unauthenticated Account Takeover
+
+https://t.co/RcH0VaTPjO
+
+#cve #cybersecurity #infosec https://t.co/DZKluXJ0ck"
+108,6550872ba86bf372d4391db9,hack_git,2023-08-27T10:35:44.000Z,1695746914099028330,"{issues=0, cloneDir=./data/CoFuzz, ownerName=Tricker-z, repoName=CoFuzz, stars=31, forks=4}","CoFuzz
+
+Coordinated hybrid fuzzing framework with advanced coordination mode
+
+https://t.co/XTGbQI1x1c
+
+#cybersecurity #infosec #cve https://t.co/gyhhmvmYcw"
+109,6550872ea86bf372d4391dba,hack_git,2023-08-27T10:32:20.000Z,1695746058637169044,"{cloneDir=./data/CVE-2023-39063, ownerName=AndreGNogueira, repoName=CVE-2023-39063, stars=5, forks=1, issues=0}","CVE-2023-39063
+
+This repository contains an exploit for the vulnerability CVE-2023-39063 found in the RaidenFTPD v2.4.4005 software. The exploit has been created to work with Python 3.
+
+https://t.co/7lkMmjmDMw
+
+#cybersecurity #infosec #cve https://t.co/IPVvJYbZD8"
+110,65508730a86bf372d4391dbb,hack_git,2023-08-27T10:30:30.000Z,1695745599436407087,"{ownerName=shiomiyan, repoName=CVE-2023-41080, stars=12, forks=3, issues=0, cloneDir=./data/CVE-2023-41080}","CVE-2023-41080
+
+Apache Tomcat FORM Authentication redirect
+
+https://t.co/7TLbmTE4SI
+
+#cybersecurity #infosec #cve https://t.co/f2N3zWDBpn"
+111,65508734a86bf372d4391dbc,hack_git,2023-08-27T10:25:34.000Z,1695744356416692492,"{issues=0, cloneDir=./data/CVE-2023-38388, ownerName=codeb0ss, repoName=CVE-2023-38388, stars=21, forks=4}","CVE-2023-38388
+
+JupiterX Core Premium Plugin - unrestricted upload
+
+https://t.co/pV9oh9uhHM
+
+#cybersecurity #infosec #cve https://t.co/t0BO7H4qtC"
+112,65508737a86bf372d4391dbd,hack_git,2023-08-27T10:24:02.000Z,1695743968108003803,"{stars=94, forks=13, issues=0, cloneDir=./data/CVE-2023-21939, ownerName=Y4Sec-Team, repoName=CVE-2023-21939}","CVE-2023-21939
+
+Oracle Java SE Vulnerability
+
+https://t.co/BMODiISt7S
+
+#cybersecurity #infosec #cve https://t.co/QYa4KApCln"
+113,6550873ba86bf372d4391dbe,W01fh4cker,2023-08-26T18:17:05.000Z,1695500629895262502,"{stars=777, forks=117, issues=0, cloneDir=./data/VcenterKit, ownerName=W01fh4cker, repoName=VcenterKit}","VcenterKit 0.0.2 Update
+Project url: https://t.co/jrGfxz2xmD
+Thank you for your star or fork.
+#Vcenter #redteam #CVE #nday #tool #pyqt5 #python https://t.co/DYqWsLUglT"
+114,65508740a86bf372d4391dbf,solidsnakee_,2023-08-25T17:17:20.000Z,1695123205860573226,"{ownerName=Wh04m1001, repoName=CVE-2023-36874, stars=208, forks=43, issues=1, cloneDir=./data/CVE-2023-36874}","Solo para fines de demostración. Exploit que funciona en clientes/servidores vulnerables de Windows.
+
+Compile el código y cree los directorios c:\test\system32. Coloque su wermgr.exe en ese directorio y ejecute PoC compilado.
+#cve #poc #exploit #windows11 
+https://t.co/OdXxRUMid2 https://t.co/zdwzVsbBJP"
+115,65508743a86bf372d4391dc0,hack_git,2023-08-25T09:47:20.000Z,1695009958733963476,"{cloneDir=./data/CVE-2023-29409, ownerName=mateusz834, repoName=CVE-2023-29409, stars=2, forks=1, issues=0}","CVE-2023-29409
+
+CVE-2023-29409 reproducer
+
+https://t.co/m9dBE1Njfc
+
+#cve #poc #cybersecurity https://t.co/lj2zFPVhQ2"
+116,65508745a86bf372d4391dc1,hack_git,2023-08-25T09:45:14.000Z,1695009431799345251,"{forks=8, issues=0, cloneDir=./data/CVE-2023-38035, ownerName=horizon3ai, repoName=CVE-2023-38035, stars=24}","CVE-2023-38035
+
+POC for CVE-2023-38035 affecting Ivanti Sentry
+
+https://t.co/I4HGCahnWR
+
+#cve #poc #cybersecurity https://t.co/oISKh6VpYs"
+117,65508748a86bf372d4391dc2,hack_git,2023-08-25T09:42:10.000Z,1695008659078594681,"{issues=0, cloneDir=./data/CVE-2023-26256, ownerName=aodsec, repoName=CVE-2023-26256, stars=33, forks=10}","CVE-2023-26256
+
+CVE-2023-26255_POC, CVE-2023-26256_POC
+
+https://t.co/m45IS0ZQMz
+
+#cve #poc #infosec https://t.co/CjIC3PAcTd"
+118,6550874aa86bf372d4391dc3,hack_git,2023-08-25T07:03:46.000Z,1694968794588852349,"{repoName=CVE-2023-36874_BOF, stars=158, forks=26, issues=0, cloneDir=./data/CVE-2023-36874_BOF, ownerName=Octoberfest7}","CVE-2023-36874
+
+Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE
+
+https://t.co/WumOjee4da
+
+#infosec #pentesting #redteam #cve https://t.co/5A8IU8afOr"
+119,6550874ea86bf372d4391dc4,hack_git,2023-08-23T09:12:24.000Z,1694276393452949637,"{issues=3, cloneDir=./data/DllNotificationInjection, ownerName=ShorSec, repoName=DllNotificationInjection, stars=358, forks=60}","DllNotificationInjection
+
+A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.
+
+https://t.co/vbXaai09pz
+
+#cve #poc #cybersecurity #infosec https://t.co/UdbC2jiQLq"
+120,65508751a86bf372d4391dc5,hack_git,2023-08-23T09:06:24.000Z,1694274881175597075,"{cloneDir=./data/CVE-2023-36664-Ghostscript-command-injection, ownerName=jakabakos, repoName=CVE-2023-36664-Ghostscript-command-injection, stars=58, forks=14, issues=1}","CVE-2023-36664
+
+Ghostscript command injection vulnerability PoC
+
+https://t.co/tg0ZYGnsQ7
+
+#cve #poc #cybersecurity #infosec https://t.co/z2KB4kQkvA"
+121,6550875ba86bf372d4391dc6,hack_git,2023-08-22T09:12:47.000Z,1693914098600198267,"{cloneDir=./data/HITCON-2023-Demo-CVE-2023-20562, ownerName=zeze-zeze, repoName=HITCON-2023-Demo-CVE-2023-20562, stars=45, forks=8, issues=0}","HITCON 2023 Demo CVE-2023-20562
+
+The demo highlights the exploitation of AMDCpuProfiler.sys within AMD μProf. 
+
+https://t.co/YRdy5ZINLq
+
+https://t.co/KTbYPNIZ5f
+
+#cybersecurity #infosec #cve"
+122,65508781a86bf372d4391dc7,hack_git,2023-08-13T07:20:43.000Z,1690624407541088256,"{cloneDir=./data/Check-for-CVE-2023-32629-GameOver-lay, ownerName=kaotickj, repoName=Check-for-CVE-2023-32629-GameOver-lay, stars=7, forks=0, issues=0}","CVE-2023-32629
+
+The script is designed to perform security checks on an Ubuntu system to detect vulnerabilities related to the GameOver(lay) flaws.
+
+https://t.co/PIajwU8Bku
+
+#cve #cybersecurity #infosec https://t.co/j1qjDROL8F"
+123,65508783a86bf372d4391dc8,hack_git,2023-08-12T06:27:17.000Z,1690248572011261954,"{cloneDir=./data/cve-2021-41773-msf, ownerName=belajarqywok, repoName=cve-2021-41773-msf, stars=7, forks=0, issues=0}","CVE-2021-41773
+
+Testing using MSF
+
+https://t.co/wLZVc5wxAe
+
+#cve #exploit #infosec https://t.co/yt6VQDiT0c"
+124,65508788a86bf372d4391dc9,hack_git,2023-08-10T06:16:28.000Z,1689521075455983617,"{cloneDir=./data/CVE-2023-30533, ownerName=BenEdridge, repoName=CVE-2023-30533, stars=9, forks=2, issues=0}","CVE-2023-30533
+
+A POC for CVE-2023-30533
+
+https://t.co/ZwsMFPp490
+
+#cve #cybersecurity #infosec https://t.co/fQRIlh1fu3"
+125,6550878aa86bf372d4391dca,hack_git,2023-08-08T06:17:52.000Z,1688796649978503168,"{cloneDir=./data/CVE-2022-0952, ownerName=RandomRobbieBF, repoName=CVE-2022-0952, stars=4, forks=0, issues=0}","CVE-2022-0952
+
+Sitemap by click5 &lt; 1.0.36 - Unauthenticated Arbitrary Options Update
+
+https://t.co/SeFpsrMI8E
+
+#cve #cybersecurity #infosec https://t.co/Vi9wMmlDVm"
+126,6550878ea86bf372d4391dcb,hack_git,2023-08-06T09:06:19.000Z,1688114268082720768,"{forks=39, issues=3, cloneDir=./data/CVE-2023-3519, ownerName=BishopFox, repoName=CVE-2023-3519, stars=206}","CVE-2023-3519
+
+This exploit uses addresses and shellcode for Citrix VPX 13.1-48.47. 
+
+https://t.co/LMYiR347JM
+
+#cve #cybersecurity #infosec https://t.co/VD9latu00S"
+127,65508790a86bf372d4391dcc,sirifu4k1,2023-08-04T14:35:07.000Z,1687472235177734144,"{ownerName=TraiLeR2, repoName=CVE-2023-36168, stars=10, forks=2, issues=0, cloneDir=./data/CVE-2023-36168}","CVE-2023-36168: #AVG Anti-Spyware v.7.5 allows an attacker to execute arbitrary code via a crafted script to the guard.exe component
+https://t.co/itz0pREkEe 
+#CVE #Exploitation"
+128,65508793a86bf372d4391dcd,hack_git,2023-08-04T06:09:53.000Z,1687345091201892352,"{forks=15, issues=0, cloneDir=./data/CVE-2023-2033, ownerName=mistymntncop, repoName=CVE-2023-2033, stars=53}","CVE-2023-2033
+
+Type confusion in V8 in Google Chrome
+
+https://t.co/h3WfIs2yMD
+
+#cve #poc #exploit #cybersecurity https://t.co/MpzvxttZha"
+129,65508795a86bf372d4391dce,hack_git,2023-08-02T12:29:06.000Z,1686715745743364096,"{ownerName=Fire-Null, repoName=CVE-2023-37979, stars=6, forks=3, issues=0, cloneDir=./data/CVE-2023-37979}","CVE-2023-37979
+
+XSS in Ninja Forms wordpress plugin
+
+https://t.co/kg6VMXxDz3
+
+#cve #cybersecurity #infosec"
+130,655087b1a86bf372d4391dcf,debugsec1337,2023-07-31T19:39:45.000Z,1686099349023887360,"{forks=318, issues=0, cloneDir=./data/Windows-exploits, ownerName=lyshark, repoName=Windows-exploits, stars=1008}","Colección de exploits de Windows🥷🏴‍☠️🔥💣
+#CVE #windows #hackers #infosec #hacking #cybersecurity #exploit #viral #cyberattacks #github #SocialEngineering #Tech #ciberseguridad 
+https://t.co/tqFcFFCX34 https://t.co/7j5zZAJjAA"
+131,655087b8a86bf372d4391dd0,hack_git,2023-07-31T09:40:02.000Z,1685948426234531840,"{cloneDir=./data/CVE-2023-33768, ownerName=Fr0stM0urne, repoName=CVE-2023-33768, stars=1, forks=1, issues=0}","CVE-2023-33768
+
+DoS against Belkin smart plugs via crafted firmware injection.
+
+https://t.co/iMdCVHbPvw
+
+#cve #cybersecurity #infosec https://t.co/4B8R5wnpYH"
+132,655087c0a86bf372d4391dd1,hack_git,2023-07-30T07:38:58.000Z,1685555571078889472,"{cloneDir=./data/CVE-2023-35078, ownerName=lager1, repoName=CVE-2023-35078, stars=3, forks=3, issues=0}","CVE-2023-35078
+
+Proof of concept script to check if the site is vulnerable to CVE-2023-35078
+
+https://t.co/nLpXEwAXSI
+
+#cve #poc #infosec https://t.co/uHwsFLiKm0"
+133,655087c5a86bf372d4391dd2,hack_git,2023-07-30T07:37:34.000Z,1685555215028654081,"{cloneDir=./data/CVE-2023-22884-Airflow-SQLi, ownerName=jakabakos, repoName=CVE-2023-22884-Airflow-SQLi, stars=6, forks=3, issues=1}","CVE-2023-22884
+
+PoC for CVE-2023-22884 that is an Apache Airflow RCE vulnerability affecting versions prior to 2.4.0.
+
+https://t.co/55jGQfCvkK
+
+#cve #poc #cybersecurity #infosec https://t.co/pBwUBfrUfF"
+134,655087c7a86bf372d4391dd3,hack_git,2023-07-30T07:35:17.000Z,1685554642380308481,"{cloneDir=./data/CVE-2023-24489-PoC, ownerName=codeb0ss, repoName=CVE-2023-24489-PoC, stars=18, forks=11, issues=1}","CVE-2023-24489
+
+PoC &amp; Exploiter
+
+https://t.co/vQdKBrJ6y9
+
+#cve #poc #cybersecurity #infosec https://t.co/Cvni2J0X9G"
+135,655087caa86bf372d4391dd4,hack_git,2023-07-30T07:05:58.000Z,1685547265170018304,"{cloneDir=./data/CVE-2023-35078-Exploit-POC, ownerName=vchan-in, repoName=CVE-2023-35078-Exploit-POC, stars=108, forks=31, issues=2}","CVE-2023-35078
+
+Exploit PoC CVE-2023-35078 Remote Unauthenticated API Access Vulnerability in Ivanti Endpoint Manager Mobile
+
+https://t.co/y7TnGT53YQ
+
+#cve #cybersecurity #infosec https://t.co/mFgZCANnbe"
+136,655087d3a86bf372d4391dd5,hack_git,2023-07-27T06:26:16.000Z,1684450109126320128,"{cloneDir=./data/CVE-2023-33802, ownerName=CDACesec, repoName=CVE-2023-33802, stars=3, forks=1, issues=0}","CVE-2023-33802
+
+SumatraPDF 3.4.6 -32-bit Denial Of Services (DoS)
+
+https://t.co/vHyJnAIh96
+
+#cve #cybersecurity #infosec https://t.co/g5WvGRzEC8"
+137,655087d6a86bf372d4391dd6,hack_git,2023-07-27T06:24:34.000Z,1684449680359317505,"{stars=42, forks=9, issues=2, cloneDir=./data/CVE-2023-35086-POC, ownerName=tin-z, repoName=CVE-2023-35086-POC}","POC of CVE-2023-35086 only DoS
+
+https://t.co/oTrP9mU694
+
+#cve #poc #cybersecurity https://t.co/ZkZaQ4oAHq"
+138,655087dfa86bf372d4391dd7,notselwyn,2023-07-26T12:15:21.000Z,1684175571222142976,"{cloneDir=./data/exploits, ownerName=Notselwyn, repoName=exploits, stars=1, forks=0, issues=0}","Updated my patched zeroday PoC collection for CVE-2022-46640 and CVE-2022-47758 (both unauthenticated RCE vulns), and proof-of-work's for two upcoming vulnerabilities
+
+#exploit #cve #cybersecurity #writeup
+
+https://t.co/NTSaATkuir"
+139,655087f4a86bf372d4391dd8,hack_git,2023-07-25T13:16:21.000Z,1683828536539336704,"{cloneDir=./data/RancidCrisco, ownerName=fullspectrumdev, repoName=RancidCrisco, stars=20, forks=1, issues=0}","CVE-2023-20126
+
+Cisco SPA112 2-Port Phone Adapters RCE.
+
+https://t.co/OdH7EMDiCJ
+
+#cve #infosec #pentesting
+https://t.co/bdB0UPyU0L https://t.co/ZSoQP3jAmU"
+140,655087f6a86bf372d4391dd9,hack_git,2023-07-25T13:16:09.000Z,1683828485884637184,"{cloneDir=./data/CVE-2021-44735, ownerName=defensor, repoName=CVE-2021-44735, stars=6, forks=0, issues=0}","CVE-2021-44736
+
+Embedded web server command injection vulnerability in Lexmark devices.
+
+https://t.co/jmDR7SRrMc
+
+#cve #poc #cybersecurity #infosec
+https://t.co/DGSsyhOd6F https://t.co/qKdbjh66vi"
+141,65508800a86bf372d4391dda,hack_git,2023-07-23T16:19:10.000Z,1683149766375424000,"{ownerName=snowcra5h, repoName=CVE-2023-38408, stars=67, forks=21, issues=0, cloneDir=./data/CVE-2023-38408}","CVE-2023-38408 
+
+Remote Code Execution in OpenSSH's forwarded ssh-agent
+
+https://t.co/AjIYrixdb8
+
+#cve #cybersecurity #infosec
+https://t.co/ISyGdIULaD https://t.co/JqxlUcGV4u"
+142,65508802a86bf372d4391ddb,hack_git,2023-07-23T12:16:30.000Z,1683088698190036995,"{ownerName=hardikmodha, repoName=POC-CVE-2023-32681, stars=5, forks=1, issues=0, cloneDir=./data/POC-CVE-2023-32681}","CVE-2023-32681
+
+Vulnerability in python-requests affects IBM InfoSphere Information Server.
+
+https://t.co/XtTZrQXkQk
+
+#cve #poc #cybersecurity #infosec
+https://t.co/5dyKAtezdg https://t.co/OayQwSQDxf"
+143,65508805a86bf372d4391ddc,hack_git,2023-07-23T12:16:15.000Z,1683088633258029056,"{repoName=Mass-CVE-2023-28121, stars=10, forks=3, issues=2, cloneDir=./data/Mass-CVE-2023-28121, ownerName=im-hanzou}","CVE-2023-28121
+
+WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]
+
+https://t.co/bKErJnrnE7
+
+#cve #cybersecurity #infosec
+https://t.co/QJXbuoPmhr https://t.co/JyMphCJxXN"
+144,65508807a86bf372d4391ddd,zapstiko,2023-07-23T06:19:05.000Z,1682998749977776129,"{ownerName=gbrsh, repoName=CVE-2023-28121, stars=37, forks=16, issues=2, cloneDir=./data/CVE-2023-28121}","CVE-2023-28121
+WooCommerce Payments: Unauthorized Admin Access #Exploit.
+
+#cve #cybersecurity #infosec https://t.co/fAR51oFEqL"
+145,6550880ba86bf372d4391dde,hack_git,2023-07-22T12:15:21.000Z,1682726021718499329,"{forks=362, issues=9, cloneDir=./data/CVE-2020-1472, ownerName=SecuraBV, repoName=CVE-2020-1472, stars=1647}","CVE-2020-1472
+
+A Python script that uses the Impacket library to test vulnerability for the Zerologon exploit (CVE-2020-1472).
+
+https://t.co/aCf3AGwACS
+
+#cve #cybersecurity #infosec
+https://t.co/aMcuDbDCIn https://t.co/2aHAStkz2h"
+146,6550880ea86bf372d4391ddf,hack_git,2023-07-22T12:15:20.000Z,1682726015221497858,"{cloneDir=./data/CVE-2023-38632, ownerName=Halcy0nic, repoName=CVE-2023-38632, stars=1, forks=1, issues=0}","CVE-2023-38632
+
+Async-sockets-cpp &lt;0.3.1 TCP Packet tcpsocket.hpp Stack-based Overflow
+
+https://t.co/lk3S5BBnNO
+
+#cve #cybersecurity #infosec
+https://t.co/FROdympXN6 https://t.co/oaz3EAsdDD"
+147,65508810a86bf372d4391de0,hack_git,2023-07-22T12:15:16.000Z,1682725999585161216,"{ownerName=c-skills, repoName=vala-vala-hey, stars=35, forks=5, issues=0, cloneDir=./data/vala-vala-hey}","vala-vala-hey
+
+This is a 0day root LPE for latest #Manjaro distro, tested on embedded ARM and x86_64 desktop installs.
+
+https://t.co/xujyaPchUP
+
+#cve #cybersecurity #infosec
+https://t.co/Z75axI04CN https://t.co/HsuCrmlby4"
+148,65508813a86bf372d4391de1,hack_git,2023-07-22T12:15:14.000Z,1682725990793977857,"{ownerName=c0d30d1n, repoName=CVE-2022-44875-Test, stars=1, forks=1, issues=0, cloneDir=./data/CVE-2022-44875-Test}","CVE-2022-44875
+
+Testing CVE-2022-44875
+
+https://t.co/fiyv3TYEIv
+
+#cve #cybersecurity #infosec
+https://t.co/qgwg196dpC https://t.co/tfB41SY0bN"
+149,65508816a86bf372d4391de2,hack_git,2023-07-22T12:15:14.000Z,1682725990210969600,"{repoName=cve-2023-3519-citrix-scanner, stars=45, forks=8, issues=0, cloneDir=./data/cve-2023-3519-citrix-scanner, ownerName=telekom-security}","CVE-2023-3519
+
+This script is a basic Citrix Scanner for CVE-2023-3519. We try to identify vulnerable Citrix Gateways/ADCs by looking at the HTTP headers.
+
+https://t.co/HAEqUDglZ0
+
+#cve #infosec #pentesting
+https://t.co/Fmp1Foj2B2 https://t.co/jr0e22Yxay"
+150,6550881ea86bf372d4391de3,hack_git,2023-07-22T12:15:11.000Z,1682725976931815424,"{stars=52, forks=15, issues=0, cloneDir=./data/FallingSkies-CVE-2023-35885, ownerName=datackmy, repoName=FallingSkies-CVE-2023-35885}","CVE-2023-35885
+
+Cloudpanel 0-day Exploit
+
+https://t.co/E1ZSJx7VDD
+
+#cve #cybersecurity #infosec
+https://t.co/DgErAuVlur https://t.co/xVEnADMECS"
+151,65508820a86bf372d4391de4,D0rkerDevil,2023-07-21T15:54:03.000Z,1682418670079803392,"{cloneDir=./data/CitrixFall, ownerName=dorkerdevil, repoName=CitrixFall, stars=14, forks=1, issues=0}","Here's my nse script to check for cve-2023-3519
+
+https://t.co/eTwwcqeE9v
+
+#cve #security #citrix"
+152,65508826a86bf372d4391de5,d4rk_c0r3,2023-07-21T12:36:48.000Z,1682369032618643456,"{cloneDir=./data/citrixInspector, ownerName=securekomodo, repoName=citrixInspector, stars=70, forks=14, issues=0}","#CVE-2023-3519
+Fofa : https://t.co/dLjt5r7Uq0
+
+Shodan : http.favicon.hash:-1292923998,-1166125415
+
+citrix-scanner 
+https://t.co/xcd7UxuQMs
+
+CVE-2023-3519 Inspector
+https://t.co/MUmIxJfIr8 https://t.co/HL3fmQvCnE"
+153,6550882ca86bf372d4391de6,hack_git,2023-07-20T12:15:16.000Z,1682001222952181761,"{cloneDir=./data/cve-2023-27163, ownerName=seanrdev, repoName=cve-2023-27163, stars=4, forks=1, issues=0}","CVE-2023-27163
+
+To assist in enumerating the webserver behind the webserver SSRF.
+
+https://t.co/s4mpPx06Qp
+
+#cve #cybersecurity #infosec
+https://t.co/m26IYflVrX https://t.co/fgsE6FDigy"
+154,65508830a86bf372d4391de7,hack_git,2023-07-20T12:15:15.000Z,1682001220356001792,"{repoName=hypobrychium, stars=72, forks=21, issues=1, cloneDir=./data/hypobrychium, ownerName=foxlox}","hypobrychium
+
+AV/EDR completely ignore me. Duplicate the token of a running process and run a command.
+
+https://t.co/KZUIPmI3Az
+
+#cve #cybersecurity #infosec
+https://t.co/fDMaZUSxOP https://t.co/wUjZIeA2kd"
+155,65508838a86bf372d4391de8,OWNGER_HACK,2023-07-20T08:04:33.000Z,1681938130914643970,"{cloneDir=./data/Windows11Exploits, ownerName=nu11secur1ty, repoName=Windows11Exploits, stars=105, forks=26, issues=1}","Windows 11 Exploits
+
+CVE-2023-24892, CVE-2023-33131, CVE-2022-30129, CVE-2023-33137, CVE-2023-33145, CVE-2023-33148, CVE-2022-30190.
+
+https://t.co/sp7nHdcVbP
+
+#cve #cybersecurity #infosec https://t.co/7xbo2liRVl"
+156,6550883ca86bf372d4391de9,hack_git,2023-07-18T12:15:28.000Z,1681276499813384195,"{ownerName=tarraschk, repoName=CVE-2023-36884-Checker, stars=12, forks=3, issues=0, cloneDir=./data/CVE-2023-36884-Checker}","CVE-2023-36884-Checker
+
+Script to check for CVE-2023-36884 hardening.
+
+https://t.co/VjWi1UnOh2
+
+#cve #cybersecurity #infosec
+https://t.co/G0RY4F4h3D https://t.co/lfn19aPAbQ"
+157,6550883fa86bf372d4391dea,hack_git,2023-07-18T12:15:17.000Z,1681276451629195265,"{stars=7, forks=5, issues=0, cloneDir=./data/CVE-2023-32117, ownerName=RandomRobbieBF, repoName=CVE-2023-32117}","CVE-2023-32117
+
+Integrate Google Drive &lt;= 1.1.99 - Missing Authorization via REST API Endpoints.
+
+https://t.co/zuAOF0Hlvy
+
+#cve #cybersecurity #infosec
+https://t.co/FZ8o8yMi6w https://t.co/X9hmFLSwT6"
+158,6550884da86bf372d4391deb,hack_git,2023-07-18T12:15:11.000Z,1681276426052411393,"{issues=0, cloneDir=./data/CVE-2023-27350-POC, ownerName=MaanVader, repoName=CVE-2023-27350-POC, stars=5, forks=2}","CVE-2023-27350
+
+A python script tht searches for vulnerable version of PaperCut MF/NG.
+
+https://t.co/eB7YHnRqlT
+
+#cve #cybersecurity #infosec
+https://t.co/MF4xn1ySqT https://t.co/nhnBH2xD6J"
+159,65508850a86bf372d4391dec,hack_git,2023-07-17T16:19:29.000Z,1680975518642962434,"{cloneDir=./data/CVE-2023-23397, ownerName=tiepologian, repoName=CVE-2023-23397, stars=26, forks=4, issues=2}","CVE-2023-23397
+
+Proof of Concept for CVE-2023-23397 in Python. Quick and easy ""proof of concept"" in Python for the Outlook CVE that affects Microsoft Office/365 products.
+
+https://t.co/cIbRFqCPJM
+
+#cve #cybersecurity #infosec
+https://t.co/PCebnFd3ck https://t.co/GOwVZI1q6c"
+160,65508854a86bf372d4391ded,hack_git,2023-07-17T16:19:26.000Z,1680975505980379138,"{cloneDir=./data/OutlookNTLM_CVE-2023-23397, ownerName=Muhammad-Ali007, repoName=OutlookNTLM_CVE-2023-23397, stars=20, forks=1, issues=0}","CVE-2023-23397
+
+MS Outlook Privilege Escalation.
+
+https://t.co/6o3VhdpjkK
+
+#cve #cybersecurity #infosec
+https://t.co/rCFOc54EIv https://t.co/oRksgFX50M"
+161,6550885ba86bf372d4391dee,hack_git,2023-07-17T16:19:23.000Z,1680975495075168258,"{stars=16, forks=5, issues=1, cloneDir=./data/CVE-2023-20110, ownerName=redfr0g, repoName=CVE-2023-20110}","CVE-2023-20110
+
+PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability
+
+https://t.co/9M9f9n8neJ
+
+#cve #cybersecurity #infosec
+https://t.co/9djt7FXmrT https://t.co/v8ADbks0e2"
+162,6550886ca86bf372d4391def,hack_git,2023-07-15T12:15:04.000Z,1680189232730578944,"{cloneDir=./data/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline, ownerName=Maxwitat, repoName=CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline, stars=21, forks=5, issues=1}","CVE-2023-36884
+
+Office/Windows HTML RCE Vulnerability
+
+https://t.co/bVycK1bfX7
+
+#cve #cybersecurity #infosec
+https://t.co/ogzhdABuX0 https://t.co/fyzvGXch2M"
+163,65508870a86bf372d4391df0,OWNGER_HACK,2023-07-13T14:34:48.000Z,1679499625613660161,"{cloneDir=./data/CVE-2023-3460, ownerName=Fire-Null, repoName=CVE-2023-3460, stars=8, forks=3, issues=0}","CVE-2023-3460
+
+Unauthorized admin access for Ultimate Member plugin POC.
+
+https://t.co/8gbsr0Vec1
+
+#cve #cybersecurity #infosec https://t.co/NVvh9WWxb9"
+164,65508874a86bf372d4391df1,OWNGER_HACK,2023-07-13T14:25:54.000Z,1679497383116427265,"{forks=5, issues=0, cloneDir=./data/CVE-2023-35803, ownerName=lachlan2k, repoName=CVE-2023-35803, stars=21}","CVE-2023-35803
+
+PoC Exploit for CVE-2023-35803 Unauthenticated Buffer Overflow in Aerohive HiveOS/Extreme Networks IQ Engine.
+
+https://t.co/IppNnbN7rT
+
+#cve #cybersecurity #infosec https://t.co/XXJpKF8H4M"
+165,6550887ba86bf372d4391df2,m19o__,2023-07-12T17:07:50.000Z,1679175746797944847,"{ownerName=M19O, repoName=Security-Advisories, stars=7, forks=1, issues=0, cloneDir=./data/Security-Advisories}","I have received two CVEs for discovering multiple 0days in Lavalite CMS CVE-2023-36983 and  CVE-2023-36984.
+
+You will find all 0days I discovered here : https://t.co/w4WAgnd2Mg
+
+#cve #0day #securityresearch"
+166,6550887da86bf372d4391df3,OWNGER_HACK,2023-07-12T14:47:43.000Z,1679140484906909696,"{cloneDir=./data/CVE-2023-2255, ownerName=elweth-sec, repoName=CVE-2023-2255, stars=8, forks=2, issues=1}","CVE-2023-2255
+
+Remote documents loaded without prompt via IFrame
+
+https://t.co/ZY5QiHQXkz
+
+#cve #cybersecurity #infosec https://t.co/z37KtFJNXv"
+167,65508887a86bf372d4391df4,OWNGER_HACK,2023-07-09T19:36:34.000Z,1678126015049089024,"{stars=5, forks=3, issues=0, cloneDir=./data/CVE-2023-34839, ownerName=sahiloj, repoName=CVE-2023-34839}","CVE-2023-34839
+
+Cross Site Request Forgery vulnerability in Issabel issabel-pbx v.4.0.0-6 allows a remote attacker to gain privileges via the a Custom CSRF exploit to create new user function in that application.
+
+https://t.co/4KXZd8bJzc
+
+#cve #cybersecurity #infosec https://t.co/CQiAP0MzHR"
+168,6550888fa86bf372d4391df5,OWNGER_HACK,2023-07-07T17:35:51.000Z,1677370857675448325,"{repoName=StackRot, stars=431, forks=44, issues=1, cloneDir=./data/StackRot, ownerName=lrh2000}","CVE-2023-3269 
+
+Linux kernel privilege escalation vulnerability.
+
+https://t.co/Ht5rupDrHa
+
+#cve #cybersecurity #infosec https://t.co/9d4VaPt2u0"
+169,65508891a86bf372d4391df6,OWNGER_HACK,2023-07-07T17:35:35.000Z,1677370790843490304,"{repoName=poc-cve-2023-2868, stars=8, forks=4, issues=0, cloneDir=./data/poc-cve-2023-2868, ownerName=cfielding-r7}","CVE-2023-2868
+
+Barracuda ESG Command Injection
+
+https://t.co/3lgUCcob5z
+
+#cve #cybersecurity #infosec https://t.co/C4zhgLTXJC"
+170,65508897a86bf372d4391df7,hack_git,2023-07-06T12:15:15.000Z,1676927789780414464,"{forks=2, issues=0, cloneDir=./data/CVE-2022-43684, ownerName=lolminerxmrig, repoName=CVE-2022-43684, stars=10}","CVE-2022-43684
+
+Servicenow insecure access control leading to administrator account takeover.
+
+https://t.co/z1w77IrbiJ
+
+#cve #cybersecurity #infosec
+https://t.co/d741GhfaUe https://t.co/aRIFX0TGMO"
+171,6550889ca86bf372d4391df8,hack_git,2023-07-06T12:15:04.000Z,1676927742451777536,"{cloneDir=./data/CVE-2023-24488, ownerName=Abo5, repoName=CVE-2023-24488, stars=8, forks=3, issues=0}","CVE-2023-24488
+
+The provided script is a Ruby script used to check and detect the CVE-2023-24488 security vulnerability in Citrix Gateway and Citrix ADC.
+
+https://t.co/zGfmCI5vQe
+
+#cve #cybersecurity #infosec
+https://t.co/aEL9J8lQg2 https://t.co/F7CxHvKgBM"
+172,6550889ea86bf372d4391df9,b41ss,2023-07-06T11:57:27.000Z,1676923310662205441,"{cloneDir=./data/vuln_checker, ownerName=madret, repoName=vuln_checker, stars=0, forks=0, issues=0}","A powershell script that checks for vulnerabilites in given software/hardware + version and grabs corresponding CVE information. Useful for security advisories. No additional PS modules need to be installed: vuln_checker.
+
+📎 https://t.co/uEQ8XGAz42
+
+#CVE #vuln #vulnerabilities https://t.co/92rCN3bKxo"
+173,655088a2a86bf372d4391dfa,0SPwn,2023-07-05T14:52:16.000Z,1676604915613876230,"{repoName=CVE-2023-27372-PoC, stars=3, forks=2, issues=1, cloneDir=./data/CVE-2023-27372-PoC, ownerName=0SPwn}",#CVE 2023-27372 PoC https://t.co/U4ddtZLioJ
+174,655088a6a86bf372d4391dfb,CriminalIP_JP,2023-07-04T00:00:01.000Z,1676017987390767104,"{cloneDir=./data/exposuredetect, ownerName=leem4464, repoName=exposuredetect, stars=2, forks=1, issues=0}","Criminal IPのユーザーにより、GitHubにCriminal IP APIを用いて公開データベースのMisconficurationを識別し、脆弱性を探索する Python 3 ツールのReadmeファイルが公開されました。
+https://t.co/QWGz3ZwtZT
+
+#Database #CVE #Vulnerability #Python3 #OSINT #GitHub"
+175,655088aba86bf372d4391dfc,d4rk_c0r3,2023-07-03T15:01:20.000Z,1675882423865991169,"{cloneDir=./data/CVE-2023-2982-POC, ownerName=H4K6, repoName=CVE-2023-2982-POC, stars=9, forks=4, issues=1}","#CVE-2023-2982WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) &lt;= 7.6.4 - Authentication Bypass
+
+https://t.co/z5wAtViYOz https://t.co/RrTVXj8jQy"
+176,655088b1a86bf372d4391dfd,dilagrafie,2023-07-03T10:05:27.000Z,1675807959295688704,"{issues=0, cloneDir=./data/CVE-2023-2982, ownerName=RandomRobbieBF, repoName=CVE-2023-2982, stars=73, forks=20}","CVE-2023-2982
+
+WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) &lt;= 7.6.4 - Authentication Bypass.
+
+https://t.co/qkBHiHl4H6
+
+#cve #cybersecurity #infosec"
+177,655088b8a86bf372d4391dfe,dilagrafie,2023-07-03T10:05:26.000Z,1675807956116307970,"{cloneDir=./data/CVE-2023-28252, ownerName=fortra, repoName=CVE-2023-28252, stars=147, forks=37, issues=0}","CVE-2023-28252
+
+Understanding the cve-2022-37969 windows common log file system driver local privilege escalation.
+
+https://t.co/x769Lrdpf1
+
+#cve #cybersecurity #infosec"
+178,655088bca86bf372d4391dff,SirBagoza,2023-07-01T17:50:51.000Z,1675200306789883906,"{cloneDir=./data/CVE-2023-24488-PoC, ownerName=SirBugs, repoName=CVE-2023-24488-PoC, stars=7, forks=2, issues=0}","CVE-2023-24488 .py .go PoC
+
+https://t.co/M9kyFGrSbu
+
+#CVE #PoC #Citrix #XSS"
+179,655088c3a86bf372d4391e00,hack_git,2023-07-01T12:15:13.000Z,1675115843703668736,"{repoName=CVE-2020-9289, stars=8, forks=2, issues=0, cloneDir=./data/CVE-2020-9289, ownerName=synacktiv}","CVE-2020-9289
+
+Decrypt reversible secrets encrypted using the default hardcoded key related to CVE-2020-9289 on FortiAnalyzer/FortiManager (the only difference with CVE-2019-6693 is the encryption routine).
+
+https://t.co/dv7ZdqxW8I
+
+#cve #cybersecurit… https://t.co/6OxBZu3zhE https://t.co/haKDMuKUw9"
+180,655088c6a86bf372d4391e01,hack_git,2023-07-01T12:15:09.000Z,1675115825974444032,"{cloneDir=./data/CVE-2023-3338-DECPwn, ownerName=TurtleARM, repoName=CVE-2023-3338-DECPwn, stars=32, forks=10, issues=0}","CVE-2023-3338
+
+Practicing different Linux kernel exploitation techniques with my DECnet vulnerability and null page mapping enabled.
+
+https://t.co/WWNqMrNI4b
+
+#cve #cybersecurity #infosec
+https://t.co/D6jhi0Iyae https://t.co/909FLWOUGG"
+181,655088cba86bf372d4391e02,HunterMapping,2023-06-30T10:00:02.000Z,1674719433858723842,"{repoName=CVE-2023-34843, stars=7, forks=1, issues=0, cloneDir=./data/CVE-2023-34843, ownerName=rootd4ddy}","🚨Alert🚨 CVE-2023-34843 #Traggo directory traversal
+📎 https://t.co/5FLOFhy32j
+
+Other Dorks: 
+🫐FOFA icon_hash=""1959037266""
+🍓Shodan http.favicon.hash:1959037266
+
+Refer to:
+https://t.co/YDc8adoYBM
+
+#CVE #infosec #vulnerabilities #Security https://t.co/XtzYDWPaz5"
+182,655088cda86bf372d4391e03,TheHackForce,2023-06-30T09:15:37.000Z,1674708255585566720,"{repoName=CVE-2022-4510-WalkingPath, stars=9, forks=2, issues=0, cloneDir=./data/CVE-2022-4510-WalkingPath, ownerName=adhikara13}","CVE-2022-4510
+A Python script for generating exploits targeting CVE-2022-4510 RCE Binwalk. It supports SSH, command execution, and reverse shell options. Exploits are saved in PNG format. Ideal for testing and demonstrations.
+
+https://t.co/9r1n18sUpc
+
+#cve #cybersecurity #infosec"
+183,655088d4a86bf372d4391e04,GobySec,2023-06-29T02:55:11.000Z,1674250128113414146,"{cloneDir=./data/Research, ownerName=gobysec, repoName=Research, stars=53, forks=3, issues=0}","Command execution and shell reverse! Best practices for vulnerability remediation? In-depth analysis of Jenkins vulnerability. #Vulnerability #Jenkins #CVE #infosec 
+
+Learn More: https://t.co/VzIVXFrv2Q https://t.co/SAf3cD0y6m"
+184,655088d7a86bf372d4391e05,hack_git,2023-06-28T13:16:08.000Z,1674044007482028033,"{stars=1, forks=2, issues=0, cloneDir=./data/CVE-2023-34598, ownerName=maddsec, repoName=CVE-2023-34598}","CVE-2023-34598
+
+Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI) vulnerability where it's possible to include the content of several files present in the installation folder in the server's response.
+
+https://t.co/z3jYTCBLdy
+
+#cve #cyberse… https://t.co/1mYGdURcsM https://t.co/Wwk3Rd9FgN"
+185,655088dda86bf372d4391e06,hack_git,2023-06-28T13:16:04.000Z,1674043993082961920,"{ownerName=Xh4H, repoName=CVE-2023-34840, stars=2, forks=2, issues=0, cloneDir=./data/CVE-2023-34840}","CVE-2023-34840
+
+All versions in angular-ui-notification are vulnerable to XSS due to the library not sanitizing the input provided by the user.
+
+https://t.co/O7pjxNCj2T
+
+#cve #cybersecurity #infosec
+https://t.co/19J1VdtJqD https://t.co/zvWrzbLkFn"
+186,655088e0a86bf372d4391e07,s0urc3c0d3err0r,2023-06-28T08:57:50.000Z,1673979004460896261,"{cloneDir=./data/CVE-2023-35844, ownerName=Lserein, repoName=CVE-2023-35844, stars=20, forks=2, issues=0}","CVE-2023-35844
+
+Lightdash directory traversal. https://t.co/MgERz0RWnv
+#cve #cybersecurity #infosec https://t.co/XfnOnqAaeG"
+187,655088e2a86bf372d4391e08,joeberry,2023-06-27T14:05:56.000Z,1673694153467731968,"{stars=13, forks=1, issues=0, cloneDir=./data/nvdsearch, ownerName=optiv, repoName=nvdsearch}","Sharing out a tool I put together for quick CPE &amp; CVE lookups using the National Vulnerability Database (NVD) APIs. It was written out of a need for a quick and convenient way to get the data into a CSV for consumption (e.g., reporting). #cve
+https://t.co/0MhpczyinZ"
+188,655088f9a86bf372d4391e09,OWNGER_HACK,2023-06-27T08:05:59.000Z,1673603570443382787,"{forks=19, issues=4, cloneDir=./data/CVE-2022-38694_unlock_bootloader, ownerName=TomKing062, repoName=CVE-2022-38694_unlock_bootloader, stars=117}","CVE-2022-38694
+
+An attacker with physical access to the device can overwrite a function pointer somewhere in the BootROM data section or a return address stored on the stack and execute their own code with BootROM privileges.
+
+https://t.co/KPG0WhOAUN
+
+#cve #cybersecurity https://t.co/w45AgxBgc6"
+189,655088fca86bf372d4391e0a,OWNGER_HACK,2023-06-27T08:03:07.000Z,1673602846057697281,"{cloneDir=./data/CVE-2023-23333, ownerName=Mr-xn, repoName=CVE-2023-23333, stars=14, forks=4, issues=0}","CVE-2023-23333
+
+SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates.
+
+https://t.co/nVVCBQqeBs
+
+#cve #cybersecurity #infosec https://t.co/trUXeXFMIX"
+190,655088fea86bf372d4391e0b,OWNGER_HACK,2023-06-27T08:02:52.000Z,1673602784195907586,"{forks=15, issues=3, cloneDir=./data/CVE2023-1829, ownerName=lanleft, repoName=CVE2023-1829, stars=66}","CVE2023-1829
+
+The exploitation is tested on Ubuntu22.04 official source code 5.15.0-25.25
+
+https://t.co/NbKZt5fblZ
+
+#cve #cybersecurity #infosec https://t.co/voYrTEnYpi"
+191,65508901a86bf372d4391e0c,OWNGER_HACK,2023-06-27T07:58:51.000Z,1673601771766435840,"{ownerName=CKevens, repoName=CVE-2023-33829-POC, stars=3, forks=1, issues=0, cloneDir=./data/CVE-2023-33829-POC}","CVE-2023-33829
+
+SCM Manager XSS
+
+https://t.co/TaqJm36gyV
+
+#cve #cybersecurity #infosec https://t.co/OdtXmlLmNg"
+192,65508903a86bf372d4391e0d,OWNGER_HACK,2023-06-27T07:57:29.000Z,1673601428366180357,"{cloneDir=./data/CVE-2023-32353-PoC, ownerName=86x, repoName=CVE-2023-32353-PoC, stars=31, forks=4, issues=0}","CVE-2023-32353
+
+Local privilege escalation via iTunes in Windows.
+
+https://t.co/HGjWX8H8k7
+
+#cve #cybersecurity #infosec https://t.co/wbovsDIett"
+193,65508906a86bf372d4391e0e,OWNGER_HACK,2023-06-26T19:31:10.000Z,1673413610855362569,"{stars=12, forks=2, issues=0, cloneDir=./data/CVE-2023-25157, ownerName=0x2458bughunt, repoName=CVE-2023-25157}","CVE-2023-25157
+
+This is a simple Python Script to Find the Latest GeoServer SQL Injection Vulnerability. You can use the Scripts on hosts to check for infected path.
+
+https://t.co/lWbAtACNX1
+
+#cve #cybersecurity #infosec https://t.co/YCGTKGCjoW"
+194,65508908a86bf372d4391e0f,OWNGER_HACK,2023-06-26T19:30:57.000Z,1673413559668076551,"{issues=0, cloneDir=./data/CVE-2023-0630, ownerName=RandomRobbieBF, repoName=CVE-2023-0630, stars=2, forks=3}","CVE-2023-0630
+
+Slimstat Analytics &lt; 4.9.3.3 - Subscriber+ SQL Injection.
+
+https://t.co/zyiOrrUi2q
+
+#cve #cybersecurity #infosec https://t.co/jdUJLJAxT2"
+195,6550890ba86bf372d4391e10,OWNGER_HACK,2023-06-25T13:28:25.000Z,1672959937171935233,"{ownerName=maddsec, repoName=CVE-2023-34599, stars=3, forks=2, issues=0, cloneDir=./data/CVE-2023-34599}","CVE-2023-34599
+
+Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.
+
+https://t.co/eyxfxMZEQU
+
+#cve #cybersecurity #infosec https://t.co/GEhdjUGDgX"
+196,65508916a86bf372d4391e11,OWNGER_HACK,2023-06-25T06:10:26.000Z,1672849715480743937,"{cloneDir=./data/security-research, ownerName=google, repoName=security-research, stars=2570, forks=342, issues=10}","Security Research
+
+This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+
+https://t.co/X40td6cBtH
+
+#cve #cybersecurity #infosec https://t.co/WY7a6KdVTa"
+197,65508918a86bf372d4391e12,OWNGER_HACK,2023-06-25T06:09:29.000Z,1672849475444826113,"{cloneDir=./data/CVE-2023-30777, ownerName=Alucard0x1, repoName=CVE-2023-30777, stars=6, forks=2, issues=0}","CVE-2023-30777
+
+Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin.
+
+https://t.co/qt5mF7hQjH
+
+#cve #cybersecurity #infosec https://t.co/HGCIATZ1Y5"
+198,6550891ba86bf372d4391e13,OWNGER_HACK,2023-06-25T06:08:45.000Z,1672849289461022722,"{stars=16, forks=4, issues=0, cloneDir=./data/CVE-2023-25610, ownerName=qi4L, repoName=CVE-2023-25610}","CVE-2023-25610
+
+RCE vulnerability in FortiOS
+
+https://t.co/HP5kIGnt7B
+
+#cve #cybersecurity #infosec https://t.co/LgWa1bRoaH"
+199,6550891da86bf372d4391e14,OWNGER_HACK,2023-06-25T06:08:37.000Z,1672849254883250181,"{issues=2, cloneDir=./data/CVE-2023-29343, ownerName=Wh04m1001, repoName=CVE-2023-29343, stars=161, forks=25}","CVE-2023-29343
+
+This is PoC for arbitrary file write bug in Sysmon version 14.14
+
+https://t.co/etERayoPkq
+
+#cve #cybersecurity #infosec https://t.co/eROZtTumwj"
+200,65508920a86bf372d4391e15,OWNGER_HACK,2023-06-23T17:46:40.000Z,1672300150662782977,"{stars=2, forks=1, issues=0, cloneDir=./data/CVE-2023-35840, ownerName=afine-com, repoName=CVE-2023-35840}","CVE-2023-35840
+
+elFinder &lt; 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector.
+
+https://t.co/Z49U8pbMrk
+
+#cve #cybersecurity #infosec https://t.co/QQd0FMcU2t"
+201,65508924a86bf372d4391e16,OWNGER_HACK,2023-06-23T05:54:25.000Z,1672120908327124992,"{forks=23, issues=0, cloneDir=./data/CVE-2023-27997-check, ownerName=BishopFox, repoName=CVE-2023-27997-check, stars=105}","CVE-2023-27997
+
+Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing.
+
+https://t.co/vxp154QsN4
+
+#cve #cybersecurity #infosec https://t.co/QnIgD9UBCX"
+202,65508926a86bf372d4391e17,OWNGER_HACK,2023-06-22T13:22:37.000Z,1671871312883601408,"{ownerName=Sweelg, repoName=CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln, stars=19, forks=5, issues=0, cloneDir=./data/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln}","CVE-2023-1454
+
+Jeecg Boot qurestSql SQL vuln
+
+https://t.co/Rq1W8o7e7T
+
+#cve #cybersecurity #infosec https://t.co/ti4joEkmRo"
+203,65508929a86bf372d4391e18,OWNGER_HACK,2023-06-22T13:22:15.000Z,1671871220059455489,"{cloneDir=./data/CVE-2023-30347, ownerName=huzefa2212, repoName=CVE-2023-30347, stars=0, forks=1, issues=0}","CVE-2023-30347
+
+Reflected Cross-Site-Scripting in Neox Contact Center
+
+https://t.co/KGhpjMPonZ
+
+#cve #cybersecurity #infosec https://t.co/EmaWflHXos"
+204,65508930a86bf372d4391e19,OWNGER_HACK,2023-06-22T05:36:05.000Z,1671753904265019392,"{cloneDir=./data/CVE-2021-30357_CheckPoint_SNX_VPN_PoC, ownerName=joaovarelas, repoName=CVE-2021-30357_CheckPoint_SNX_VPN_PoC, stars=6, forks=1, issues=0}","CVE-2021-30357
+
+Proof-of-Concept for privileged file read through CheckPoint SNX VPN Linux Client.
+
+https://t.co/9Wx9aEmHOl
+
+#cve #cybersecurity #infosec https://t.co/7JmgchrH0b"
+205,65508934a86bf372d4391e1a,CVE2023_news,2023-06-21T10:59:51.000Z,1671472996249223169,"{cloneDir=./data/CVE-2023-27372, ownerName=nuts7, repoName=CVE-2023-27372, stars=51, forks=5, issues=0}","First PoC of CVE-2023-27372, RCE Unauthenticated in SPIP &lt; 4.2.1 :
+
+https://t.co/03XpSxlBgr
+
+#cybersecurity #cve #spip #exploit #redteam #cves #hacking #bugbounty #poc #vulnerability #vulnerabilities #rce #pentest #infosec #infosecurity #CVE #POC #vulnerabilityassesment #cve2023"
+206,65508938a86bf372d4391e1b,OWNGER_HACK,2023-06-20T06:25:34.000Z,1671041581212655617,"{issues=5, cloneDir=./data/CVE-2023-20178, ownerName=Wh04m1001, repoName=CVE-2023-20178, stars=89, forks=18}","CVE-2023-20178
+
+This is PoC for Arbitrary File Delete vulnerability in Cisco Secure Client (tested on 5.0.01242) and Cisco AnyConnect (tested on 4.10.06079).
+
+https://t.co/9HOmM4oMrg
+
+#cve #cybersecurity #infosec https://t.co/BF0dcJEgGb"
+207,65508949a86bf372d4391e1c,hack_git,2023-06-19T10:35:00.000Z,1670741965166485504,"{cloneDir=./data/hermes-the-messenger, ownerName=persistent-security, repoName=hermes-the-messenger, stars=41, forks=3, issues=0}","Hermes the messenger
+
+A PoC for achieving persistence via push notifications on Windows.
+
+https://t.co/aERtLiplY8
+
+#cybersecurity  #infosec  #Pentesting #cve #poc https://t.co/9F6ZpCbH2L"
+208,6550894ea86bf372d4391e1d,hack_git,2023-06-19T07:57:53.000Z,1670702428365152258,"{repoName=CVE-2023-24078, stars=2, forks=2, issues=0, cloneDir=./data/CVE-2023-24078, ownerName=rio128128}","CVE-2023-24078
+
+FuguHub / BarracudaDrive
+
+https://t.co/0h7GORmCSL
+
+#cve #cybersecurity #infosec https://t.co/aIo9iKHO32"
+209,65508950a86bf372d4391e1e,miko5501,2023-06-19T03:43:33.000Z,1670638420857851904,"{cloneDir=./data/CVE-2023-32315, ownerName=miko550, repoName=CVE-2023-32315, stars=13, forks=4, issues=2}","PoC CVE-2023-32315 Openfire Console Authentication Bypass Vulnerability with RCE plugin
+
+https://t.co/mdf94IbU73
+
+#Openfire #Authentication #bypass #vulnerability #cve #cybersecurity #infosec"
+210,65508953a86bf372d4391e1f,OWNGER_HACK,2023-06-19T02:38:39.000Z,1670622090246881280,"{forks=6, issues=0, cloneDir=./data/CVE-2023-33781, ownerName=s0tr, repoName=CVE-2023-33781, stars=2}","CVE-2023-33781
+
+D-Link DIR-842V2 v1.0.3 was discovered to allow a user to run an arbitrary binary when connecting to telnet. This vulnerability can be triggered using backup/restore functionality.
+
+https://t.co/vQXirtFA4t
+
+#cve #cybersecurity #infosec https://t.co/sb3TCWez1y"
+211,65508955a86bf372d4391e20,OWNGER_HACK,2023-06-19T02:38:16.000Z,1670621993261998081,"{repoName=CVE-2023-33782, stars=2, forks=6, issues=0, cloneDir=./data/CVE-2023-33782, ownerName=s0tr}","CVE-2023-33782
+
+D-Link DIR-842V2 v1.0.3 was discovered to contain a command injection vulnerability in the iperf3 diagnostics functionality.
+
+https://t.co/JqHD9qNSG5
+
+#cve #cybersecurity #infosec https://t.co/3mXBdPS3sW"
+212,65508958a86bf372d4391e21,OWNGER_HACK,2023-06-19T02:36:00.000Z,1670621420903120897,"{cloneDir=./data/CVE-2023-33246_RocketMQ_RCE_EXPLOIT, ownerName=Malayke, repoName=CVE-2023-33246_RocketMQ_RCE_EXPLOIT, stars=89, forks=17, issues=1}","CVE-2023-33246 
+
+RocketMQ Remote Code Execution #Exploit.
+
+https://t.co/jpQtgrysfi
+
+#cve #cybersecurity #infosec https://t.co/WeReUIq2PR"
+213,6550895aa86bf372d4391e22,OWNGER_HACK,2023-06-19T02:35:51.000Z,1670621384177844232,"{cloneDir=./data/CVE-2023-33381-MitraStar-GPT-2741GNAC, ownerName=duality084, repoName=CVE-2023-33381-MitraStar-GPT-2741GNAC, stars=7, forks=3, issues=0}","2023-33381
+
+OS command injection on MitraStar GPT-2741GNAC.
+
+https://t.co/1Dj3OISWZU
+
+#cve #cybersecurity #infosec https://t.co/fzUpASpEUS"
+214,65508962a86bf372d4391e23,hack_git,2023-06-17T13:16:16.000Z,1670057775710236675,"{cloneDir=./data/CVE-2023-32315-Openfire-Bypass, ownerName=tangxiaofeng7, repoName=CVE-2023-32315-Openfire-Bypass, stars=101, forks=29, issues=2}","CVE-2023-32315
+
+Openfire Bypass
+
+https://t.co/TqHgMJB81N
+
+#cve #cybersecurity #infosec
+https://t.co/82s0LiCNHK https://t.co/m29rOjR9l9"
+215,65508965a86bf372d4391e24,hack_git,2023-06-17T13:16:10.000Z,1670057750959726593,"{cloneDir=./data/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below, ownerName=leekenghwa, repoName=CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below, stars=4, forks=3, issues=0}","CVE-2023-34830
+
+i-doit Open v24 and below are vulnerable to Reflected XSS vulnerability. These vulnerabilities could allow remote authenticated attackers to inject arbitrary web script or HTML.
+
+https://t.co/xB56RAMUkw
+
+#cve #cybersecurity #infosec
+https://t.co/RYCwSxzfaX https://t.co/M217HyDitF"
+216,65508975a86bf372d4391e25,W01fh4cker,2023-06-16T14:12:37.000Z,1669709568488742913,"{cloneDir=./data/CVE-2023-34960, ownerName=Aituglo, repoName=CVE-2023-34960, stars=32, forks=10, issues=0}","#CVE-2023-34960
+Fofa: 
+        - app=""Chamilo""
+        - header=""x-powered-by: Chamilo""
+Shodan:
+        - http.component:""Chamilo""
+        - x-powered-by: Chamilo
+POC: 
+https://t.co/hFNoGFBdHw
+#CVE-2023-20887 #0day #1day #nday #Chamilo #Fofa #Shodan"
+217,65508981a86bf372d4391e26,loginShareMan,2023-06-16T06:46:33.000Z,1669597312836947968,"{cloneDir=./data/CVE-2007-2447-RCE, ownerName=MikeRega7, repoName=CVE-2007-2447-RCE, stars=0, forks=1, issues=0}","This exploit helps you to get a reverse shell, exploting Samba 3.0.20 &lt; 3.0.25 #CVE #SMB #RCE
+https://t.co/VUtXns01oI"
+218,65508983a86bf372d4391e27,n0ipr0cs,2023-06-15T13:54:41.000Z,1669342667619303426,"{issues=0, cloneDir=./data/CVE-2023-20887, ownerName=sinsinology, repoName=CVE-2023-20887, stars=220, forks=44}","VMware vRealize Network Insight — Pre-authenticated RCE (CVE-2023 20887)
+
+Exploit:
+https://t.co/xk8ZItAccg
+
+Research: 
+https://t.co/DWWy2x9c69
+
+#VMware #vRealize #rce #cve"
+219,65508987a86bf372d4391e28,OWNGER_HACK,2023-06-15T07:09:31.000Z,1669240703497428992,"{ownerName=horizon3ai, repoName=CVE-2023-34362, stars=129, forks=32, issues=0, cloneDir=./data/CVE-2023-34362}","CVE-2023-34362
+
+POC for CVE-2023-34362 affecting MOVEit Transfer.
+
+https://t.co/rk6swy3TRn
+
+#cve #cybersecurity #infosec https://t.co/xxNMZ2ieU4"
+220,6550898ba86bf372d4391e29,OWNGER_HACK,2023-06-15T07:08:22.000Z,1669240413549461504,"{forks=11, issues=0, cloneDir=./data/CVE-2023-2008, ownerName=bluefrostsecurity, repoName=CVE-2023-2008, stars=33}","CVE-2023-2008
+
+Proof of concept exploit for CVE-2023-2008, a bug in the udmabuf driver of the Linux kernel fixed in 5.19-rc4.
+
+https://t.co/1Gz9NkxmHp
+
+#cve #cybersecurity #infosec https://t.co/avQOsIEgBT"
+221,6550898fa86bf372d4391e2a,cracbot,2023-06-15T06:00:51.000Z,1669223424357711872,"{ownerName=cloudflare, repoName=cfnts, stars=175, forks=14, issues=10, cloneDir=./data/cfnts}","CVE-2023-3036 (CVSS:8.6, HIGH) is Awaiting Analysis. An unchecked read in NTP server in https://t.co/I62G74p5Cr prior to commit  783490b https://t.co/3quUTqlR03 #cybersecurityawareness #cybersecurity #CVE #infosec #hacker #nvd #mitre"
+222,655089b7a86bf372d4391e2b,OWNGER_HACK,2023-06-04T18:47:35.000Z,1665430113796734977,"{cloneDir=./data/badspin, ownerName=0xkol, repoName=badspin, stars=198, forks=29, issues=3}","CVE-2022-20421
+
+Privilege escalation exploit from unstrusted_app for Android Binder vulnerability (CVE-2022-20421). The vulnerability is patched on Android's Security Bulletin of October 2022.
+
+https://t.co/aMl7rSiVxs
+
+#cve #infosec #exploit https://t.co/W8R7vHFAe4"
+223,655089c5a86bf372d4391e2c,OWNGER_HACK,2023-06-04T11:39:14.000Z,1665322313519177729,"{cloneDir=./data/CVE-2023-2732, ownerName=RandomRobbieBF, repoName=CVE-2023-2732, stars=8, forks=7, issues=0}","CVE-2023-2732
+
+MStore API &lt;= 3.9.2 - Authentication Bypass
+
+https://t.co/chN75OzTfO
+
+#cve #cybersecurity #infosec https://t.co/GEP686pa2V"
+224,655089c7a86bf372d4391e2d,OWNGER_HACK,2023-06-04T11:38:56.000Z,1665322239196274689,"{forks=2, issues=0, cloneDir=./data/CVE-2023-30145, ownerName=paragbagul111, repoName=CVE-2023-30145, stars=5}","CVE-2023-30145
+
+Camaleon CMS v2.7.0 was discovered to contain a Server-Side Template Injection (SSTI) vulnerability via the formats parameter.
+
+https://t.co/3DMbF0ngh4
+
+#cve #cybersecurity #infosec https://t.co/f7mqvDjTH9"
+225,655089c9a86bf372d4391e2e,OWNGER_HACK,2023-06-02T07:03:43.000Z,1664528202960629761,"{forks=32, issues=0, cloneDir=./data/Apache-Dubbo-CVE-2023-23638-exp, ownerName=YYHYlh, repoName=Apache-Dubbo-CVE-2023-23638-exp, stars=211}","CVE-2023-23638
+
+Apache Dubbo Vulnerability Exploitation Engineering Practice, covering Dubbo 3.x from service discovery to vulnerability exploitation and reverse display. 
+
+https://t.co/VaiTfsjYDZ
+
+#cve #poc #cybersecurity #infosec https://t.co/FTk8NQgJhk"
+226,655089cfa86bf372d4391e2f,hack_git,2023-06-01T12:15:05.000Z,1664244170356137988,"{forks=3, issues=0, cloneDir=./data/CVE-2023-3009, ownerName=mnqazi, repoName=CVE-2023-3009, stars=0}","CVE-2023-3009
+
+Stored #XSS on item name - Bypassing CVE-2023-2516 in TeamPass &lt; 3.0.9 - by M Nadeem Qazi.
+
+https://t.co/5gLHPS2wlD
+
+#cve #cybersecurity #infosec
+https://t.co/c3xR2REjmP https://t.co/5EEBGnAqnK"
+227,655089d4a86bf372d4391e30,dilagrafie,2023-05-31T19:02:58.000Z,1663984431357411333,"{cloneDir=./data/CVE-2021-41091, ownerName=UncleJ4ck, repoName=CVE-2021-41091, stars=59, forks=7, issues=0}","CVE-2021-41091
+
+This exploit offers an in-depth look at the CVE-2021-41091 security vulnerability and provides a step-by-step guide on how to utilize the exploit script to achieve privilege escalation on a host.
+
+https://t.co/0tebieWqfv
+
+#cve #infosec https://t.co/n4HTw37j2Q"
+228,655089efa86bf372d4391e31,hack_git,2023-05-30T12:15:13.000Z,1663519432130412544,"{repoName=CVE-2020-0796, stars=6, forks=4, issues=0, cloneDir=./data/CVE-2020-0796, ownerName=Ajomix}","CVE-2020-0796
+
+Windows Protocol TestSuites is to trigger BSoD (full #exploit).
+
+https://t.co/Oa98UuzDQY
+
+#cve #cybersecurity #infosec
+https://t.co/nd7maq1w2b https://t.co/7ArHCNH5zY"
+229,655089f1a86bf372d4391e32,hack_git,2023-05-30T12:15:05.000Z,1663519395744808967,"{repoName=CVE-2023-33246, stars=58, forks=20, issues=1, cloneDir=./data/CVE-2023-33246, ownerName=I5N0rth}","CVE-2023-33246
+
+Apache rocketmq remote code execution vulnerability.
+
+https://t.co/9WzPHPbBLH
+
+#cve #cybersecurity #infosec
+https://t.co/CvTPsXyboz https://t.co/fJgE9qpZAR"
+230,655089f5a86bf372d4391e33,hansspaans,2023-05-28T09:58:31.000Z,1662760253476204548,"{stars=25, forks=6, issues=0, cloneDir=./data/CVE-2023-28771-PoC, ownerName=fed-speak, repoName=CVE-2023-28771-PoC}",Good to see more #CVE examples written in #Python on published #GitHub to learn how they work https://t.co/ex7vQ45n7e
+231,655089f9a86bf372d4391e34,MarioRojasChin,2023-05-28T07:18:56.000Z,1662720090708619266,"{forks=26, issues=2, cloneDir=./data/CVE_Prioritizer, ownerName=TURROKS, repoName=CVE_Prioritizer, stars=164}",New feature alert! I've added color coding to CVE_Prioritizer. Now you can easily spot the different priorities in the terminal output https://t.co/U0LANNjQuo    #CyberSecurity #CVE #vulnerability #CISA #EPSS https://t.co/xBRcfuVGZv
+232,655089fba86bf372d4391e35,akaclandestine,2023-05-27T21:23:27.000Z,1662570234291580931,"{cloneDir=./data/CVE-2023-2825, ownerName=Occamsec, repoName=CVE-2023-2825, stars=142, forks=33, issues=2}","🎯 GitLab cve-2023-2825
+Shodan Dork: 
+application-77ee44de16d2f31b4ddfd214b60b6327fe48b92df7054b1fb928fd6d4439fc7e.css
+
+Research: 
+https://t.co/QuOEe14eDc
+
+PoC: 
+https://t.co/jlJfmU1vKN
+
+#gitlab #path #traversal #poc #cve"
+233,65508a03a86bf372d4391e36,digitalalltech,2023-05-26T13:57:11.000Z,1662095537712054272,"{repoName=ChatCVE, stars=8, forks=1, issues=0, cloneDir=./data/ChatCVE, ownerName=jasona7}","Read only Friday.  Advanced #DevSecOps #CVE and #SBOM data queries using human language requests.
+🔎🧑🏼‍💻☕
+
+A universal CyberSecurity prompt backed by @LangChainAI SQL Tools for Vulnerability and Software Bill of Materials data.
+repo: https://t.co/RP5gFowgPM"
+234,65508a07a86bf372d4391e37,hack_git,2023-05-26T12:19:54.000Z,1662071056264228866,"{cloneDir=./data/CVE-2020-0683, ownerName=padovah4ck, repoName=CVE-2020-0683, stars=339, forks=57, issues=2}","CVE-2020-0683
+
+Original Poc sent to MSRC. Assigned to CVE-2020-0683 - Windows Installer Elevation of Privilege.
+
+ https://t.co/epZuxNlZ44
+
+#cve #cybersecurity #infosec https://t.co/rBqj1pPJku"
+235,65508a10a86bf372d4391e38,hack_git,2023-05-25T12:15:04.000Z,1661707455141748736,"{cloneDir=./data/CVE-2023-2859, ownerName=mnqazi, repoName=CVE-2023-2859, stars=0, forks=2, issues=0}","CVE-2023-2859
+
+Stored HTML injection in folderName affecting Admin in TeamPass &lt;3.0.9
+
+https://t.co/aIaXcU6OIQ
+
+#cve #cybersecurity #infosec
+https://t.co/Ru5jXdUsq0 https://t.co/AeCK9uJ9uV"
+236,65508a15a86bf372d4391e39,OWNGER_HACK,2023-05-23T15:30:09.000Z,1661031771947900929,"{cloneDir=./data/CVE-2023-2822-demo, ownerName=cberman, repoName=CVE-2023-2822-demo, stars=3, forks=2, issues=0}","CVE-2023-2822
+
+Simple flask application to implement an intentionally vulnerable web app to demo CVE-2023-2822.
+
+https://t.co/RtxVygWDLF
+
+#cve #cybersecurity #infosec https://t.co/B3i7URg8Ay"
+237,65508a18a86bf372d4391e3a,OWNGER_HACK,2023-05-23T15:28:37.000Z,1661031387720286209,"{stars=222, forks=33, issues=1, cloneDir=./data/CVE-2023-25690-POC, ownerName=dhmosfunk, repoName=CVE-2023-25690-POC}","CVE 2023 25690 
+
+Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability.
+
+https://t.co/OuLItBCGvl
+
+#cve #poc #infosec https://t.co/BOtLSx2G7R"
+238,65508a21a86bf372d4391e3b,ptracesecurity,2023-05-20T16:00:39.000Z,1659952282102820865,"{ownerName=vdohney, repoName=keepass-password-dumper, stars=592, forks=50, issues=2, cloneDir=./data/keepass-password-dumper}",KeePass 2.X Master Password Dumper (CVE-2023-32784)  https://t.co/JO3xgZ1Eyc  #Pentesting #CVE #CyberSecurity #Infosec https://t.co/in62t4WaEI
+239,65508a26a86bf372d4391e3c,CriminalIP_AR,2023-05-20T07:00:01.000Z,1659816228762836992,"{forks=47, issues=0, cloneDir=./data/Pentesting-Bugbounty, ownerName=RESETHACKER-COMMUNITY, repoName=Pentesting-Bugbounty, stars=186}","يمكنك اكتشاف الثغرات الامنية التي تحتاج الي تصحيح في مواقع WordPress بالإضافة الى ثغرات الاصدارات القديمة من WordPress على Github
+https://t.co/mSEn4c8ZPH
+
+https://t.co/Um9Cz8yk2O
+
+#WordPress #CVE #Vulnerabilities #Cybersecurity #Infosec #OSINT"
+240,65508a33a86bf372d4391e3d,hack_git,2023-05-19T12:15:19.000Z,1659533188450975749,"{repoName=CVE-2023-21554-PoC, stars=49, forks=14, issues=1, cloneDir=./data/CVE-2023-21554-PoC, ownerName=zoemurmure}","CVE-2023-21554
+
+PoC CVE-2023-21554 Windows MessageQueuing.
+
+https://t.co/5OhWTIzh9R
+
+#cve #poc #infosec
+https://t.co/7ivQ9691AQ https://t.co/09Va2PfSR5"
+241,65508a3aa86bf372d4391e3e,aidbstech,2023-05-18T11:34:31.000Z,1659160531641708547,"{cloneDir=./data/CVE-2022-23808, ownerName=dipakpanchal05, repoName=CVE-2022-23808, stars=110, forks=24, issues=0}","CVE-2022-23808
+
+phpMyAdmin Exploit
+
+Learn how to fix it.
+
+https://t.co/vjcfRo60rV
+
+#cve #infosec #pentesting https://t.co/QWtH2aZisy"
+242,65508a3da86bf372d4391e3f,iron_fortress,2023-05-17T23:41:00.000Z,1658980970677125120,"{cloneDir=./data/CVE-2023-32233, ownerName=Liuk3r, repoName=CVE-2023-32233, stars=345, forks=76, issues=0}","Nueva vulnerabilidad en sistemas Linux permite escalar privilegios
+
+https://t.co/K3rebNLCV1
+
+#cve-2023-32233 #exploit #privesc https://t.co/NGc1E6CHfp"
+243,65508a43a86bf372d4391e40,hack_git,2023-05-16T12:15:15.000Z,1658446006915088386,"{issues=6, cloneDir=./data/CVE-2023-32243, ownerName=RandomRobbieBF, repoName=CVE-2023-32243, stars=70, forks=26}","CVE-2023-32243
+
+Essential Addons for Elementor 5.4.0-5.7.1 - Unauthenticated Privilege Escalation.
+
+https://t.co/iuujbmi5DH
+
+#cve #infosec #cybersecurity
+https://t.co/n5KVCmwWUP https://t.co/cEiWy8HvBC"
+244,65508a4aa86bf372d4391e41,OWNGER_HACK,2023-05-15T10:16:41.000Z,1658053781941002240,"{cloneDir=./data/HPHardwareDiagnostics-PoC, ownerName=alfarom256, repoName=HPHardwareDiagnostics-PoC, stars=49, forks=10, issues=0}","HPHardwareDiagnostics-PoC
+
+PoC exploit for HP Hardware Diagnostic's EtdSupp driver
+
+https://t.co/QJri2t8yIR
+
+#cve #poc #exploit https://t.co/NeiHBDPXuW"
+245,65508a4da86bf372d4391e42,OWNGER_HACK,2023-05-15T10:16:08.000Z,1658053645554929666,"{ownerName=kn32, repoName=parallels-plist-escape, stars=16, forks=6, issues=0, cloneDir=./data/parallels-plist-escape}","parallels-plist-escape
+
+This repository contains exploits for CVE-2023-27327 and CVE-2023-27328, which can be used together to escape a Parallels Desktop virtual machine, prior to Parallels Desktop 18.1.1.
+
+https://t.co/TDvl0VD4dp
+
+#cve #cybersecurity #infosec https://t.co/ygB6N6t0lp"
+246,65508a55a86bf372d4391e43,hack_git,2023-05-14T16:19:04.000Z,1657782590852550657,"{cloneDir=./data/CVE-2023-27524, ownerName=TardC, repoName=CVE-2023-27524, stars=12, forks=1, issues=0}","CVE-2023-27524
+
+Apache Superset Auth Bypass (CVE-2023-27524)
+
+https://t.co/WBswRpP0mp
+
+#cve #cybersecurity #infosec
+https://t.co/XqjaaGUZV0 https://t.co/uuuKV6AuTq"
+247,65508a60a86bf372d4391e44,eMbeddedHome,2023-05-10T11:50:03.000Z,1656265338760097792,"{repoName=CVE-2023-0386, stars=105, forks=19, issues=3, cloneDir=./data/CVE-2023-0386, ownerName=chenaotian}","#Rootshell #Linux #Exploit 
+Logic mistake in FUSE
+#CVE-2023-0386
+#kuid_has_mapping
+Kernel 5.11 - 5.19
+Proof-of-Concept-Exploit
+ℹ️https://t.co/A3BsACvJy7
+
+#CVE-2023-32233
+#nf_tables (use after free)
+also stable Kernel 6.3.1
+ℹ️https://t.co/OEcj46c92b
+patch https://t.co/4sbPJ5cT0K"
+248,65508a64a86bf372d4391e45,clexingtony,2023-05-09T20:30:23.000Z,1656033897577168898,"{cloneDir=./data/TOP, ownerName=hktalent, repoName=TOP, stars=590, forks=113, issues=0}","TOP
+
+all Top Top Top_Codeql TOP All bugbounty pentesting CVE-2022- POC Exp Things
+
+https://t.co/BeizTObznM
+
+#infosec #cybersecurity #cvE"
+249,65508a75a86bf372d4391e46,SysReptor,2023-05-09T10:48:48.000Z,1655887539381628928,"{issues=429, cloneDir=./data/CyberChef, ownerName=gchq, repoName=CyberChef, stars=23100, forks=2749}","CyberChef is our favorite tool for encoding and decoding. Runs as JavaScript locally in the browser. It's that easy.
+
+https://t.co/u503P4q2fm
+
+#cve #cybersecurity #infosec #pentesting #bugbounty #redteaming #togetherwehitharder #bugbountytips https://t.co/F14zP302lZ"
+250,65508a84a86bf372d4391e47,SysReptor,2023-05-08T12:31:23.000Z,1655550965745958914,"{issues=27, cloneDir=./data/sysreptor, ownerName=Syslifters, repoName=sysreptor, stars=663, forks=64}","🎊 Wow! 200 stars at #GitHub. Amazing. 😘
+
+https://t.co/q8rA6IH1rz
+
+#sysreptor #cve #cybersecurity #infosec #pentesting #bugbounty #redteaming #togetherwehitharder #bugbountytips"
+251,65508a87a86bf372d4391e48,CriminalIP_AR,2023-05-07T07:00:01.000Z,1655105185700622336,"{issues=0, cloneDir=./data/awesome-intelligence, ownerName=ARPSyndicate, repoName=awesome-intelligence, stars=1526, forks=59}","تم إضافة Criminal IP لقائمةAwesome Intelligence لقدرته على التحقق من التهديدات على الامن السيبراني، الثغرات الأمنية و الصور.
+
+https://t.co/AkoYXt2g2S
+
+#Cybersecurity #Infosec #OSINT #CVE #Websecurity"
+252,65508a93a86bf372d4391e49,hack_git,2023-05-06T12:15:11.000Z,1654822111075082240,"{cloneDir=./data/CVE-2023-28231, ownerName=glavstroy, repoName=CVE-2023-28231, stars=68, forks=12, issues=0}","CVE-2023-28231
+
+DHCP Server Remote Code Execution impact: 2008 R2 SP1 до Server 2019
+
+https://t.co/viBmT3VY7k
+
+#cybersecurity #infosec #cve
+https://t.co/enP0ZEAJsi https://t.co/yn00j5wiky"
+253,65508a95a86bf372d4391e4a,matarturo,2023-05-06T10:28:11.000Z,1654795185161744385,"{repoName=CVE-2023-27326, stars=37, forks=6, issues=0, cloneDir=./data/CVE-2023-27326, ownerName=Malwareman007}","CVE-2023-27326. This vulnerability allows local attackers to escalate privileges on affected installations of Parallels Desktop.
+
+https://t.co/QJPRpOdrl1
+
+#infosec #cve #pentesting"
+254,65508a9ea86bf372d4391e4b,viehgroup,2023-05-05T05:00:01.000Z,1654350211760918529,"{cloneDir=./data/nistrich, ownerName=webemin, repoName=nistrich, stars=15, forks=2, issues=0}","nistrich allows you to discover CVEs and their severities belong to IP addresses:
+$ ./nistrich.sh -i &lt;single ip address&gt;
+
+https://t.co/SThemXoqiY
+#nistrich #cve #vulnerability #cybersecurity #infosec https://t.co/JfwM4ZqN6l"
+255,65508aa1a86bf372d4391e4c,SkinnyR_D,2023-05-03T21:14:53.000Z,1653870769997242369,"{issues=0, cloneDir=./data/Trophies, ownerName=skinnyrad, repoName=Trophies, stars=1, forks=0}","Stop by and check out the trophy list. We are waiting for 18 vulnerabilities to be processed as potential CVE's. Way to go @Halcy0nic  for killing it the past few months! #zeroday #cve #redteam
+https://t.co/BIWcXskTfF https://t.co/rmHw3NE42t"
+256,65508aa4a86bf372d4391e4d,yl0ad77,2023-05-03T20:44:45.000Z,1653863184883757057,"{repoName=GitHarvest3r, stars=7, forks=0, issues=0, cloneDir=./data/GitHarvest3r, ownerName=34zY}","Simple CVE github exploit gathering tool written in python.
+
+#Pentesting #tools #CVE #bugbountytips 
+
+Github : https://t.co/8zUGV8bTmO
+
+Blog : https://t.co/PwLiUjZHyI"
+257,65508aa7a86bf372d4391e4e,hack_git,2023-05-03T20:23:12.000Z,1653857763288645635,"{ownerName=biscuitehh, repoName=cve-2022-46718-leaky-location, stars=10, forks=3, issues=0, cloneDir=./data/cve-2022-46718-leaky-location}","CVE-2022-46718
+
+iOS Vulnerability Exposes Sensitive Location Data.
+
+https://t.co/yTdH8PSGmC
+
+#cve #cybersecurity #infosec
+https://t.co/e4z6VD77wQ https://t.co/DQ1rlfLarE"
+258,65508abba86bf372d4391e4f,hack_git,2023-04-27T09:09:15.000Z,1651513831338782722,"{stars=20, forks=2, issues=1, cloneDir=./data/CVE-2023-22621-POC, ownerName=sofianeelhor, repoName=CVE-2023-22621-POC}","CVE-2023-22621
+
+SSTI to RCE by Exploiting Email Templates affecting Strapi Versions &lt;=4.5.5
+
+https://t.co/US4zoZbiBs
+
+#cve #poc #exploit #cybersecurity #infosec https://t.co/dDMpMWHwYv"
+259,65508abea86bf372d4391e50,hack_git,2023-04-27T08:12:03.000Z,1651499434583138305,"{cloneDir=./data/CVE-2023-29007, ownerName=ethiack, repoName=CVE-2023-29007, stars=33, forks=15, issues=0}","CVE-2023-29007
+
+PoC repository for CVE-2023-29007.
+
+https://t.co/BwHchw3an0
+
+#cve #poc #infosec #redteam https://t.co/M4HWVGSTrF"
+260,65508ac2a86bf372d4391e51,hack_git,2023-04-25T16:19:03.000Z,1650897218486824966,"{cloneDir=./data/CVE-2023-1671-POC, ownerName=W01fh4cker, repoName=CVE-2023-1671-POC, stars=17, forks=2, issues=0}","CVE-2023-1671-POC
+
+Based on dnslog platform.
+
+https://t.co/qaJ4liVlSL
+
+#infosec #cve #poc
+https://t.co/rYRWpzOqhO https://t.co/zWGSXEeG2v"
+261,65508ac8a86bf372d4391e52,dilagrafie,2023-04-25T11:46:02.000Z,1650828509562953730,"{cloneDir=./data/CVE-2023-27350, ownerName=horizon3ai, repoName=CVE-2023-27350, stars=42, forks=17, issues=2}","CVE-2023-27350
+
+POC for CVE-2023-27350 affecting PaperCut MF/NG.
+
+https://t.co/EZUNkFd8Ct
+
+#cve #poc #infosec #cybersec"
+262,65508acca86bf372d4391e53,hack_git,2023-04-22T16:20:05.000Z,1649810311921147904,"{cloneDir=./data/acropalypse-gif, ownerName=heriet, repoName=acropalypse-gif, stars=9, forks=2, issues=0}","aCropalypse gif
+
+aCropalypse CVE-2023-21036 related GIF PoC. The aCropalypse reported affects PNG, but a similar exploit exists in GIF images.
+
+https://t.co/EUCBPUEi90
+
+#infosec #cve #poc https://t.co/9xm8xbU3Wh https://t.co/4ipMF3Ye2p"
+263,65508acfa86bf372d4391e54,hack_git,2023-04-21T20:23:09.000Z,1649509094275837952,"{cloneDir=./data/CVE-2022-37969, ownerName=fortra, repoName=CVE-2022-37969, stars=121, forks=36, issues=0}","CVE-2022-37969
+
+Understanding the CVE-2022-37969 Windows Common Log File System Driver Local Privilege Escalation.
+
+https://t.co/24K4juRoDF
+
+#infosec #cve #poc #exploit https://t.co/3sAvLTcvgt https://t.co/sIy2wtfrOS"
+264,65508ad5a86bf372d4391e55,ptracesecurity,2023-04-20T18:00:39.000Z,1649110847103401985,"{cloneDir=./data/CVE-2023-25136, ownerName=adhikara13, repoName=CVE-2023-25136, stars=45, forks=9, issues=1}",OpenSSH Pre-Auth Double Free CVE-2023-25136 POC https://t.co/Ogu30RiZJw #Pentesting #CVE #CyberSecurity #Infosec https://t.co/72YFIdOela
+265,65508adea86bf372d4391e56,ksg93rd,2023-04-19T16:00:44.000Z,1648718282118012928,"{stars=76, forks=9, issues=0, cloneDir=./data/CVE-2023-2002, ownerName=lrh2000, repoName=CVE-2023-2002}","CVE-2023-2002 ( Linux Bluetooth: Unauthorized management command execution ) 
+
+https://t.co/eEjX8oBFnH
+
+#CVE #linux 
+——————‌
+https://t.co/85lZFkj7G1"
+266,65508ae1a86bf372d4391e57,hack_git,2023-04-19T12:15:04.000Z,1648661488087826433,"{cloneDir=./data/Weblogic, ownerName=gobysec, repoName=Weblogic, stars=119, forks=19, issues=1}","CVE-2023-21931
+
+Weblogic CVE-2023-21931 vulnerability exploration technique: post-deserialization exploitation.
+
+https://t.co/mjJddJdCiA
+
+#cve #cybersecurity #infosec https://t.co/dsHzDy67S8 https://t.co/iRZ7jLJlbu"
+267,65508ae9a86bf372d4391e58,hack_git,2023-04-17T12:15:05.000Z,1647936717674913798,"{issues=0, cloneDir=./data/vbulletin-exploits, ownerName=ambionics, repoName=vbulletin-exploits, stars=71, forks=13}","vBulletin Exploits
+
+CVE-2023-25135: Pre-authentication RCE.
+
+https://t.co/mQLQhdJSRT
+
+Details:
+https://t.co/YYFpOuoKzM
+
+#cve #infosec #exploit https://t.co/V1t09ks6fw https://t.co/a2zjasLD3Q"
+268,65508aeca86bf372d4391e59,ptracesecurity,2023-04-16T22:00:10.000Z,1647721569647509509,"{repoName=SolarWinds-CVE-2021-35250, stars=7, forks=7, issues=0, cloneDir=./data/SolarWinds-CVE-2021-35250, ownerName=rissor41}",SolarWinds-CVE-2021-35250 https://t.co/9XjBRIgEMe  #Pentesting #CVE #CyberSecurity #Infosec https://t.co/S2G6sWsoBL
+269,65508af3a86bf372d4391e5a,IT_news_for_all,2023-04-13T08:37:33.000Z,1646432421347315713,"{ownerName=carlospolop, repoName=BotPEASS, stars=177, forks=90, issues=0, cloneDir=./data/BotPEASS}","#cve #monitoring
+
+[ BotPEASS ]
+Bot to monitor new CVEs containing defined keywords and send alerts to Slack and/or Telegram.
+
+Thanks to:  @carlospolop
+
+https://t.co/MeJtNZHEXO... https://t.co/JQJdbNCnqz https://t.co/EjWYBXDg7j"
+270,65508b02a86bf372d4391e5b,Sn0wAlice,2023-04-13T05:01:20.000Z,1646378011170570244,"{cloneDir=./data/POC, ownerName=Live-Hack-CVE, repoName=POC, stars=80, forks=9, issues=0}","https://t.co/3tv9Q98XlE
+
+Ooooooo des POC de #cve 
+Tien tien tien"
+271,65508b09a86bf372d4391e5c,RabbitBoss2018,2023-04-11T16:15:24.000Z,1645822868956016641,"{ownerName=H4K6, repoName=CVE-2023-0179-PoC, stars=206, forks=26, issues=1, cloneDir=./data/CVE-2023-0179-PoC}","#Exploit for the vulnerability in the nftables subsystem that was assigned #CVE-2023-0179, affecting all #Linux versions from 5.5 to 6.2-rc3, although the exploit was tested on 6.1.6 https://t.co/PaORHMNacY… The details and writeup: https://t.co/DhInrRR5Sy"
+272,65508b1aa86bf372d4391e5d,sysbraykr,2023-04-04T20:23:57.000Z,1643348703401615362,"{stars=11, forks=1, issues=0, cloneDir=./data/wordpress-exploits, ownerName=H4K6, repoName=wordpress-exploits}","Repo for well-known Wordpress exploit.
+
+https://t.co/F7PPzF9gSe
+
+#exploit #cve #WordPress"
+273,65508b1ca86bf372d4391e5e,TheHackForce,2023-04-02T08:41:09.000Z,1642447062162722817,"{cloneDir=./data/cve-2021-42013, ownerName=walnutsecurity, repoName=cve-2021-42013, stars=18, forks=12, issues=2}","CVE-2021-42013
+
+A python script that will help in finding Path Traversal or Remote Code Execution vulnerability in Apache 2.4.50
+
+https://t.co/vEXBdbOdgH
+
+#cve #RCE"
+274,65508b1fa86bf372d4391e5f,ET_Labs,2023-04-01T00:09:56.000Z,1641956024331517959,"{cloneDir=./data/CVE-2023-28343, ownerName=superzerosec, repoName=CVE-2023-28343, stars=9, forks=5, issues=0}",Good friend of @ET_Labs @travisbgreen contributes SID 2044825 for #CVE CVE-2022-25237 #SCADA Altenergy Power Control Software Command Injection Attempt modeled from the exploit here: https://t.co/anNcBVeSFH
+275,65508b27a86bf372d4391e60,Wh1t3_Ow1,2023-03-28T09:10:09.000Z,1640642421536038913,"{stars=2, forks=1, issues=0, cloneDir=./data/EPSSeeker, ownerName=WhiteOwl-Pub, repoName=EPSSeeker}","I wrote EPSSeekr tool to quickly query the EPSS. this tool allows you to search CVE EPSSs and set filters by date and EPSS score, making it easy to retrieve the data you need. Check it out! #EPSS #CVE
+https://t.co/l9rAUvD0r5"
+276,65508b30a86bf372d4391e61,hack_git,2023-03-25T08:08:47.000Z,1639539815812321280,"{forks=8, issues=1, cloneDir=./data/exploit-CVE-2023-23752, ownerName=Acceis, repoName=exploit-CVE-2023-23752, stars=35}","CVE-2023-23752
+
+Joomla! &lt; 4.2.8 - Unauthenticated information disclosure.
+
+https://t.co/gTecXt1lbT
+
+#cve #exploit #cybersecurity #infosec https://t.co/DWOl3q2grb https://t.co/2tP549DpX7"
+277,65508b36a86bf372d4391e62,hack_git,2023-03-24T09:12:03.000Z,1639193349143019520,"{cloneDir=./data/CVE-2023-27532, ownerName=sfewer-r7, repoName=CVE-2023-27532, stars=93, forks=19, issues=3}","CVE-2023-27532
+
+Proof of Concept code to exploit CVE-2023-27532 and either leak plaintext credentials or perform remote command execution.
+
+https://t.co/vQQD8QtsZn
+
+#cve #exploit #cybersecurity #infosec https://t.co/36xTuOx8Ou https://t.co/ceWgzylqqS"
+278,65508b3ca86bf372d4391e63,hack_git,2023-03-23T20:23:15.000Z,1638999871847043072,"{issues=0, cloneDir=./data/CVE-2023-21036, ownerName=infobyte, repoName=CVE-2023-21036, stars=74, forks=6}","CVE-2023-21036
+
+Acropalypse detection and sanitization tools.
+
+https://t.co/Ksx5hcbPZ4
+
+#cve #cybersecurity #infosec https://t.co/qQYFdLkbWT https://t.co/aFEQBr5wdn"
+279,65508b43a86bf372d4391e64,sysbraykr,2023-03-23T03:13:53.000Z,1638740823935438848,"{cloneDir=./data/Windows_LPE_AFD_CVE-2023-21768, ownerName=xforcered, repoName=Windows_LPE_AFD_CVE-2023-21768, stars=406, forks=64, issues=0}","CVE-2023-21768 Local Privilege Escalation Windows 11 22H2
+#windows #lpe #cve #exploit #sysbraykr 
+PoC: 
+https://t.co/WkhkiIKOR2
+usage:
+Windows_AFD_LPE_CVE-2023-21768.exe &lt;pid&gt;
+где &lt;pid&gt;  это id процесса который нужно повысить до system"
+280,65508b49a86bf372d4391e65,sysbraykr,2023-03-22T18:25:41.000Z,1638607898736742400,"{ownerName=sqrtZeroKnowledge, repoName=CVE-2023-23397_EXPLOIT_0DAY, stars=157, forks=46, issues=2, cloneDir=./data/CVE-2023-23397_EXPLOIT_0DAY}","Exploiting CVE-2023-23397: Microsoft Outlook Elevation of Privilege Vulnerability
+Thanks to: @zimnyaatishina
+
+UPD (poc):
+- https://t.co/wkPF621xRW
+- https://t.co/VUUBKFfr7S
+
+https://t.co/0qFr4K5DCi
+
+#Exploit #CVE #Outlook #Sysbraykr"
+281,65508b4ca86bf372d4391e66,0xor0ne,2023-03-22T08:00:15.000Z,1638450504740098048,"{forks=7, issues=0, cloneDir=./data/CVE-2022-41218, ownerName=V4bel, repoName=CVE-2022-41218, stars=36}","Writeup by @v4bel on CVE-2022-41218: UAF in Linux kernel through race condition in dmxdev
+
+https://t.co/jF2AujKaUq
+
+#Linux #kernel #cve #infosec #cybersecurity https://t.co/yYlA5XSjPy"
+282,65508b55a86bf372d4391e67,hack_git,2023-03-21T12:15:16.000Z,1638152290342256640,"{stars=15, forks=3, issues=0, cloneDir=./data/CVE-2022-24716, ownerName=JacobEbben, repoName=CVE-2022-24716}","CVE-2022-24715 / CVE-2022-24716
+
+Icinga Web 2 - Authenticated Remote Code Execution &lt;2.8.6, &lt;2.9.6, &lt;2.10
+
+https://t.co/JztNYpNMCf
+
+https://t.co/OvywDe1FC2
+
+Details:
+https://t.co/2ymiqUEyEi
+
+#cve #cybersecurity #infosec https://t.co/RlsjEvXye8 https://t.co/CfnrJYqq2z"
+283,65508b58a86bf372d4391e68,hack_git,2023-03-21T12:15:13.000Z,1638152277872590854,"{issues=0, cloneDir=./data/CVE-2023-23192, ownerName=pinarsadioglu, repoName=CVE-2023-23192, stars=12, forks=3}","CVE-2023-23192
+
+Userlock Multi-Factor Authentication (MFA) Bypass.
+
+https://t.co/iwN2a0hLSZ
+
+#cve #cybersecurity #infosec https://t.co/RVzbqJppSO https://t.co/wSGSo9osVB"
+284,65508b5da86bf372d4391e69,hack_git,2023-03-20T12:15:07.000Z,1637789866153984001,"{forks=0, issues=0, cloneDir=./data/CVE-2022-23773-Reproduce, ownerName=YouShengLiu, repoName=CVE-2022-23773-Reproduce, stars=0}","CVE-2022-23773
+
+Cmd/go in Go &lt;1.16.14, 1.17.x - 1.17.7 can misinterpret branch names that falsely appear to be version tags (incorrect access control)
+
+https://t.co/CNwCR3ZDiY
+
+#cve #exploit https://t.co/2M5vWIHkZr https://t.co/e6Wv0dvQUY"
+285,65508b67a86bf372d4391e6a,hack_git,2023-03-19T19:22:06.000Z,1637534933357932544,"{repoName=nuclei-wordfence-cve, stars=542, forks=70, issues=1, cloneDir=./data/nuclei-wordfence-cve, ownerName=topscoder}","Nuclei Wordfence CVE
+
+https://t.co/ooJT06csij
+
+#cybersecurity #infosec #cve #pentesting https://t.co/7QKk7UBz0S https://t.co/F93FOG6uol"
+286,65508b71a86bf372d4391e6b,hack_git,2023-03-18T17:19:05.000Z,1637141586139136000,"{forks=2, issues=0, cloneDir=./data/CVE-2023-0861-POC, ownerName=seifallahhomrani1, repoName=CVE-2023-0861-POC, stars=7}","CVE-2023-0861
+
+Analyzing and reproducing the command injection vulnerability in Netmodule routers.
+
+https://t.co/8Ho61irE3R
+
+#cve #poc https://t.co/9fX9UZw6R1 https://t.co/amPovEj9UK"
+287,65508b75a86bf372d4391e6c,hack_git,2023-03-17T10:22:22.000Z,1636674329751568386,"{issues=0, cloneDir=./data/CVE-2023-27842, ownerName=tristao-marinho, repoName=CVE-2023-27842, stars=1, forks=0}","CVE-2023-27842
+
+eXtplorer 2.1.15 - Insecure Permissions following RCE (Authenticated)
+
+https://t.co/LlelQJjTN0
+
+#cve #poc #RCE https://t.co/CoRUKdAaEL https://t.co/veLTfAR0rs"
+288,65508b78a86bf372d4391e6d,hack_git,2023-03-17T10:19:51.000Z,1636673694637383681,"{forks=0, issues=0, cloneDir=./data/CVE-2023-23396, ownerName=LucaBarile, repoName=CVE-2023-23396, stars=6}","CVE-2023-23396
+
+Microsoft Excel DoS Vulnerability
+
+→ Here you can download the exploit.
+→ Here you can read my report.
+→ Here you can buy me a unicorn 
+
+https://t.co/cRvZ8c0fZk
+
+#cve #poc #exploit https://t.co/l6Nsfj32D7 https://t.co/yhR4pztQRO"
+289,65508b7ca86bf372d4391e6e,hack_git,2023-03-17T10:15:14.000Z,1636672531900899328,"{issues=0, cloneDir=./data/CVE-2023-27587-PoC, ownerName=vagnerd, repoName=CVE-2023-27587-PoC, stars=5, forks=1}","CVE-2023-27587
+
+ReadtoMyShoe - Generation of Error Message Containing Sensitive Information.
+
+https://t.co/Uii8mhu4XT
+
+nuclei-template:
+https://t.co/HZpjNsbH95
+
+#cve #poc https://t.co/u7lDZ5dfX8 https://t.co/RH0jpP37JA"
+290,65508b7ea86bf372d4391e6f,Al1ex4,2023-03-16T09:01:25.000Z,1636291567827980291,"{cloneDir=./data/Alibab-Nacos-Unauthorized-Login, ownerName=Al1ex, repoName=Alibab-Nacos-Unauthorized-Login, stars=13, forks=2, issues=0}","Alibab-Nacos-Unauthorized-Login
+
+https://t.co/tDCG178Ydp
+
+#Nacos #CVE #vulnerabilities"
+291,65508b82a86bf372d4391e70,binareio,2023-03-14T14:49:35.000Z,1635654412931563520,"{stars=28, forks=4, issues=0, cloneDir=./data/FastCVE, ownerName=binareio, repoName=FastCVE}","Introducing #FastCVE - a fast, API-based search tool for #CVE, #CPE, #CWE, and #CAPEC vulnerabilities. Stay informed about the latest security #vulnerabilities and assess the risk of your systems and applications. Check it out on #GitHub: https://t.co/Kgxmxtp25F"
+292,65508b85a86bf372d4391e71,hack_git,2023-03-13T15:18:16.000Z,1635299241395355648,"{forks=3, issues=0, cloneDir=./data/CVE-2023-23488-PoC, ownerName=r3nt0n, repoName=CVE-2023-23488-PoC, stars=24}","CVE-2023-23488-PoC
+
+Unauthenticated SQL Injection - Paid Memberships Pro &lt; 2.9.8 (WordPress Plugin).
+
+https://t.co/U7aeUsF0Gh
+
+#cve #poc https://t.co/SVgQCYkjK3 https://t.co/mG0xWP1L0w"
+293,65508b87a86bf372d4391e72,hack_git,2023-03-13T15:18:12.000Z,1635299226899951616,"{cloneDir=./data/CVE_2020_2546, ownerName=hktalent, repoName=CVE_2020_2546, stars=134, forks=32, issues=0}","CVE 2020 2546
+
+CVE_2020_2546, CVE-2020-2915, CVE-2020-2801, CVE-2020-2798, CVE-2020-2883, CVE-2020-2884, CVE-2020-2950 WebLogic RCE T3 payload exploit poc python3.
+
+https://t.co/SfTVnKKygk
+
+#cve #poc #exploit #RCE https://t.co/9DdBcDIfbs https://t.co/VjcOlNMHpn"
+294,65508b8da86bf372d4391e73,dilagrafie,2023-03-10T14:38:52.000Z,1634202164472971264,"{cloneDir=./data/CVE-2023-21716, ownerName=Xnuvers007, repoName=CVE-2023-21716, stars=46, forks=13, issues=1}","CVE-2023-21716
+
+RTF Crash #POC Python 3.11 Windows 10
+
+https://t.co/mVeKI2GnI1
+
+Link 🔗 👇
+https://t.co/oLufikkePM
+
+#CVE #cybersecurity #infosec"
+295,65508b93a86bf372d4391e74,ptracesecurity,2023-03-08T19:00:38.000Z,1633543264136728576,"{ownerName=Nickguitar, repoName=Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal, stars=23, forks=1, issues=0, cloneDir=./data/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal}",Drag and Drop Multiple File Uploader PRO - Contact Form 7 v5.0.6.1 Path Traversal (CVE-2023-1112) https://t.co/8tAA6xytSC  #Pentesting #CVE #CyberSecurity #Infosec https://t.co/UnaNDdFjmh
+296,65508b96a86bf372d4391e75,Omar_J_Ahmed,2023-03-08T11:43:30.000Z,1633433256690429953,"{repoName=CVE-2023-23138, stars=2, forks=0, issues=0, cloneDir=./data/CVE-2023-23138, ownerName=OmarAtallahh}","My new CVE-2023-23138
+got registered last week, it affects ruby or rails apps, for further details and mass scale testing you can use the following nuclei template
+
+https://t.co/NG8Yw8jleF
+
+#cve #penetrationtest
+#cybersecurity #bugbountytips 
+#ethicalhacking https://t.co/ekdMDQ86IG"
+297,65508ba1a86bf372d4391e76,hack_git,2023-03-04T09:12:04.000Z,1631945593709903872,"{stars=23, forks=5, issues=0, cloneDir=./data/CVE-2022-20494, ownerName=Supersonic, repoName=CVE-2022-20494}","CVE-2022-20494
+
+Exploit app for CVE-2022-20494, a high severity permanent denial-of-service vulnerability that leverages Android's DND (Do not disturb) feature.
+
+https://t.co/sEdyDUGSKG
+
+#cve https://t.co/bm35hn4X5X https://t.co/YZ3Z4sKPL1"
+298,65508ba3a86bf372d4391e77,CriminalIP_JP,2023-03-04T00:00:02.000Z,1631806669666631682,"{forks=1, issues=0, cloneDir=./data/IPv4Scanner-POC, ownerName=KamilDogo, repoName=IPv4Scanner-POC, stars=0}","Criminal IPのAPIを活用したIPv4スキャナーコードが共有されました。入力したIPアドレスのポートスキャンを通じてCVEが検知された場合、脆弱性に関するPoCコードを自動でダウンロードできます。
+https://t.co/hfkDeLCa4I
+
+#IPv4 #OSINT #API #CVE #GitHub"
+299,65508ba9a86bf372d4391e78,Botami143,2023-03-03T14:25:38.000Z,1631662118356262914,"{cloneDir=./data/awesome-cve-poc, ownerName=qazbnm456, repoName=awesome-cve-poc, stars=3177, forks=743, issues=2}","####  A collection about Proof of Concepts of Common Vulnerabilities and Exposures.
+#BugBounty #bugbountytips #CVE #bugbountytip 
+https://t.co/cvIiQXLkQl"
+300,65508baba86bf372d4391e79,Mohammed_Mojeb9,2023-03-03T09:17:00.000Z,1631584448939540480,"{ownerName=umakant76705, repoName=CVE-2022-22978, stars=2, forks=0, issues=0, cloneDir=./data/CVE-2022-22978}","CVE 2022-22978
+
+Authorization Bypass in RegexRequestMatcher.
+
+https://t.co/agyYYB7qgC
+
+#cve"
+301,65508baea86bf372d4391e7a,hack_git,2023-03-03T09:12:14.000Z,1631583248273797120,"{issues=0, cloneDir=./data/CVE-2022-45988, ownerName=happy0717, repoName=CVE-2022-45988, stars=1, forks=0}","CVE-2022-45988
+
+StarSoftComm HP CooCare An elevation of privilege vulnerability exists.
+
+https://t.co/PI7v2ASD7d
+
+#cve https://t.co/zqYDmJVNr5 https://t.co/zYpZY1kL0Z"
+302,65508bb7a86bf372d4391e7b,seguridadyredes,2023-02-26T16:14:23.000Z,1629877548464189444,"{repoName=CVE-Vulnerability-Information-Downloader, stars=126, forks=16, issues=2, cloneDir=./data/CVE-Vulnerability-Information-Downloader, ownerName=trinitor}","#CVE Vulnerability Information Downloader
+
+Downloads Information from NIST (CVSS), https://t.co/wjPnsZ0NYy (EPSS), and CISA (Exploited Vulnerabilities) and combines them into one list.
+
+https://t.co/1cA5NxsNEo https://t.co/zV2Hbj7qL5"
+303,65508bb9a86bf372d4391e7c,0xc7m,2023-02-25T08:49:49.000Z,1629403278306947073,"{issues=0, cloneDir=./data/CVE-2023-21608, ownerName=hacksysteam, repoName=CVE-2023-21608, stars=259, forks=58}","#CVE-2023-21608
+This bug was Use after Free caused during resetForm operation while handling object memory references in Adobe Acrobat Reader 
+https://t.co/zB3WdILfYm #POC #github #redteam #infosec"
+304,65508bbca86bf372d4391e7d,IT_news_for_all,2023-02-25T02:12:11.000Z,1629303212556648450,"{stars=203, forks=46, issues=0, cloneDir=./data/Weblogic-CVE-2023-21839, ownerName=DXask88MA, repoName=Weblogic-CVE-2023-21839}","#oracle #weblogic #cve
+
+Weblogic-CVE-2023-21839
+
+Опять? .....
+
+https://t.co/tcSsCewUlU... https://t.co/760yNThuX0 https://t.co/zO6N8pKN3v"
+305,65508bbea86bf372d4391e7e,simrotion13,2023-02-24T15:15:40.000Z,1629137995596005379,"{stars=268, forks=58, issues=0, cloneDir=./data/CVE-2022-39952, ownerName=horizon3ai, repoName=CVE-2022-39952}","POC for #CVE-2022-39952 affecting Fortinet FortiNAC
+
+https://t.co/3rMZFEo62r"
+306,65508bc1a86bf372d4391e7f,hack_git,2023-02-24T09:12:12.000Z,1629046526327590913,"{ownerName=gbrsh, repoName=CVE-2023-22974, stars=8, forks=0, issues=0, cloneDir=./data/CVE-2023-22974}","CVE-2023-22974
+
+OpenEMR &lt; 7.0.0 Arbitrary File Read.
+
+https://t.co/U8mDppAPKz
+
+#cve https://t.co/rFqD72SPNv https://t.co/c0LSadk3Cw"
+307,65508bc3a86bf372d4391e80,zenalarifin_,2023-02-24T08:02:03.000Z,1629028873282404353,"{cloneDir=./data/CVE-2023-23752, ownerName=z3n70, repoName=CVE-2023-23752, stars=15, forks=3, issues=0}","Hello everyone, now i share tools for exploit joomla cve-2023-23752 i hope it's useful:)
+
+https://t.co/ZPXkOkzqWB
+
+#Pentesting #hacking #cve #tools https://t.co/QY0UKLZ24i"
+308,65508bc7a86bf372d4391e81,CriminalIP_JP,2023-02-23T00:00:00.000Z,1628545170340978689,"{cloneDir=./data/siem_the_nightowl, ownerName=Jaxon1111, repoName=siem_the_nightowl, stars=0, forks=0, issues=0}","Criminal IPのデータをSIEMツールとして活用できるAPI活用コードがGitHubに共有されました。IPアドレスとドメインのCVE脆弱性、証明書及び危険レベルを確認いただけます。
+https://t.co/NnDqptMsOJ
+
+#API #OSINT #CVE #CTI #SIEM #GitHub"
+309,65508c74a86bf372d4391e82,Sn0wAlice,2023-02-21T17:47:27.000Z,1628089028170899457,"{cloneDir=./data/full_database, ownerName=Live-Hack-CVE, repoName=full_database, stars=40, forks=12, issues=0}","Mesdames, messieurs
+
+Enfin une petite liste #github de #cve pour les fans de git :)
+Le reste arrive !
+
+https://t.co/8Ugs6KZetI"
+310,65508c78a86bf372d4391e83,hack_git,2023-02-21T09:12:08.000Z,1627959344888250369,"{issues=0, cloneDir=./data/CVE-2022-44311, ownerName=DesmondSanctity, repoName=CVE-2022-44311, stars=2, forks=0}","CVE-2022-44311
+
+Out-Of-Bounds Read in html2xhtml
+
+https://t.co/9L3Lj4TMwb
+
+#cve https://t.co/8TquQ1QJrH https://t.co/26xkkhq0mD"
+311,65508c7da86bf372d4391e84,ptracesecurity,2023-02-21T08:00:35.000Z,1627941336660803584,"{stars=221, forks=20, issues=0, cloneDir=./data/missing-cve-nuclei-templates, ownerName=edoardottt, repoName=missing-cve-nuclei-templates}",Daily updated list of missing CVEs in nuclei templates official repository https://t.co/bScLBqK6MA #Pentesting #CVE #CyberSecurity #Infosec https://t.co/sND66XeCuR
+312,65508c89a86bf372d4391e85,sysbraykr,2023-02-16T18:11:15.000Z,1626283077982113792,"{ownerName=j00sean, repoName=CVE-2022-44666, stars=153, forks=24, issues=0, cloneDir=./data/CVE-2022-44666}","PoCs for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022.
+https://t.co/xnBtT8JJHT
+#SysBraykr #Exploit #CVE"
+313,65508c8ca86bf372d4391e86,hack_git,2023-02-15T09:12:07.000Z,1625785013743616001,"{cloneDir=./data/CVE-2022-28368, ownerName=rvizx, repoName=CVE-2022-28368, stars=10, forks=1, issues=0}","CVE-2022-28368 - Dompdf RCE
+
+Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file).
+
+https://t.co/23NEpeCZ0u
+
+#cve #poc https://t.co/h8DzvhmdU6 https://t.co/iepr7uZpBE"
+314,65508c90a86bf372d4391e87,sysbraykr,2023-02-13T16:40:15.000Z,1625173014890569729,"{cloneDir=./data/CVE-2023-25194, ownerName=ohnonoyesyes, repoName=CVE-2023-25194, stars=91, forks=29, issues=1}","CVE-2023-25194 - Apache Kafka  3.4.0 RCE Vulnerability 
+https://t.co/kU2lpbArPX
+#CVE #RCE #SysBraykr #BugHunting #InfoSec #WeBreakIt2SecureIt"
+315,65508c92a86bf372d4391e88,milanshiftsec,2023-02-13T02:31:13.000Z,1624959347515072520,"{cloneDir=./data/CVE-2022-44268, ownerName=kljunowsky, repoName=CVE-2022-44268, stars=14, forks=5, issues=1}","#CVE-2022-44268 #ImageMagick Arbitrary File Read - Proof of Concept #Exploit
+https://t.co/FgLTnpSUje
+#bugbountytips #bugbountytips #Security #PenetrationTesting #infosec 
+Video: https://t.co/KvpB8ybgRT"
+316,65508c98a86bf372d4391e89,hack_git,2023-02-12T10:13:17.000Z,1624713241149464576,"{cloneDir=./data/CVE-2023-0669, ownerName=0xf4n9x, repoName=CVE-2023-0669, stars=96, forks=21, issues=1}","CVE-2023-0669
+
+GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object.
+
+https://t.co/vCMP3R3IOn
+
+#cve https://t.co/uefa3VakpJ https://t.co/3B0xf6X8XX"
+317,65508c9aa86bf372d4391e8a,hack_git,2023-02-12T10:13:10.000Z,1624713214855467009,"{cloneDir=./data/CVE-2022-23935, ownerName=BKreisel, repoName=CVE-2022-23935, stars=13, forks=2, issues=0}","CVE-2022-23935
+
+#Python Exploit for CVE-2022-23935. Staged Reverse Shell Payload Generator.
+
+https://t.co/QRyYqcQEgs
+
+#cve https://t.co/Sdzqfz3jo7 https://t.co/cQGTkhxrS6"
+318,65508c9fa86bf372d4391e8b,hack_git,2023-02-10T09:12:14.000Z,1623973102983036930,"{cloneDir=./data/CVE-2022-21587-POC, ownerName=hieuminhnv, repoName=CVE-2022-21587-POC, stars=12, forks=6, issues=2}","CVE-2022-21587
+
+Vulnerability in the Oracle Web Applications Desktop Integrator product of Oracle E-Business Suite (Upload)
+
+https://t.co/d64hEwXPWs
+
+#cve #poc https://t.co/vQpqkTraUv https://t.co/qtmf7nPKiz"
+319,65508ca4a86bf372d4391e8c,sm_wahed,2023-02-09T10:27:31.000Z,1623629662176813056,"{forks=40, issues=7, cloneDir=./data/ESXiArgs-Recover, ownerName=cisagov, repoName=ESXiArgs-Recover, stars=291}",https://t.co/HkGoYdKPw3 #vmware #esxi #cve #Security
+320,65508ca9a86bf372d4391e8d,hack_git,2023-02-07T09:12:07.000Z,1622885910034382850,"{cloneDir=./data/CVE-2023-22855, ownerName=patrickhener, repoName=CVE-2023-22855, stars=0, forks=0, issues=0}","CVE-2023-22855
+
+This vulnerability was discovered and disclosed by Nico Viakowski and myself. This repository will hold the advisory and the exploit.
+
+https://t.co/aZ1NJFZBqV
+
+#cve #exploit https://t.co/cWvUsW5cg7 https://t.co/NbLMJzWL0Y"
+321,65508cada86bf372d4391e8e,hack_git,2023-02-07T09:12:04.000Z,1622885896478461953,"{ownerName=Vulnmachines, repoName=imagemagick-CVE-2022-44268, stars=7, forks=1, issues=0, cloneDir=./data/imagemagick-CVE-2022-44268}","CVE-2022-44268
+
+ImageMagick arbitrary file read
+
+https://t.co/rG4xNts15t
+
+#cve #poc https://t.co/kgXcIxpZhR https://t.co/EYTgBHheEm"
+322,65508cb2a86bf372d4391e8f,sysbraykr,2023-02-05T12:56:45.000Z,1622217663866077184,"{cloneDir=./data/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC, ownerName=duc-nt, repoName=CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC, stars=262, forks=42, issues=1}","CVE-2022-44268 ImageMagick Arbitrary File Read PoC
+
+https://t.co/x02sqqL2pE
+
+#SysBraykr #BugHunting #InfoSec #WeBreakIt2SecureIt #CVE"
+323,65508cb5a86bf372d4391e90,nate2x4,2023-02-04T21:43:28.000Z,1621987830107873281,"{cloneDir=./data/Feb2023-CVE-2021-21974-OSINT, ownerName=n2x4, repoName=Feb2023-CVE-2021-21974-OSINT, stars=2, forks=0, issues=0}","Sharing some analysis results on Github of the recent #ESXi #CVE-2021-21974 #Ransomware with ransom amount and wallet id for each demand.
+
+https://t.co/9vkhPwCavP
+
+Each demand is about 2 bitcoin. Almost all of the victims have a unique crypto payment address."
+324,65508cb7a86bf372d4391e91,0xor0ne,2023-02-04T19:30:13.000Z,1621954295233974272,"{cloneDir=./data/ENLBufferPwn, ownerName=PabloMK7, repoName=ENLBufferPwn, stars=284, forks=14, issues=0}","CVE-2022-47949: analysis and exploitation of a buffer overflow vulnerability in Nintendo games network code by @Pablomf6 
+
+https://t.co/bMdPnwjzhk 
+
+#nintendo #cve #exploit #infosec #cybersecurity https://t.co/vCw0Pr2Pba"
+325,65508cbba86bf372d4391e92,hack_git,2023-02-04T08:50:50.000Z,1621793390416338945,"{ownerName=es0j, repoName=CVE-2023-0045, stars=13, forks=1, issues=0, cloneDir=./data/CVE-2023-0045}","CVE-2023-0045
+
+Bypassing Spectre-BTI User Space Mitigations on Linux
+
+https://t.co/hNt1Uitj4d
+
+#cve https://t.co/wja0CKaJGb https://t.co/bIi1qyz2Rp"
+326,65508cbfa86bf372d4391e93,Y1ngSec,2023-02-03T08:10:07.000Z,1621420756264689664,"{cloneDir=./data/CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment, ownerName=y1nglamore, repoName=CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment, stars=8, forks=2, issues=1}","[CVE-2022-44268 ImageMagick]
+
+Based on the CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC, I created a docker vulnerability testing environment.
+
+docker run --rm -i -t y1nglamore/cve_2022_44268 /bin/bash
+
+https://t.co/0Am44UzT6q
+
+#imagemagick #cve #poc #vulnhub"
+327,65508cc4a86bf372d4391e94,momika233,2023-02-01T02:45:32.000Z,1620614297251647488,"{cloneDir=./data/vRealizeLogInsightRCE, ownerName=horizon3ai, repoName=vRealizeLogInsightRCE, stars=149, forks=24, issues=0}","POC for VMSA-2023-0001 affecting VMware vRealize Log Insight which includes the following CVEs
+#VMware #RCE #CVE
+https://t.co/5DtgkqaC5N"
+328,65508cc9a86bf372d4391e95,Din3zh,2023-01-31T20:21:50.000Z,1620517733669699589,"{stars=17, forks=11, issues=0, cloneDir=./data/CVE-2022-26485, ownerName=mistymntncop, repoName=CVE-2022-26485}",PoC for Exploitable use-after-free issue in Firefox - CVE-2022-26485 https://t.co/J8jQnlz1xb #CVE #VR #infosec
+329,65508ccfa86bf372d4391e96,hack_git,2023-01-30T09:12:14.000Z,1619986835697983488,"{stars=8, forks=5, issues=0, cloneDir=./data/PDFkit-CMD-Injection-CVE-2022-25765, ownerName=nikn0laty, repoName=PDFkit-CMD-Injection-CVE-2022-25765}","CVE-2022-25765
+
+Exploit for CVE-2022-25765 command injection in pdfkit &lt; 0.8.6
+
+https://t.co/DUeCKuZ25E
+
+#cve #poc #exploit https://t.co/jcDukE0EbQ https://t.co/il91PGjih9"
+330,65508cd2a86bf372d4391e97,hack_git,2023-01-30T09:12:11.000Z,1619986826378321920,"{cloneDir=./data/CVE-2022-44900-demo-lab, ownerName=0xless, repoName=CVE-2022-44900-demo-lab, stars=1, forks=0, issues=0}","CVE-2022-44900
+
+Directory traversal vulnerability in SevenZipFile.extractall() function.
+
+https://t.co/nKD6ciwXKl
+
+#cve https://t.co/mtBMrWgaaW https://t.co/YXYl3j3Q1n"
+331,65508cdba86bf372d4391e98,hack_git,2023-01-28T11:14:16.000Z,1619292772267184129,"{issues=0, cloneDir=./data/adamd-pocs, ownerName=adamdoupe, repoName=adamd-pocs, stars=5, forks=0}","adamd's Proof-of-Concepts (POC)
+
+Proof-of-concepts (and maybe exploits) for vulnerabilities that I've discovered.
+
+ CVE-2023-23504: POC
+
+CVE-2022-42845: POC
+
+https://t.co/5iHY4vqfmi
+
+#cve #poc https://t.co/7ebDEv3HR2 https://t.co/IunQOwuXMS"
+332,65508ce3a86bf372d4391e99,hack_git,2023-01-27T07:16:32.000Z,1618870557327474689,"{ownerName=alt3kx, repoName=CVE-2023-24055_PoC, stars=254, forks=41, issues=0, cloneDir=./data/CVE-2023-24055_PoC}","CVE-2023-24055 PoC (KeePass 2.5x)
+
+An attacker who has write access to the KeePass configuration file can modify it and inject malicious triggers, e.g to obtain the cleartext passwords by adding an export trigger.
+
+https://t.co/jbVGMvvyV9
+
+#cve #poc https://t.co/lAqzU88EPZ https://t.co/vFOhI8jEJ0"
+333,65508ce8a86bf372d4391e9a,hack_git,2023-01-26T11:16:17.000Z,1618568504780668928,"{ownerName=deetl, repoName=CVE-2023-24055, stars=65, forks=17, issues=0, cloneDir=./data/CVE-2023-24055}","CVE-2023-24055
+
+POC and Scanner for CVE-2023-24055.
+
+https://t.co/RLz3UGVsxP
+
+#cve https://t.co/UpM0uWF8dN https://t.co/pbRatNR3Yr"
+334,65508cf2a86bf372d4391e9b,hack_git,2023-01-22T09:12:12.000Z,1617087723952832512,"{stars=60, forks=9, issues=0, cloneDir=./data/CVE-2022-42864, ownerName=Muirey03, repoName=CVE-2022-42864}","CVE-2022-42864
+
+Proof-of-concept for the CVE-2022-42864 IOHIDFamily race condition.
+
+https://t.co/iRlNdoIChd
+
+#cve https://t.co/j83m9ouJ6H https://t.co/dIfwDDVu60"
+335,65508cf4a86bf372d4391e9c,hack_git,2023-01-21T09:12:12.000Z,1616725337768923144,"{ownerName=bAuh0lz, repoName=CVE-2023-0297_Pre-auth_RCE_in_pyLoad, stars=25, forks=10, issues=0, cloneDir=./data/CVE-2023-0297_Pre-auth_RCE_in_pyLoad}","CVE-2023-0297
+
+The Story of Finding Pre-auth RCE in pyLoad
+
+https://t.co/PMpda8i4ca
+
+#cve #RCE https://t.co/cghHTffhxw https://t.co/Dd8EGTiIsB"
+336,65508cf7a86bf372d4391e9d,hack_git,2023-01-21T09:12:09.000Z,1616725326544994306,"{repoName=CVE-2022-46463, stars=19, forks=8, issues=0, cloneDir=./data/CVE-2022-46463, ownerName=nu0l}","CVE-2022-46463
+
+An access control issue in Harbor v1.X.X to v2.5.3 allows attackers to access public and private image repositories without authentication.
+
+https://t.co/WgOTPjyhd2
+
+#cve #poc https://t.co/ItMuIXbU2h https://t.co/yeyqLW3ttE"
+337,65508cfea86bf372d4391e9e,TheHackForce,2023-01-20T06:44:16.000Z,1616325721936257025,"{cloneDir=./data/CVE-2022-30190, ownerName=winstxnhdw, repoName=CVE-2022-30190, stars=2, forks=2, issues=0}","#CVE-2022
+Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.
+https://t.co/Vitlvmljyi
+
+This repo contains payload for the CVE-2022-36067
+https://t.co/uMEtrp5563
+
+Proof of concept for CVE-2022-30190 (Follina).
+
+https://t.co/HOniKboGBG"
+338,65508d02a86bf372d4391e9f,David_Uton,2023-01-19T06:52:17.000Z,1615965352482971648,"{ownerName=m3n0sd0n4ld, repoName=uCVE, stars=29, forks=6, issues=3, cloneDir=./data/uCVE}","We share with you my partner @Siriil99 and me, a #tool called #uCVE, it allows us to obtain a list of #CVE from #NIST in #HTML format, this allows us to copy and paste in our #audit or #pentesting reports in an agile way.
+
+https://t.co/ANRJfOR84o
+
+#uCVE #reporting"
+339,65508d0ca86bf372d4391ea0,TH3xACE,2023-01-18T17:11:15.000Z,1615758729038942210,"{ownerName=TH3xACE, repoName=SUDO_KILLER, stars=1999, forks=244, issues=0, cloneDir=./data/SUDO_KILLER}","#CVE-2023-22809 #SUDO_KILLER
+A new disclosed vuln in sudo,  the flaw in exists in sudo’s -e option (aka sudoedit) that allows a malicious user with sudoedit privileges to edit arbitrary files.
+
+SUDO_KILLER can help you to know whether you are concern. https://t.co/Z59N07k3xg"
+340,65508d0ea86bf372d4391ea1,Habib0x0,2023-01-17T08:11:44.000Z,1615260570852249600,"{cloneDir=./data/CVE-2022-46169, ownerName=Habib0x0, repoName=CVE-2022-46169, stars=2, forks=0, issues=0}","Cacti Unauthenticated Remote Command Injection Exploit In Ruby 
+https://t.co/AYWjYggFzN
+
+#CVE #Exploit #Ruby #Cacti"
+341,65508d11a86bf372d4391ea2,N1arut,2023-01-16T11:33:00.000Z,1614948831044505602,"{stars=3, forks=0, issues=1, cloneDir=./data/CVE-2022-46169_POC, ownerName=N1arut, repoName=CVE-2022-46169_POC}","CVE-2022-46169 POC
+https://t.co/ASyp14TSBD
+#exploit #CVE #infosec #cacti"
+342,65508d14a86bf372d4391ea3,hack_git,2023-01-15T09:12:12.000Z,1614551012500439042,"{cloneDir=./data/Sonic_CVE-2022-22274_poc, ownerName=4lucardSec, repoName=Sonic_CVE-2022-22274_poc, stars=5, forks=0, issues=0}","CVE-2022-22274
+
+A Stack-based buffer overflow vulnerability in the SonicOS
+
+https://t.co/hoGfLF0nzi
+
+#cve https://t.co/biZFYEzT5M https://t.co/exPTT3ORxE"
+343,65508d17a86bf372d4391ea4,SadatTamzit,2023-01-15T03:09:35.000Z,1614459757062160385,"{repoName=YApi-Exploit, stars=60, forks=11, issues=0, cloneDir=./data/YApi-Exploit, ownerName=Anthem-whisper}","YApi-Exploit
+
+YApi boolean-based injection exploit.
+Join us: https://t.co/ao2itnXV2t
+
+https://t.co/4pdgh02DCy
+
+#cve #exploit #hackathon #hacked #hackensack #hacking #hacksandtips #hacker #hackers #bugbountytips #BugBountyHunter #bugbounty #bugbountytip #bugbountyhunting #BugBount https://t.co/kAxpDRkblQ"
+344,65508d1ca86bf372d4391ea5,hack_git,2023-01-14T09:12:07.000Z,1614188600932851714,"{cloneDir=./data/cve-2022-24644, ownerName=gerr-re, repoName=cve-2022-24644, stars=1, forks=0, issues=0}","CVE-2022-24644
+
+ZZ Inc. KeyMouse 3.08 (Windows) Unauthenticated Update Remote Code Execution Vulnerability
+
+https://t.co/bTHFlVQkhW
+
+#cve https://t.co/qURaUJTGMb https://t.co/awRXhMYBkf"
+345,65508d1ea86bf372d4391ea6,hack_git,2023-01-13T09:12:09.000Z,1613826222869434369,"{stars=38, forks=9, issues=0, cloneDir=./data/CVE-2022-3656, ownerName=momika233, repoName=CVE-2022-3656}","CVE-2022-3656
+Imperva #RedTeam recently revealed a vulnerability called CVE-2022-3656 that affects more than 2.5 billion users of Google #Chrome and Chromium-based browsers.
+
+https://t.co/nTyWuqUWau
+
+#cve https://t.co/0PcFMplyje https://t.co/fREx7GRlIF"
+346,65508d21a86bf372d4391ea7,Din3zh,2023-01-13T03:55:43.000Z,1613746589134196737,"{forks=66, issues=5, cloneDir=./data/CVE-2023-21752, ownerName=Wh04m1001, repoName=CVE-2023-21752, stars=293}",PoC for arbitrary file delete vulnerability in Windows Backup service https://t.co/geOiSJ1B5x #infosec #Windows #CVE https://t.co/j3zJEFfMW0
+347,65508d27a86bf372d4391ea8,ptracesecurity,2023-01-12T13:00:47.000Z,1613521372378005506,"{repoName=cve-2022-31705, stars=114, forks=25, issues=0, cloneDir=./data/cve-2022-31705, ownerName=s0duku}",CVE-2022-31705 (Geekpwn 2022 Vmware EHCI OOB) POC https://t.co/HcBgD9EE0m #Pentesting #CVE #CyberSecurity #Infosec https://t.co/UR9rhW7IrI
+348,65508d2ba86bf372d4391ea9,AJD1BHH,2023-01-11T09:50:58.000Z,1613111215705976832,"{cloneDir=./data/LeakValue, ownerName=michalbednarski, repoName=LeakValue, stars=236, forks=45, issues=3}","#CVE-2022-20452 &amp; -/-/20474 : Android &lt;= 13 - Privilege Escalation
+
+https://t.co/phnmjzzb1G"
+349,65508d2ea86bf372d4391eaa,hack_git,2023-01-10T11:14:04.000Z,1612769739377451010,"{stars=28, forks=13, issues=0, cloneDir=./data/Chrome-V8-RCE-CVE-2021-38003, ownerName=SpiralBL0CK, repoName=Chrome-V8-RCE-CVE-2021-38003}","Chrome V8 RCE CVE-2021-38003
+
+https://t.co/FghxAifGYT
+
+#cve #RCE https://t.co/za3XXVmrYC https://t.co/viZAwoH82K"
+350,65508d32a86bf372d4391eab,ptracesecurity,2023-01-10T10:00:50.000Z,1612751311774031873,"{cloneDir=./data/cve-2022-27255, ownerName=infobyte, repoName=cve-2022-27255, stars=263, forks=54, issues=2}",CVE-2022-27255 - Realtek eCos SDK SIP ALG buffer overflow https://t.co/LehvgkUsNM #Pentesting #CVE #CyberSecurity #Infosec https://t.co/ntm18IfsmF
+351,65508d35a86bf372d4391eac,hack_git,2023-01-10T09:12:11.000Z,1612739068877541376,"{forks=2, issues=0, cloneDir=./data/CVE-2022-39073, ownerName=v0lp3, repoName=CVE-2022-39073, stars=9}","CVE-2022-39073
+
+Proof of concept for the command injection vulnerability affecting the ZTE MF286R router, including an RCE exploit.
+
+https://t.co/v83eS3whN6
+
+#cve #exploit https://t.co/NIMoz4tLUI https://t.co/WaallHliBh"
+352,65508d3ba86bf372d4391ead,hack_git,2023-01-09T15:18:06.000Z,1612468764582223874,"{cloneDir=./data/CVE-2022-21907, ownerName=Malwareman007, repoName=CVE-2022-21907, stars=17, forks=4, issues=1}","CVE-2022-21907
+
+HTTP Protocol Stack Remote Code Execution Vulnerability.
+https://t.co/TfBgaiIVJp
+
+#cve #poc https://t.co/cnXi2FIXZE https://t.co/rj03LcrvCK"
+353,65508d40a86bf372d4391eae,hack_git,2023-01-09T12:28:53.000Z,1612426182468804610,"{cloneDir=./data/CVE-2022-36537, ownerName=Malwareman007, repoName=CVE-2022-36537, stars=32, forks=7, issues=3}","CVE-2022-36537
+
+https://t.co/XhrsP7exIh
+
+#cve #poc https://t.co/h08OahyPex"
+354,65508d47a86bf372d4391eaf,TheHackForce,2023-01-07T23:08:55.000Z,1611862474977853440,"{cloneDir=./data/CVE-2022-0847, ownerName=tmoneypenny, repoName=CVE-2022-0847, stars=2, forks=0, issues=0}","#CVE-2022
+CVE-2022-36537
+
+https://t.co/g8otfL4Jtt
+
+POC for CVE-2022-21907: HTTP Protocol Stack Remote Code Execution Vulnerability.
+
+https://t.co/i8mpd4Daz9
+
+POC of CVE-2022-36537
+https://t.co/YBs0UqOAlF
+
+Dirty Pipe - CVE-2022-0847
+https://t.co/AskfD42Sw1"
+355,65508d4ea86bf372d4391eb0,hack_git,2023-01-06T09:12:18.000Z,1611289544816574465,"{stars=104, forks=22, issues=0, cloneDir=./data/CVE-2022-44877, ownerName=numanturle, repoName=CVE-2022-44877}","CVE-2022-44877
+
+Centos Web Panel 7 Unauthenticated Remote Code Execution.
+https://t.co/YmWayIDTiY
+
+#cve https://t.co/oZdDNYtz3G https://t.co/xogMa0qY9m"
+356,65508d9ea86bf372d4391eb1,CVEannounce,2023-01-04T19:15:44.000Z,1610716629029249024,"{cloneDir=./data/core, ownerName=dotCMS, repoName=core, stars=758, forks=453, issues=820}","dotCMS is now a CVE Numbering Authority (CNA) assigning CVE IDs for @dotCMS product services + its open-source core located at https://t.co/zzTFHLFIPF    
+ 
+https://t.co/Ake8VsJ8u9 
+ 
+#CVE #CNA #Vulnerability #VulnerabilityManagement #InfoSecurity #Cybersecurity @CVEnew https://t.co/Yt9Nz3rQ1d"
+357,65508da3a86bf372d4391eb2,_SaxX_,2023-01-03T21:33:24.000Z,1610388885388886016,"{cloneDir=./data/WP-Vulnerabilities-Exploits, ownerName=0xd3vil, repoName=WP-Vulnerabilities-Exploits, stars=113, forks=33, issues=1}","Interesting collection of #Wordpress exploits and #CVE whenever you're conducting any #pentest or #redteam engagements
+
+https://t.co/g5ZXYr9rYo"
+358,65508da7a86bf372d4391eb3,MarcelBilal,2022-12-31T16:31:16.000Z,1609225688229318661,"{stars=1, forks=0, issues=0, cloneDir=./data/Citrix_ADC_Gateway_Check, ownerName=ipcis, repoName=Citrix_ADC_Gateway_Check}","I wrote a small script to determine the Citrix adc/gateway version. 
+https://t.co/aoF2OFtgfM
+#CVE-2020-8194 #CVE-2020-8193 #CVE-2020-8195 #CVE-2020-8196
+Credits to: @foxit 
+@CitrixCE @heisec @BSI_Bund https://t.co/FXBucWC2Wa"
+359,65508daaa86bf372d4391eb4,hack_git,2022-12-26T09:12:09.000Z,1607303238813995008,"{forks=22, issues=1, cloneDir=./data/CVE-2022-2602, ownerName=LukeGix, repoName=CVE-2022-2602, stars=89}","CVE-2022-2602
+This repository contains exploits for CVE-2022-2602. There are two versions of it:
+
+Exploit using userfaultfd technique.
+Exploit using inode locking technique.
+
+https://t.co/t0hHghY6Il
+
+#cve https://t.co/FIGN2thoDf https://t.co/yxZF2Is7jx"
+360,65508dafa86bf372d4391eb5,hack_git,2022-12-22T11:14:15.000Z,1605884417590939649,"{cloneDir=./data/CVE-2022-2602-Kernel-Exploit, ownerName=kiks7, repoName=CVE-2022-2602-Kernel-Exploit, stars=86, forks=28, issues=0}","CVE-2022-2602
+PoC Kernel Privilege Escalation Linux
+
+https://t.co/9uZSZ57khO
+
+#cve https://t.co/S2YvNAUfQr https://t.co/AM2EW8T3Gz"
+361,65508db2a86bf372d4391eb6,hack_git,2022-12-22T11:14:10.000Z,1605884394413105153,"{forks=0, issues=0, cloneDir=./data/CVE-2022-44870, ownerName=Cedric1314, repoName=CVE-2022-44870, stars=2}","CVE-2022-48870
+
+maccms admin+ xss attacks
+
+https://t.co/77YzgzY36U
+
+#cve https://t.co/KwtpgTUOL7 https://t.co/GvLYJjCn9P"
+362,65508db4a86bf372d4391eb7,hack_git,2022-12-22T09:12:11.000Z,1605853697229062144,"{cloneDir=./data/docker-cve-2022-39253-poc, ownerName=ssst0n3, repoName=docker-cve-2022-39253-poc, stars=9, forks=4, issues=0}","CVE-2022-39253
+
+Docker host file read
+
+https://t.co/rqdlwM8jYU
+
+#cve #poc https://t.co/ymLBURRiNZ https://t.co/woSAcldiav"
+363,65508db7a86bf372d4391eb8,ckcsec,2022-12-21T09:39:17.000Z,1605498128160870400,"{cloneDir=./data/MacDirtyCowDemo, ownerName=zhuowei, repoName=MacDirtyCowDemo, stars=367, forks=32, issues=3}","CVE-2022-46689 PoC Exploit Released for macOS Privilege Escalation Vulnerability
+#cve #CVE-2022-46689
+https://t.co/XAWm4r4A83 https://t.co/avDeQyUnQ5"
+364,65508dbba86bf372d4391eb9,ksg93rd,2022-12-20T16:43:52.000Z,1605242589682204673,"{forks=17, issues=0, cloneDir=./data/0dayex-checker, ownerName=VNCERT-CC, repoName=0dayex-checker, stars=68}","ProxyNotShell
+
+CVE-2022-41040 and CVE-2022-41082
+
+DOC: https://t.co/yV67u9P36b
+POC: https://t.co/Y2qh0BdULg
+
+#owa #cve #ProxyNotShell"
+365,65508dbea86bf372d4391eba,hack_git,2022-12-17T12:15:06.000Z,1604087790047830018,"{stars=4, forks=2, issues=0, cloneDir=./data/CVE-2003-0358, ownerName=snowcra5h, repoName=CVE-2003-0358}","CVE-2003-0358
+Buffer overflow in (1) nethack 3.4.0 and earlier, and (2) falconseye 1.9.3 and earlier, which is based on nethack, allows local users to gain privileges &gt; via a long -s command line option.
+
+https://t.co/B3DMuNpZnb
+
+#cve https://t.co/0YINZIjo7Y https://t.co/mOT09cXJS3"
+366,65508dc1a86bf372d4391ebb,hack_git,2022-12-16T13:17:05.000Z,1603741002400931840,"{ownerName=hacksysteam, repoName=CVE-2022-28672, stars=114, forks=26, issues=1, cloneDir=./data/CVE-2022-28672}","CVE-2022-28672
+
+This bug was Use after Free caused by improper handling of javascript object memory references.
+https://t.co/91tU6Clyyo
+
+Use after Free - RCE Exploit: https://t.co/wKOpXyaQ0W
+
+#cve https://t.co/RiCdEAfWQg https://t.co/oshWzu4Tol"
+367,65508dc4a86bf372d4391ebc,hack_git,2022-12-16T13:16:09.000Z,1603740764885876736,"{repoName=CVE-2022-45451, stars=18, forks=7, issues=0, cloneDir=./data/CVE-2022-45451, ownerName=alfarom256}","CVE-2022-45451
+
+PoC for CVE-2022-45451 Acronis Arbitrary File Read
+
+https://t.co/rjC7GODw09
+
+#cve https://t.co/TiQTuF4GhI https://t.co/qM4Df5VvgD"
+368,65508dd0a86bf372d4391ebd,hack_git,2022-12-13T09:12:04.000Z,1602592178076876803,"{repoName=CVE-2022-39066, stars=12, forks=2, issues=0, cloneDir=./data/CVE-2022-39066, ownerName=v0lp3}","CVE-2022-39066
+
+SQL Injection Vulnerability in ZTE MF286R
+
+https://t.co/L0i1yacu45
+
+#cve https://t.co/PicwyuJ7JE https://t.co/f2bx8OA0Bu"
+369,65508ddaa86bf372d4391ebe,sirifu4k1,2022-12-11T14:55:21.000Z,1601953790126456832,"{ownerName=yuriisanin, repoName=CVE-2022-45025, stars=89, forks=19, issues=0, cloneDir=./data/CVE-2022-45025}","CVE-2022-45025: [PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)
+#CVE  https://t.co/NwSgzYuoWi"
+370,65508de2a86bf372d4391ebf,sirifu4k1,2022-12-07T16:08:32.000Z,1600522655618433024,"{stars=21, forks=10, issues=1, cloneDir=./data/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell, ownerName=PurpleWaveIO, repoName=CVE-2022-25765-pdfkit-Exploit-Reverse-Shell}",CVE-2022-25765-pdfkit-Exploit-Reverse-Shell: pdfkit &lt;0.8.6 command injection shell. The package pdfkit from 0.0.0 are #vulnerable to Command Injection where the URL is not properly sanitized. (Tested on ver 0.8.6) #CVE  https://t.co/uKmjo5w7ZC
+371,65508de8a86bf372d4391ec0,TheHackForce,2022-12-06T20:27:49.000Z,1600225521555472384,"{repoName=PDFKitExploit, stars=2, forks=1, issues=0, cloneDir=./data/PDFKitExploit, ownerName=Atsukoro1}","CVE-2022-25765
+
+pdfkit URL Command Injection
+
+https://t.co/1DjswE5cuU
+
+A Shell exploit: https://t.co/HrSwQ2vv0t
+
+#cve
+
+💻Comunidad de Hacking y CiberSeguridad 💻
+
+📱Todos lo que aquí encuentras lo puedes💿💾🕹📷📡
+
+🔋Compartir
+🗓Estudiar 
+‼️Debatir"
+372,65508deba86bf372d4391ec1,hack_git,2022-12-06T11:14:11.000Z,1600086193596678146,"{stars=10, forks=1, issues=0, cloneDir=./data/CVE-2022-26265, ownerName=Inplex-sys, repoName=CVE-2022-26265}","CVE-2022-26265
+
+Contao CMS v.1.5.0 - RCE
+
+https://t.co/8vLmsya43D
+
+#cve https://t.co/bBC14H3W6q https://t.co/seOFu4ycHi"
+373,65508deea86bf372d4391ec2,ptracesecurity,2022-12-05T21:00:32.000Z,1599871367247273985,"{issues=0, cloneDir=./data/CVE-2022-21661, ownerName=APTIRAN, repoName=CVE-2022-21661, stars=98, forks=24}",The first poc video presenting the sql injection test from ( WordPress Core 5.8.2-'WP_Query' / CVE-2022-21661) https://t.co/X4kNwqR4v4 #Pentesting #WebSecurity #CVE #Infosec https://t.co/kswr0sXBVv
+374,65508df1a86bf372d4391ec3,TheHackForce,2022-12-05T20:09:11.000Z,1599858444432859137,"{cloneDir=./data/CVE-2022-2650, ownerName=StevenAmador, repoName=CVE-2022-2650, stars=3, forks=0, issues=0}","CVE-2022-2650
+
+Fuerza bruta en la aplicación de entrenamiento WGER v2.0
+
+https://t.co/IY3N8nfXyz
+
+#CVE"
+375,65508df5a86bf372d4391ec4,sirifu4k1,2022-12-05T02:32:58.000Z,1599592636234354688,"{repoName=SysmonEoP, stars=182, forks=31, issues=1, cloneDir=./data/SysmonEoP, ownerName=Wh04m1001}","Proof of Concept for arbitrary file delete/write in Sysmon (CVE-2022-41120/CVE-2022-XXXXX)
+#CVE  https://t.co/n0HZjVTDMd"
+376,65508dfca86bf372d4391ec5,seguridadyredes,2022-12-04T13:50:02.000Z,1599400638395207680,"{cloneDir=./data/cvedata, ownerName=clearbluejar, repoName=cvedata, stars=3, forks=0, issues=4}","#cvedata
+
+A collection of #CVE and related data. This #python package is caught somewhere between a data collection tool and a #CVE data API. Much more the former than the latter.
+
+https://t.co/puOMJ7quVW"
+377,65508e09a86bf372d4391ec6,hack_git,2022-11-28T10:13:07.000Z,1597171722683285505,"{cloneDir=./data/CVE-2022-22971, ownerName=tchize, repoName=CVE-2022-22971, stars=1, forks=0, issues=0}","CVE-2022-22971
+
+Spring Framework DoS with STOMP over WebSocket
+
+https://t.co/jjRDKRO6nE
+
+#cve https://t.co/eZ5JqiBydP https://t.co/9FO5AyBqMg"
+378,65508e1da86bf372d4391ec7,hack_git,2022-11-28T10:13:04.000Z,1597171710834446336,"{ownerName=bob11vrdp, repoName=CVE-2022-39425, stars=3, forks=1, issues=0, cloneDir=./data/CVE-2022-39425}","CVE-2022-39425
+
+Vulnerability in Oracle VM VirtualBox &lt;6.1.40 (Core)
+
+https://t.co/w5Nuu80oZo
+
+#cve #poc https://t.co/h13XPlKHUr https://t.co/4kwA60oyby"
+379,65508e23a86bf372d4391ec8,hack_git,2022-11-24T12:11:00.000Z,1595751839852544000,"{cloneDir=./data/GSSC-CVE-2022-41923, ownerName=grails, repoName=GSSC-CVE-2022-41923, stars=6, forks=0, issues=0}","CVE-2022-41923
+
+Workaround for CVE-2022-41923: Privilege Management Vulnerability
+
+https://t.co/VdYbDznmkv
+
+#cve
+
+https://t.co/4NHba3gV1X https://t.co/Mii0Okz8c3"
+380,65508e26a86bf372d4391ec9,sagaryadav8742,2022-11-23T00:32:26.000Z,1595213648888496130,"{issues=0, cloneDir=./data/CVE-2022-40127, ownerName=Mr-xn, repoName=CVE-2022-40127, stars=39, forks=6}","#CVE-2022-40127 : Apache Airflow &lt; 2.4.0 DAG example_bash_operator Remote Code Execution.
+
+CHeck PoC :- 
+https://t.co/4IS3t6Fz0r
+
+#RCE #bugbounty"
+381,65508e2aa86bf372d4391eca,5tuxnet,2022-11-22T03:59:05.000Z,1594903268635070464,"{issues=0, cloneDir=./data/mi-x, ownerName=Rezilion, repoName=mi-x, stars=140, forks=11}","#Cybersecurity firm @Rezilion_ open-sourced a tool named MI-X (Am I Exploitable?) that allows researchers and developers to know if their #containers and hosts are impacted by specific, high-profile #vulnerabilities (#CVE).
+https://t.co/eMm93EjJOq"
+382,65508e30a86bf372d4391ecb,BreakTheSec,2022-11-19T02:32:09.000Z,1593794227867045888,"{forks=88, issues=3, cloneDir=./data/ProxyNotShell-PoC, ownerName=testanull, repoName=ProxyNotShell-PoC, stars=406}","Microsoft Exchange Exploit Chain:
+
+Working PoC for CVE-2022-41040 and CVE-2022-41082 (A.K.A ProxyNotShell)
+
+https://t.co/Vd3RlrxkHb
+
+#infosec #exploits #cve #vulnerability 
+via @testanull"
+383,65508e34a86bf372d4391ecc,hack_git,2022-11-13T12:11:15.000Z,1591765633272012800,"{cloneDir=./data/nse-exchange, ownerName=Diverto, repoName=nse-exchange, stars=80, forks=23, issues=1}","nse-exchange
+ Nmap NSE scripts to check against exchange vulnerability (CVE-2022-44228). NSE scripts check most popular exposed services on the Internet. It is basic script which checks if virtual patching works.
+ https://t.co/DpsJaZLysk
+
+#cve #nmap
+
+https://t.co/UFb90xrHJc https://t.co/1uhQ7MTx1d"
+384,65508e37a86bf372d4391ecd,hack_git,2022-11-13T08:10:50.000Z,1591705133586546690,"{repoName=cve-2022-31898, stars=16, forks=5, issues=0, cloneDir=./data/cve-2022-31898, ownerName=gigaryte}","cve-2022-31898
+
+Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215.
+ https://t.co/ha09OGBcXk
+
+#cve #poc
+
+https://t.co/gCzFxv1Wav https://t.co/4r8m2WQgJq"
+385,65508e3da86bf372d4391ece,OSINT_info,2022-11-10T08:12:06.000Z,1590618287792160768,"{cloneDir=./data/CVE-2022-3699, ownerName=alfarom256, repoName=CVE-2022-3699, stars=164, forks=42, issues=0}","CVE-2022-3699
+ Incorrect access control for the Lenovo Diagnostics Driver allows a low-privileged user the ability to issue device IOCTLs to perform arbitrary physical/virtual memory read/write.
+ https://t.co/N4IUx9aLUy
+
+#cve
+
+https://t.co/VLYIQq46JL https://t.co/IsOiM3WzF6"
+386,65508e41a86bf372d4391ecf,hack_git,2022-11-09T08:10:40.000Z,1590255537551294464,"{repoName=CVE-2021-43657, stars=2, forks=0, issues=0, cloneDir=./data/CVE-2021-43657, ownerName=c0n5n3d}","CVE-2021-43657
+
+This is a reference/POC for CVE-2021-43657
+
+This vulnerability was found when i was playing with the open source software which is responsible for Employee Task Management System.
+
+https://t.co/JBfe0OL5jp
+
+#cve
+
+https://t.co/DYTdrLmDIZ https://t.co/YqsGKjgu2i"
+387,65508e43a86bf372d4391ed0,benreardon,2022-11-08T23:14:38.000Z,1590120639154688002,"{ownerName=corelight, repoName=CVE-2022-3602, stars=4, forks=1, issues=0, cloneDir=./data/CVE-2022-3602}",Detection of vulnerable servers and exploit attempts against #OpenSSL punycode vulnerability #CVE-2022-3602. https://t.co/KqTxdFGP5e @corelight_inc
+388,65508e45a86bf372d4391ed1,ptracesecurity,2022-11-08T19:01:40.000Z,1590056978604326912,"{stars=37, forks=10, issues=0, cloneDir=./data/cve-2022-31692, ownerName=SpindleSec, repoName=cve-2022-31692}",A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692 https://t.co/JltdKCMt0M #Pentesting #CVE #Vulnerability #CyberSecurity #Infosec https://t.co/WeRrVVVaYX
+389,65508e50a86bf372d4391ed2,viehgroup,2022-11-08T13:07:54.000Z,1589967949812895748,"{issues=8, cloneDir=./data/scan4all, ownerName=hktalent, repoName=scan4all, stars=4289, forks=522}","https://t.co/wvqCnSwhLS
+Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning
+
+#nuclei #nmap #go #scanner #vulnerability #detection #cve #bugbounty #recon #infosec #viehgroup https://t.co/2oMpkleTUl"
+390,65508e53a86bf372d4391ed3,0x0SojalSec,2022-11-07T17:32:00.000Z,1589672026884960256,"{cloneDir=./data/CVE-2022-29464, ownerName=hakivvi, repoName=CVE-2022-29464, stars=358, forks=95, issues=0}","CVE-2022-29464 : Critical vulnerability on WSO2 discovered by @orange_8361
+https://t.co/8VOmWEnfMZ
+
+#CVE #CyberSec #infosecurity https://t.co/WbRFuFRyDG"
+391,65508e55a86bf372d4391ed4,hack_git,2022-11-07T08:10:19.000Z,1589530675878797317,"{forks=2, issues=0, cloneDir=./data/CVE-2022-2586, ownerName=sniper404ghostxploit, repoName=CVE-2022-2586, stars=3}","CVE-2022-2586
+ gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread
+
+https://t.co/uvzbioCYWL
+
+#cve
+
+https://t.co/X4Fqr0m1qi https://t.co/OKMUMKjWzd"
+392,65508e58a86bf372d4391ed5,hack_git,2022-11-07T08:10:07.000Z,1589530622317535234,"{issues=0, cloneDir=./data/CVE-2022-43144-Stored-XSS, ownerName=mudassiruddin, repoName=CVE-2022-43144-Stored-XSS, stars=5, forks=1}","CVE-2022-43144
+
+XSS vulnerability in Canteen Management System v.1.0
+
+https://t.co/FadA1F8hsj
+
+#cve
+
+https://t.co/7y82Pd2Cte https://t.co/o7HylbhKgq"
+393,65508e5fa86bf372d4391ed6,hack_git,2022-11-06T16:10:48.000Z,1589289204739182594,"{repoName=cve-2022-42889-jmeter, stars=8, forks=1, issues=0, cloneDir=./data/cve-2022-42889-jmeter, ownerName=QAInsights}","CVE 2022-42889
+
+This script is for removing the older version of Apache Commons Text 1.9 and replaces it with the newer version (1.10.0) in JMETER_HOME/lib folder.
+ https://t.co/kEnzX0soHk
+
+#cve
+
+https://t.co/7tnJpY4TnY https://t.co/GRtxjIzorB"
+394,65508e63a86bf372d4391ed7,0xc7m,2022-11-03T19:04:10.000Z,1588245668942204928,"{forks=71, issues=4, cloneDir=./data/CVE-2022-33679, ownerName=Bdenneu, repoName=CVE-2022-33679, stars=386}","#CVE-2022-33679 Windows Kerberos Elevation of Privilege
+
+https://t.co/BWvlzw7MjW
+
+#github #exploit #infosec #redteam #POC"
+395,65508e71a86bf372d4391ed8,t31m0,2022-11-01T19:54:22.000Z,1587533529088512002,"{repoName=OpenSSL-2022, stars=537, forks=115, issues=0, cloneDir=./data/OpenSSL-2022, ownerName=NCSC-NL}","#CVE-2022-3602 #OpenSSL3 
+https://t.co/9Wb3sW7t8z"
+396,65508e75a86bf372d4391ed9,hack_git,2022-11-01T12:11:33.000Z,1587417056533676035,"{cloneDir=./data/CVE-2022-40146_Exploit_Jar, ownerName=cckuailong, repoName=CVE-2022-40146_Exploit_Jar, stars=29, forks=8, issues=0}","CVE-2022-40146
+
+Apache Batik SSRF to RCE Jar Exploit.
+ https://t.co/VUX7F0hcoE
+
+Details: https://t.co/TP7SOeLtMJ
+
+#cve #exploit
+
+YouTube
+Remote Code Execution on Apache Batik
+#Apache #ZeroDayInitiative #Exploit This video demonstrates a remote code exe… https://t.co/CMoGDRa9mt https://t.co/Wv71OjHNG4"
+397,65508e78a86bf372d4391eda,hack_git,2022-10-28T16:10:20.000Z,1586027595761582087,"{issues=0, cloneDir=./data/CVE-2022-40684-metasploit-scanner, ownerName=TaroballzChen, repoName=CVE-2022-40684-metasploit-scanner, stars=12, forks=2}","CVE-2022-40684 Metasploit Scanner
+ An authentication bypass using an alternate path or channel in Fortinet product
+
+https://t.co/vNrQGRDRgx
+
+#cve
+
+https://t.co/nW9rJg6oZg https://t.co/E9RaHvLlUm"
+398,65508e7ba86bf372d4391edb,johntheMAT,2022-10-28T13:17:56.000Z,1585984210992439298,"{ownerName=numencyber, repoName=Vulnerability_PoC, stars=312, forks=81, issues=5, cloneDir=./data/Vulnerability_PoC}",GitHub - numencyber/VulnerabilityPoC #CVE-2022–34718 #vuln #poc https://t.co/x6l8omORYL
+399,65508e80a86bf372d4391edc,Nihilisme10,2022-10-25T08:56:14.000Z,1584831186207182849,"{ownerName=silentsignal, repoName=burp-text4shell, stars=190, forks=23, issues=0, cloneDir=./data/burp-text4shell}","My new fav tweet:
+
+burp-text4shell: Text4Shell scanner for Burp Suite via CVE-2022-42889 #bugbounty #infosec #hacktools #cybersecurity #pentesting #burp #CVE https://t.co/BNxahTsGhu
+
+— siri@fu4k1 (@sirifu4k1) Oct 25, 2022
+
+ burp-text4shell: Text4Shell scanner for Burp Suite via…"
+400,65508e86a86bf372d4391edd,mrnfrancesco,2022-10-24T19:30:45.000Z,1584628479492034562,"{ownerName=mrnfrancesco, repoName=GreedyForSQLi, stars=11, forks=2, issues=0, cloneDir=./data/GreedyForSQLi}","After presenting it at #ComeToCode and #LinuxDay, all the details on how we found 71 SQL Injection on 13 #Wordpress plugins is now open source!
+
+GitHub repository: https://t.co/gpU83qixr3
+
+#opensource #sqlinjection #sqli #cve #codereview #semgrep #cybersecurity #vulnerability https://t.co/Lb39HkzacE"
+401,65508e89a86bf372d4391ede,AkshayIthape02,2022-10-23T12:25:42.000Z,1584159126623379456,"{cloneDir=./data/CVE-2022-42889-POC, ownerName=akshayithape-devops, repoName=CVE-2022-42889-POC, stars=6, forks=2, issues=0}","Proof of Concept for the Apache commons-text vulnerability CVE-2022-42889 |  text4shell
+
+YouTube Link : https://t.co/bQJgwojyB1
+
+Github Link : https://t.co/3fyloFDOfG
+
+#Text4Shell #vulnerability #apache #java #cve https://t.co/DKnkAcHwVw"
+402,65508e8ca86bf372d4391edf,hack_git,2022-10-23T08:10:26.000Z,1584094886776557568,"{stars=2, forks=0, issues=0, cloneDir=./data/CVE-2022-36663-PoC, ownerName=aqeisi, repoName=CVE-2022-36663-PoC}","CVE-2022-36663-PoC
+ Internal network scanner through Gluu IAM blind ssrf
+
+Gluu IAM is vulnerable to blind SSRF which can be exploited to scan the internal network for open ports depending on response times.
+
+https://t.co/nORKveeeEL
+
+#cve #poc
+
+https://t.co/dpUMlPpxNO https://t.co/agEOnuxlt8"
+403,65508e8fa86bf372d4391ee0,hack_git,2022-10-23T08:10:24.000Z,1584094876160839681,"{stars=13, forks=4, issues=0, cloneDir=./data/CVE-2022-39197-RCE, ownerName=TheCryingGame, repoName=CVE-2022-39197-RCE}","CVE-2022-39197
+ CobaltStrike &lt;= 4.7.1 RCE
+
+https://t.co/Y4HgAt9AEN
+
+#cve
+
+https://t.co/geoFbiQOtn https://t.co/ug76dWaA61"
+404,65508e94a86bf372d4391ee1,OSINT_info,2022-10-21T08:16:08.000Z,1583371543366737921,"{forks=14, issues=0, cloneDir=./data/cve-2022-42889, ownerName=ClickCyber, repoName=cve-2022-42889, stars=38}","cve-2022-42889
+
+Text4Shell affects Apache Commons Text versions 1.5 through 1.9. It has been patched as of Commons Text version 1.10.
+
+https://t.co/7s2IrFQY8W
+
+#cve
+
+https://t.co/XSxRKZ5T4v https://t.co/ScdexdEInl"
+405,65508e98a86bf372d4391ee2,hack_git,2022-10-21T08:11:04.000Z,1583370270865526784,"{ownerName=lus33rr, repoName=CVE-2022-27414, stars=4, forks=3, issues=0, cloneDir=./data/CVE-2022-27414}","CVE-2022-27414
+
+Exploit of College Website v1.0 CMS - SQL injection
+
+https://t.co/HDXCY2lGoi
+
+#cve
+
+https://t.co/RDlXFAX15w https://t.co/9rQFLhOWjK"
+406,65508ea0a86bf372d4391ee3,0xor0ne,2022-10-20T11:15:02.000Z,1583054176535183361,"{cloneDir=./data/Kernelhub, ownerName=Ascotbe, repoName=Kernelhub, stars=2711, forks=668, issues=0}","Collection of Windows kernel privilege escalation vulnerabilities by @asc0t6e 
+
+https://t.co/u8S1g0lsxG 
+
+#windows #kernel #privesc #infosec #cybersecurity #exploit #vulnerability #cve https://t.co/Wad4UPSCal"
+407,65508ea2a86bf372d4391ee4,securekomodo,2022-10-19T20:32:36.000Z,1582832105423192064,"{ownerName=securekomodo, repoName=text4shell-scan, stars=49, forks=13, issues=1, cloneDir=./data/text4shell-scan}","I modified fullhunt's old log4j scanner to create a fully automated, python-based vuln scanner to find #Text4Shell RCE #CVE-2022-42889 with WAF bypasses included  
+https://t.co/IhfOAqEJp7"
+408,65508ea6a86bf372d4391ee5,hualkanasec,2022-10-19T15:07:14.000Z,1582750223503609856,"{stars=33, forks=16, issues=0, cloneDir=./data/CVE-2022-42889-PoC, ownerName=SeanWrightSec, repoName=CVE-2022-42889-PoC}","#ATENCION : Nueva Vulnerabilidad #Crítica en Apache... (2/2)
+.
+.
+.
+Fuente:
+- https://t.co/nJMwg1QbjW
+- https://t.co/hdsdkgz1UC
+
+#cve #Crítico #Apache #apachecommonstext #commonstext #vulnerability #vulnerabilidad #ciberseguridad #Cybersecurity  #HualkanaSecurity https://t.co/LGSZcjVYg5"
+409,65508eaaa86bf372d4391ee6,milanshiftsec,2022-10-19T13:48:38.000Z,1582730445006913536,"{cloneDir=./data/CVE-2022-42889-text4shell, ownerName=kljunowsky, repoName=CVE-2022-42889-text4shell, stars=45, forks=8, issues=0}","🔥 Introducing new #log4shell - #text4shell 🔥
+
+#CVE-2022-42889 - Apache Commons Text Remote Code Execution (#RCE)
+
+Proof of concept(#POC):
+https://t.co/HuILubvm57
+
+#security #apache #commons #bugbounty #bugbountytips #exploit #penetrationtesting #exploit"
+410,65508eb3a86bf372d4391ee7,0xc7m,2022-10-19T08:25:55.000Z,1582649229691916289,"{stars=69, forks=16, issues=0, cloneDir=./data/CVE-2022-41852, ownerName=Warxim, repoName=CVE-2022-41852}","Remote Code Execution in Apache Commons JXPath Library (#CVE-2022-41852) 
+#POC #github #infosec #redteam 
+https://t.co/EOrBPae8kr https://t.co/oovXVznHLH"
+411,65508eb6a86bf372d4391ee8,hack_git,2022-10-19T08:10:44.000Z,1582645410686205952,"{stars=28, forks=10, issues=0, cloneDir=./data/CVE-2022-27502, ownerName=alirezac0, repoName=CVE-2022-27502}","CVE-2022-27502
+
+RealVNC server up to 6.9.0 DLL Hijacking Exploit
+
+https://t.co/YXyaESzBHK
+
+#cve
+
+https://t.co/GCwu6e818v https://t.co/s4YdeWTaQU"
+412,65508eb9a86bf372d4391ee9,hack_git,2022-10-19T08:10:42.000Z,1582645402687655936,"{repoName=cve-2022-42889-text4shell-docker, stars=72, forks=26, issues=3, cloneDir=./data/cve-2022-42889-text4shell-docker, ownerName=karthikuj}","CVE-2022-42889
+
+Dockerized POC for Text4Shell
+
+https://t.co/HRrVc1FsW5
+
+#cve
+
+https://t.co/a9hRd8UYBl https://t.co/c9qc3SCezq"
+413,65508ebda86bf372d4391eea,sirifu4k1,2022-10-19T01:15:10.000Z,1582540828953567232,"{cloneDir=./data/CVE-2022-3368, ownerName=Wh04m1001, repoName=CVE-2022-3368, stars=30, forks=12, issues=0}","CVE-2022-3368 PoC for arbitrary file move vulnerability in Software Update component of Avira Security
+#cve #infosec #hacktools #cybersecurity #pentesting  https://t.co/ycPRtKi6QN"
+414,65508ec5a86bf372d4391eeb,hack_git,2022-10-18T07:10:33.000Z,1582267874533847042,"{issues=0, cloneDir=./data/CVE-2022-39197, ownerName=its-arun, repoName=CVE-2022-39197, stars=355, forks=82}","CVE-2022-39197 RCE POC
+ https://t.co/t3N6dF5yRL
+
+#cve #poc
+
+https://t.co/1g9y0h5PLi https://t.co/gfUTaGY20P"
+415,65508ec7a86bf372d4391eec,ckcsec,2022-10-17T16:06:07.000Z,1582040266231672832,"{issues=0, cloneDir=./data/CVE-2022-40684, ownerName=horizon3ai, repoName=CVE-2022-40684, stars=324, forks=99}","CVE-2022-40684
+title=""FortiProxy""
+
+https://t.co/4qAlx212a3
+
+#cve https://t.co/ttGrh2wcvS"
+416,65508ecaa86bf372d4391eed,hack_git,2022-10-17T11:10:43.000Z,1581965927641649152,"{cloneDir=./data/cve-2022-23131, ownerName=Mr-xn, repoName=cve-2022-23131, stars=147, forks=48, issues=0}","CVE-2022-23131
+
+Zabbix Unsafe Session Storage.
+ https://t.co/vfuZsdoHl1
+
+#cve #poc
+
+YouTube
+Zabbix Unsafe Session Storage - CVE-2022-23131
+
+https://t.co/U5iHECg5i9 https://t.co/FuXVHaMNCF"
+417,65508ecca86bf372d4391eee,sirifu4k1,2022-10-16T08:34:04.000Z,1581564119710257154,"{stars=3, forks=0, issues=0, cloneDir=./data/cve-2022-37298, ownerName=dbyio, repoName=cve-2022-37298}",CVE-2022-37298 Shinken Monitoring POC #CVE  https://t.co/CdWhAWJQDW
+418,65508ecfa86bf372d4391eef,hack_git,2022-10-16T07:10:47.000Z,1581543159997566977,"{forks=3, issues=0, cloneDir=./data/CVE-RCE, ownerName=Awei507, repoName=CVE-RCE, stars=3}","CVE-2021-46422
+
+Telesquare SDT-CW3B1 - OS command injection vulnerability
+
+https://t.co/9oOGg7umyR
+
+#cve
+
+https://t.co/JMLsK8oZSi https://t.co/Oya1lWfdIq"
+419,65508ed5a86bf372d4391ef0,hack_git,2022-10-14T12:10:20.000Z,1580893769892651008,"{repoName=CVE-2021-45067, stars=22, forks=9, issues=0, cloneDir=./data/CVE-2021-45067, ownerName=hacksysteam}","CVE-2021-45067
+
+This bug was Out of Bounds Read caused by treating ANSI string as Unicode which can be exploited to leak sensitive information from the sandboxed adobe reader process.
+
+https://t.co/FLIayErD7O
+
+#cve
+
+https://t.co/Fuxn4WohSR https://t.co/OhJjXBibjc"
+420,65508edfa86bf372d4391ef1,milanshiftsec,2022-10-13T21:19:38.000Z,1580669614157025281,"{ownerName=kljunowsky, repoName=CVE-2022-40684-POC, stars=15, forks=2, issues=0, cloneDir=./data/CVE-2022-40684-POC}","#CVE-2022-40684 - Authentication bypass #Fortinet #FortiOS, #FortiProxy, and #FortiSwitchManager. Happy hunting!
+https://t.co/hNPietVWDa
+#BugBounty #bugbountytips"
+421,65508ee1a86bf372d4391ef2,ksg93rd,2022-10-12T14:49:11.000Z,1580208969007521793,"{cloneDir=./data/CVE-2022-2588, ownerName=Markakd, repoName=CVE-2022-2588, stars=456, forks=70, issues=6}","#linux #cve #lpe
+
+CVE-2022-2588 
+
+https://t.co/J7EC2bYA4g"
+422,65508ee3a86bf372d4391ef3,PhyloTan,2022-10-11T07:50:25.000Z,1579741192967041024,"{forks=1, issues=0, cloneDir=./data/CVE-2022-24999, ownerName=n8tz, repoName=CVE-2022-24999, stars=4}","If that's not done, Maybe it's time to update your node/express apps deps ! :)
+https://t.co/0GuWatB0xB
+#NodeJS #express #CVE #qs #StringBomb #prototype_poisoning"
+423,65508ee7a86bf372d4391ef4,hack_git,2022-10-10T20:10:34.000Z,1579565070605897728,"{cloneDir=./data/CVE-2022-41040-POC, ownerName=kljunowsky, repoName=CVE-2022-41040-POC, stars=89, forks=12, issues=2}","CVE-2022-41040-POC
+ Server Side Request Forgery (SSRF) in Microsoft Exchange Server
+
+https://t.co/i0r3uut8XB
+
+#cve
+
+https://t.co/f7zkGud0ba https://t.co/KJQOz3C6bx"
+424,65508eeaa86bf372d4391ef5,hack_git,2022-10-10T08:10:41.000Z,1579383906511466496,"{ownerName=CsEnox, repoName=CVE-2022-2992, stars=216, forks=38, issues=0, cloneDir=./data/CVE-2022-2992}","CVE-2022-2992
+ Authenticated Remote Command Execution in Gitlab via GitHub import.
+
+https://t.co/qqLTKgUA5D
+
+#cve
+
+https://t.co/T1GAD3pT5V https://t.co/LTj39WIJMj"
+425,65508ef0a86bf372d4391ef6,sirifu4k1,2022-10-09T09:41:04.000Z,1579044263874420736,"{cloneDir=./data/CVE-2022-34918, ownerName=veritas501, repoName=CVE-2022-34918, stars=214, forks=41, issues=1}","CVE-2022-34918 netfilter nf_tables 本地提权 POC , linux kernel through 5.18.9 allow local attacker to escalate privileges
+#CVE  https://t.co/FhrV0JxUrd"
+426,65508ef2a86bf372d4391ef7,0xrobiul,2022-10-09T08:17:47.000Z,1579023305331585025,"{repoName=FinEx, stars=2, forks=0, issues=0, cloneDir=./data/FinEx, ownerName=0xrobiul}","Publicly Available PoC Finder!
+
+https://t.co/2e9Cu39xot
+
+#CVE #0xRobiul https://t.co/Alo93znQxk"
+427,65508ef4a86bf372d4391ef8,tardcircus,2022-10-09T02:38:40.000Z,1578937965228609536,"{cloneDir=./data/CVE2016-6210, ownerName=Tardcircus, repoName=CVE2016-6210, stars=1, forks=0, issues=0}","For a THM room i wanted to try and enumerate ssh. Found an old script and brought it up to date so it will run. If anyone needs to enumerate openSsh 7.2p2 or older...
+https://t.co/Ha6MZMANgG
+#cve"
+428,65508ef6a86bf372d4391ef9,sirifu4k1,2022-10-08T15:32:27.000Z,1578770303567921152,"{forks=12, issues=0, cloneDir=./data/CVE-2022-35914-poc, ownerName=cosad3s, repoName=CVE-2022-35914-poc, stars=41}","CVE-2022-35914 POC 
+GLPI &lt;10.0.2 - PHP code injection
+#CVE  https://t.co/xA7dloishE"
+429,65508efda86bf372d4391efa,hack_git,2022-10-06T10:10:50.000Z,1577964590306328577,"{stars=16, forks=1, issues=0, cloneDir=./data/CVE-2022-30206, ownerName=Malwareman007, repoName=CVE-2022-30206}","CVE-2022-30206
+ This is the PoC for CVE-2022-30206.
+
+https://t.co/RdVEr5bJIJ
+
+#cve
+
+GitHub
+GitHub - Malwareman007/CVE-2022-30206: A POC of CVE-2022-30206
+A POC of CVE-2022-30206. Contribute to Malwareman007/CVE-2022-30206 development by creating an acco… https://t.co/3TD9umwpRk https://t.co/SzVyUky84W"
+430,65508f13a86bf372d4391efb,hack_git,2022-10-03T08:10:57.000Z,1576847257235857410,"{cloneDir=./data/PoC_CVEs, ownerName=tg12, repoName=PoC_CVEs, stars=154, forks=21, issues=0}","PoC_CVEs
+ An updated list of PoC's CVE's
+
+https://t.co/UlwwK72eii
+
+#cve
+
+https://t.co/cK4F9wFLwG https://t.co/leL17QaVXx"
+431,65508f1da86bf372d4391efc,SaninYurii,2022-09-30T12:10:05.000Z,1575820276473901056,"{repoName=CVE-2022-25260, stars=4, forks=3, issues=0, cloneDir=./data/CVE-2022-25260, ownerName=yuriisanin}","PoC/Exploit for CVE-2022-25260: pre-auth semi-blind SSRF in JetBrains Hub
+
+https://t.co/xB36gJVhoW
+
+#bughunting #jetbrains #jetbrainshub #exploit #cybersecurity #cve #exploit #SSRF"
+432,65508f21a86bf372d4391efd,milanshiftsec,2022-09-27T12:36:24.000Z,1574739732675940352,"{issues=0, cloneDir=./data/CVE-2022-36804-POC, ownerName=kljunowsky, repoName=CVE-2022-36804-POC, stars=6, forks=3}","https://t.co/c72DQ0dK9B translated to @trick3st workflow
+#cve #bugbountytips"
+433,65508f2ca86bf372d4391efe,PentestingN,2022-09-23T08:14:22.000Z,1573224239473348610,"{ownerName=burpheart, repoName=cve-2022-39197, stars=73, forks=17, issues=1, cloneDir=./data/cve-2022-39197}","CVE-2022-39197
+
+critical Cobalt Strike bug could lead to RCE attacks.
+
+https://t.co/qIrJIka7RP
+
+Details: https://t.co/lUYBe12STK
+
+#cve
+
+https://t.co/AaYlZn36I7 https://t.co/aJcChotr86"
+434,65508f32a86bf372d4391eff,hack_git,2022-09-22T09:10:38.000Z,1572876012656168960,"{repoName=CVE-2022-38577-Processmaker, stars=2, forks=1, issues=0, cloneDir=./data/CVE-2022-38577-Processmaker, ownerName=sornram9254}","CVE-2022-38577
+
+ProcessMaker - User Profile Privilege Escalation
+
+https://t.co/rBAmDrGjoH
+
+#cve
+
+https://t.co/TL6X3NVl9F https://t.co/P3KFuhWSQo"
+435,65508f35a86bf372d4391f00,Vulnmachines,2022-09-22T08:46:45.000Z,1572870002927349760,"{cloneDir=./data/bitbucket-cve-2022-36804, ownerName=Vulnmachines, repoName=bitbucket-cve-2022-36804, stars=3, forks=1, issues=0}","Code Execution in Atlassian bitbucket Server and Data Center : #CVE-2022-36804
+
+#Dork #Shodan : http.html: ""Atlassian Bitbucket""
+Payload : https://t.co/dv9RSk2DMO
+
+Start your #pentesing journey with us.
+https://t.co/TKYo5pSSMB
+
+#infosec #cybersecurity #bugbounty #bugbountytips https://t.co/8iFWQSVhDA"
+436,65508f3ba86bf372d4391f01,devangsolankii,2022-09-20T09:20:50.000Z,1572153804073865217,"{cloneDir=./data/CVE-2022-36804-PoC-Exploit, ownerName=fed-speak, repoName=CVE-2022-36804-PoC-Exploit, stars=15, forks=10, issues=1}","CVE-2022-36804 BitBucket command injection vulnerability.
+
+Shodan query to find vulnerable instances:
+http.favicon.hash:667017222 http.title:Public
+
+PoC : https://t.co/fuzzaYVkel
+
+#bugbounty #CVE #poc #bugbountytips"
+437,65508f41a86bf372d4391f02,duk3fl33d,2022-09-18T06:19:14.000Z,1571383327520694274,"{cloneDir=./data/kubernetes-sec-alert, ownerName=mostafahussein, repoName=kubernetes-sec-alert, stars=7, forks=0, issues=46}","kubernetes-sec-alert helps you to stay up-to-date with the recent CVEs related to your kubernetes cluster. Notifications are delivered by native Github notifications, all you need is to subscribe to the repository.
+
+https://t.co/3aHIXSazzJ
+
+ #kubernetes #k8s #security #cve"
+438,65508f45a86bf372d4391f03,0xAbbarhSF,2022-09-16T07:45:55.000Z,1570680366784196609,"{cloneDir=./data/CVE-2021-25076, ownerName=0xAbbarhSF, repoName=CVE-2021-25076, stars=3, forks=1, issues=0}","https://t.co/nUGR8M3psV
+
+#wordpress #exploit #sqli #injection #cve #github"
+439,65508f47a86bf372d4391f04,0xAbbarhSF,2022-09-16T07:44:41.000Z,1570680055067705345,"{forks=0, issues=0, cloneDir=./data/CVE-2022-26134, ownerName=0xAbbarhSF, repoName=CVE-2022-26134, stars=1}","https://t.co/B1M0gGv0sE
+
+#CVE #cve2022 #exploit #vulnerability #webserver #shell #git #php"
+440,65508f4ca86bf372d4391f05,0xc7m,2022-09-15T07:36:06.000Z,1570315507450146816,"{forks=36, issues=0, cloneDir=./data/CVE-2022-37706-LPE-exploit, ownerName=MaherAzzouzi, repoName=CVE-2022-37706-LPE-exploit, stars=221}","Easy way to privilege escalation for #Linux .
+#CVE-2022-37706-#LPE-#exploit
+#POC #github #infosec 
+https://t.co/oT9nN0tdbH https://t.co/PTdZAh6rNA"
+441,65508f55a86bf372d4391f06,OSINT_info,2022-09-12T07:26:54.000Z,1569226028261806081,"{issues=0, cloneDir=./data/CVE-2022-20128, ownerName=irsl, repoName=CVE-2022-20128, stars=7, forks=3}","CVE-2022-20128
+
+Android Debug Bridge (adb) was vulnerable to directory traversal attacks that could have been mounted by rogue/compromised adb daemons during an adb pull operation.
+ https://t.co/oQyakyNBbP
+
+#cve
+
+https://t.co/jcTREDD36h https://t.co/zJR15kFake"
+442,65508f5ca86bf372d4391f07,hack_git,2022-09-12T07:10:53.000Z,1569221996205973504,"{ownerName=nidhi7598, repoName=packages_apps_Settings_AOSP_10_r33_CVE-2022-20360, stars=1, forks=1, issues=45, cloneDir=./data/packages_apps_Settings_AOSP_10_r33_CVE-2022-20360}","CVE-2022-20360
+
+Android setChecked LPE
+
+https://t.co/rc01VnFP1O
+
+#cve
+
+https://t.co/A6GC8VOEkn https://t.co/MJoe5PBMhA"
+443,65508f5ea86bf372d4391f08,resenhacyber,2022-09-12T05:02:06.000Z,1569189586173132806,"{issues=0, cloneDir=./data/CVE-2022-27925, ownerName=mohamedbenchikh, repoName=CVE-2022-27925, stars=56, forks=22}","https://t.co/siWul5JE1D
+
+#cve #zimbra #cybersecurity #bugbountytips #bugbounty #redteam"
+444,65508f60a86bf372d4391f09,NationalCyberS1,2022-09-11T09:30:30.000Z,1568894744285134848,"{ownerName=Puliczek, repoName=CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera, stars=321, forks=37, issues=0, cloneDir=./data/CVE-2022-0337-PoC-Google-Chrome-Microsoft-Edge-Opera}","CVE-2022-0337 System environment variables leak on Google Chrome, Microsoft Edge, and Opera!
+
+Reward: $10,000 from Google VRP
+
+Link: https://t.co/ORhlEg3M91
+
+#CVE #hacking #bugbountytips #informationsecurity #cybersecurity #infosec #cybersecuritytips #Ethicalhacking #Pentesting https://t.co/IF9SDnuDEG"
+445,65508f67a86bf372d4391f0a,hack_git,2022-09-10T15:10:39.000Z,1568617960029257732,"{ownerName=wisoffe, repoName=exploits-predict, stars=11, forks=4, issues=3, cloneDir=./data/exploits-predict}","exploits-predict
+ Predicting the probability of an exploit being released after a CVE is published (by Machine learning algorithm)
+
+https://t.co/jUUw0WwvMK
+
+#cve #exploit
+
+https://t.co/BBB6idj3wz https://t.co/0GlZQM1thg"
+446,65508f70a86bf372d4391f0b,hack_git,2022-09-10T15:10:36.000Z,1568617945244356609,"{issues=0, cloneDir=./data/PoC-ubuntutouch-pin-privesc, ownerName=filipkarc, repoName=PoC-ubuntutouch-pin-privesc, stars=5, forks=3}","CVE-2022-40297
+
+Privilage escalation in Ubuntu Touch 16.04 - by PIN Bruteforce.
+ https://t.co/ytrFdfZ7Vd
+
+#cve
+
+https://t.co/ph4G3jvSGP https://t.co/qhgyR2QlpV"
+447,65508f73a86bf372d4391f0c,OSINT_info,2022-09-10T10:18:31.000Z,1568544441182437376,"{cloneDir=./data/CVE-2022-22629, ownerName=parsdefense, repoName=CVE-2022-22629, stars=49, forks=8, issues=0}","CVE-2022-22629 Proof of concept
+ This post is about the poc for the WebGL bug that was patched in Safari 15.4 security updates.
+
+https://t.co/T1FtJ8JQsm
+
+#cve
+
+https://t.co/AtZSJUlU2N https://t.co/BEtp4vqZUt"
+448,65508f78a86bf372d4391f0d,hack_git,2022-09-09T08:10:33.000Z,1568149849991790593,"{ownerName=Trinadh465, repoName=packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126, stars=3, forks=2, issues=6, cloneDir=./data/packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126}","CVE-2022-20126
+
+https://t.co/CsyGUsk8vq
+
+#cve
+
+https://t.co/RW1OnGMlVE https://t.co/oNXDhr7cm7"
+449,65508f81a86bf372d4391f0e,hack_git,2022-09-07T17:12:23.000Z,1567561429678542851,"{issues=3, cloneDir=./data/noPac, ownerName=Ridter, repoName=noPac, stars=655, forks=113}","noPac
+ Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user
+
+https://t.co/tKvoT8Ks9a
+
+#cve #exploit
+
+https://t.co/r74O25DlEC https://t.co/kr5kNAAYzr"
+450,65508f85a86bf372d4391f0f,Vulnmachines,2022-09-06T09:05:58.000Z,1567076632841842688,"{cloneDir=./data/Zoho_CVE-2022-23779, ownerName=Vulnmachines, repoName=Zoho_CVE-2022-23779, stars=7, forks=5, issues=0}","Zoho Internal Hostname Disclosure Vulnerability : #CVE-2022-23779
+
+#Shodan : title:""ManageEngine Desktop Central 10""
+
+[PoC]: https://t.co/GvA08c0pDO
+
+#informationsecurity #bugbountytip #bugbounty #cybersecurity https://t.co/1bv08CaTCK"
+451,65508f87a86bf372d4391f10,hack_git,2022-09-02T08:10:44.000Z,1565613178658103299,"{issues=0, cloneDir=./data/CVE-2022-33174, ownerName=Henry4E36, repoName=CVE-2022-33174, stars=6, forks=2}","CVE-2022-33174
+
+Powertek PDU Identity Bypass.
+ https://t.co/NnsBpK6QGq
+
+#cve
+
+https://t.co/YWYIJYp9Qs https://t.co/JMqs1tEvzs"
